@@ -104,6 +104,8 @@ http://fl2.moveonjoy.com/WGN/index.m3u8
 http://fl2.moveonjoy.com/WWE/index.m3u8
 #EXTINF:-1 tvg-id="BET_EAST" group-title="USA Channels", BET EAST
 http://fl2.moveonjoy.com/BET_EAST/index.m3u8
+#EXTINF:-1 tvg-id="Travel_Channel" group-title="USA Channels", TRAVEL CHANNEL
+http://fl2.moveonjoy.com/Travel_Channel/index.m3u8
 
 
 #EXTINF:-1 tvg-id="SABC1.za" group-title="ZA Channels", SABC1
@@ -130,3 +132,15 @@ https://tvpass.org/live/AMCEast/hd/
 #EXTVLCOPT:http-origin=https://tvpass.org
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://tvpass.org/live/HistoryEast/hd/
+
+#EXTINF:-1 tvg-id="DISNEY_CHANNEL" tvg-name="DISNEY CHANNEL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10171_dark_360w_270h.png" group-title="USA Channels Alt.",DISNEY CHANNEL
+#EXTVLCOPT:http-referrer=https://tvpass.org/
+#EXTVLCOPT:http-origin=https://tvpass.org
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://tvpass.org/live/DisneyChannelEast/hd/
+
+#EXTINF:-1 tvg-id="NICKELODEON" tvg-name="Nickelodeon" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11006_dark_360w_270h.png" group-title="USA Channels Alt.",Nickelodeon
+#EXTVLCOPT:http-referrer=https://tvpass.org/
+#EXTVLCOPT:http-origin=https://tvpass.org
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://tvpass.org/live/NickelodeonEast/hd

@@ -134,10 +134,10 @@ https://tvpass.org/live/AMCEast/hd/
 https://tvpass.org/live/HistoryEast/hd/
 
 #EXTINF:-1 tvg-id="DISNEY_CHANNEL" tvg-name="DISNEY CHANNEL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10171_dark_360w_270h.png" group-title="USA Channels Alt.",DISNEY CHANNEL
-#EXTVLCOPT:http-referrer=https://tvpass.org/
-#EXTVLCOPT:http-origin=https://tvpass.org
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-referrer=https://thetvapp.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://tvpass.org/live/DisneyChannelEast/hd/
+https://v3.thetvapp.to/hls/DisneyChannelEast/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="NICKELODEON" tvg-name="Nickelodeon" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11006_dark_360w_270h.png" group-title="USA Channels Alt.",Nickelodeon
 #EXTVLCOPT:http-referrer=https://tvpass.org/

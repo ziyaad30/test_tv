@@ -23,7 +23,7 @@ jobs:
         run: pip install requests
 
       - name: Run epg grabber
-        run: cd moveonjoy && python moveonjoy-epg-grabber.py
+        run: test.py
 
       - name: Commit and push changes
         run: |

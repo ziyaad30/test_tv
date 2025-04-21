@@ -1,11 +1,20 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="ABC_EAST" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/11259/s10003_ll_h15_ac.png?w=200" group-title="USA Channels",ABC 25 Columbia
+http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
+#EXTINF:-1 tvg-id="BBC_AMERICA" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/18332/s18332_ll_h15_aa.png?w=200" group-title="USA Channels",BBC America
+http://fl2.moveonjoy.com/BBC_AMERICA/index.m3u8
+#EXTINF:-1 tvg-id="CMT" group-title="USA Channels",CMT
+http://fl3.moveonjoy.com/CMT/index.m3u8
+#EXTINF:-1 tvg-id="HALLMARK_CHANNEL" group-title="USA Channels",Hallmark Channel
+http://fl2.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
+
 #EXTINF:-1 tvg-id="AMC_NETWORK" group-title="USA Channels", AMC NETWORK
 http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="Animal_Planet" group-title="USA Channels", Animal Planet
 http://fl2.moveonjoy.com/Animal_Planet/index.m3u8
 #EXTINF:-1 tvg-id="BravoEast" group-title="USA Channels", BRAVO
 http://fl2.moveonjoy.com/BRAVO/index.m3u8
-#EXTINF:-1 tvg-id="CINEMAX_EAST" group-title="USA Channels", CINEMAX EAST
+#EXTINF:-1 tvg-id="CINEMAX_EAST" group-title="USA Channels", CINEMAX
 http://fl2.moveonjoy.com/CINEMAX_EAST/index.m3u8
 #EXTINF:-1 tvg-id="CINEMAX_MOREMAX" group-title="USA Channels", CINEMAX MOREMAX
 http://fl3.moveonjoy.com/CINEMAX_MOREMAX/index.m3u8
@@ -103,3 +112,9 @@ https://sabconeta.cdn.mangomolo.com/sabc1/smil:sabc1.stream.smil/master.m3u8
 https://sabctwota.cdn.mangomolo.com/sabc2/smil:sabc2.stream.smil/master.m3u8
 #EXTINF:-1 tvg-id="SABC3.za" group-title="ZA Channels", SABC2
 https://sabctreta.cdn.mangomolo.com/sabc3/smil:sabc3.stream.smil/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/a-and-e-us.png" group-title="USA Channels" tvg-id="A.E.US", A&E
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-referrer=https://thetvapp.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://v3.thetvapp.to/hls/AEEast/tracks-v1a1/mono.m3u8

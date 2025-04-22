@@ -3,34 +3,32 @@ name: moveonjoy-epg-grabber
 on:
   schedule:
     - cron: '0 */12 * * *'
+  workflow_dispatch:
 
 jobs:
-  build:
+  epg-grabber:
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0 
 
-      - name: checkout repo content
-        uses: actions/checkout@v2 # checkout the repository content to github runner
-
-      - name: setup python
+      - name: Set up Python
         uses: actions/setup-python@v4
         with:
-          python-version: '3.13' # install the python version needed
-          
-      - name: execute py script # run main.py
-        env:
-          SOME_SECRET: ${{ secrets.SOME_SECRET }}
-        run: python test.py
-          
-      - name: commit files
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run epg grabber
+        run: cd moveonjoy && python moveonjoy-epg-grabber.py
+
+      - name: Commit and push changes
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add -A
-          git diff-index --quiet HEAD || (git commit -a -m "updated logs" --allow-empty)
-          
-      - name: push changes
-        uses: ad-m/github-push-action@v0.6.0
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: main 
+          git config --global user.name "actions-user"
+          git config --global user.email "actions@github.com"
+          git add epgs/moveonjoy-epg.xml epgs/moveonjoy-epg.xml.gz
+          git diff --staged --quiet || git commit -m "Update epg"
+          git push --force

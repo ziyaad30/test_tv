@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://129.151.172.133/proxy/epg"
+#EXTM3U url-tvg="http://129.151.172.133/epg.xml"
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/a-and-e-us.png" group-title="USA CHANNELS" tvg-id="AETV.East", A&E
 http://192.168.1.81:4123/hls/v5/AEEast
@@ -10,148 +10,148 @@ http://192.168.1.81:4123/hls/fl1/ABC_EAST
 http://192.168.1.81:4123/hls/v3/AMCEast
 
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png" group-title="USA CHANNELS" tvg-id="AMCPLUS", AMC Stories
-http://192.168.1.81:4123/hls/fl5/AMC_NETWORK
+http://192.168.1.81:4123/hls/fl1/AMC_NETWORK
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/animal-planet-us.png" group-title="USA CHANNELS" tvg-id="AnimalPlanet.East", Animal Planet
-http://192.168.1.81:4123/hls/fl2/Animal_Planet
+http://192.168.1.81:4123/hls/fl1/Animal_Planet
 
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18332_dark_360w_270h.png" group-title="USA CHANNELS" tvg-id="BBCA.West", BBC AMERICA
-http://192.168.1.81:4123/hls/fl2/BBC_AMERICA
+http://192.168.1.81:4123/hls/fl1/BBC_AMERICA
 
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10051_dark_360w_270h.png" group-title="USA CHANNELS" tvg-id="BET.East", BET
-http://192.168.1.81:4123/hls/fl2/BET_EAST
+http://192.168.1.81:4123/hls/fl1/BET_EAST
 
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10057_dark_360w_270h.png" group-title="USA CHANNELS" tvg-id="Bravo.East", Bravo
-http://192.168.1.81:4123/hls/fl2/BRAVO
+http://192.168.1.81:4123/hls/fl1/BRAVO
 
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10098_dark_360w_270h.png" group-title="USA CHANNELS" tvg-id="WTSP", CBS (WTSP)
-http://192.168.1.81:4123/hls/fl2/CBSEAST
+http://192.168.1.81:4123/hls/fl1/CBSEAST
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-us.png" group-title="USA CHANNELS" tvg-id="Cinemax.East", Cinemax
-http://192.168.1.81:4123/hls/fl2/CINEMAX
+http://192.168.1.81:4123/hls/fl1/CINEMAX
 
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cinemax-moremax-us.png?raw=true" group-title="USA CHANNELS" tvg-id="MoreMax.East", Moremax
 http://192.168.1.81:4123/hls/v17/MoreMaxEast
 
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10149_dark_360w_270h.png" group-title="USA CHANNELS" tvg-id="ComedyCentral.East", Comedy Central
-http://192.168.1.81:4123/hls/fl3/Comedy_Central
+http://192.168.1.81:4123/hls/fl1/Comedy_Central
 
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/crime-and-investigation-us.png?raw=true" group-title="USA CHANNELS" tvg-id="Crime&amp;Investigation", Crime + Investigation
-http://192.168.1.81:4123/hls/fl3/Crime_and_Investigation_Network
+http://192.168.1.81:4123/hls/fl1/Crime_and_Investigation_Network
 
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/destination-america-us.png?raw=true" group-title="USA CHANNELS" tvg-id="DestinationAmerica.East", Destination America
-http://192.168.1.81:4123/hls/fl3/Destination_America
+http://192.168.1.81:4123/hls/fl1/Destination_America
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-channel-us.png" group-title="USA CHANNELS" tvg-id="DiscoveryChannel.East", Discovery Channel
-http://192.168.1.81:4123/hls/fl3/Discovery_Channel
+http://192.168.1.81:4123/hls/fl1/Discovery_Channel
 
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16618_dark_360w_270h.png" group-title="USA CHANNELS" tvg-id="DFC.East", Discovery Family
-http://192.168.1.81:4123/hls/fl2/DISCOVERY_FAMILY_CHANNEL
+http://192.168.1.81:4123/hls/fl1/DISCOVERY_FAMILY_CHANNEL
 
 #EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10989_h15_aa.png" group-title="USA CHANNELS" tvg-id="E.East", E!
-http://192.168.1.81:4123/hls/fl2/E_ENTERTAINMENT_TELEVISION
+http://192.168.1.81:4123/hls/fl1/E_ENTERTAINMENT_TELEVISION
 
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/discovery-science-us.png?raw=true" group-title="USA CHANNELS" tvg-id="Science.East", Discovery Science
 http://192.168.1.81:4123/hls/v5/Science
 
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10093_dark_360w_270h.png" group-title="USA CHANNELS" tvg-id="Freeform.West", Freeform (west)
-http://192.168.1.81:4123/hls/fl2/FREE_FORM
+http://192.168.1.81:4123/hls/fl1/FREE_FORM
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fxm-movie-channel-us.png" group-title="USA CHANNELS" tvg-id="FX.East", FX
-http://192.168.1.81:4123/hls/fl2/FX
+http://192.168.1.81:4123/hls/fl1/FX
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fxm-movie-channel-us.png" group-title="USA CHANNELS" tvg-id="FXMovie.East", FX Movie Channel
-http://192.168.1.81:4123/hls/fl2/FX_MOVIE
+http://192.168.1.81:4123/hls/fl1/FX_MOVIE
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fxx-us.png" group-title="USA CHANNELS" tvg-id="FXX.East", FXX
-http://192.168.1.81:4123/hls/fl2/FXX
+http://192.168.1.81:4123/hls/fl1/FXX
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/history-channel-us.png" group-title="USA CHANNELS" tvg-id="History.East", History Channel
 http://192.168.1.81:4123/hls/v18/HistoryEast
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-us.png" group-title="USA CHANNELS" tvg-id="HBO.East", HBO
-http://192.168.1.81:4123/hls/fl2/HBO
+http://192.168.1.81:4123/hls/fl1/HBO
 
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" group-title="USA CHANNELS" tvg-id="HBO2.East", HBO 2
-http://192.168.1.81:4123/hls/fl2/HBO_2
+http://192.168.1.81:4123/hls/fl1/HBO_2
 
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18429_dark_360w_270h.png" group-title="USA CHANNELS" tvg-id="HBOComedy.East", HBO Comedy
-http://192.168.1.81:4123/hls/fl2/HBO_COMEDY
+http://192.168.1.81:4123/hls/fl1/HBO_COMEDY
 
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16585_dark_360w_270h.png" group-title="USA CHANNELS" tvg-id="HBOFamily.East", HBO Family
-http://192.168.1.81:4123/hls/fl2/HBO_FAMILY
+http://192.168.1.81:4123/hls/fl1/HBO_FAMILY
 
 #EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s18431_h15_aa.png" group-title="USA CHANNELS" tvg-id="HBOZone.East", HBO Zone
-http://192.168.1.81:4123/hls/fl2/HBO_ZONE
+http://192.168.1.81:4123/hls/fl1/HBO_ZONE
 
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16615_dark_360w_270h.png" group-title="USA CHANNELS" tvg-id="InvestigationDiscovery.East", Investigation Discovery
-http://192.168.1.81:4123/hls/fl2/INVESTIGATION_DISCOVERY
+http://192.168.1.81:4123/hls/fl1/INVESTIGATION_DISCOVERY
 
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mgm-plus-us.png?raw=true" group-title="USA CHANNELS" tvg-id="MGM+.East", MGM+
-http://192.168.1.81:4123/hls/fl2/EPIX
+http://192.168.1.81:4123/hls/fl1/EPIX
 
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mgm-plus-hits-us.png?raw=true" group-title="USA CHANNELS" tvg-id="MGM+Hits.East", MGM+ Hits
-http://192.168.1.81:4123/hls/fl2/EPIX_HITS
+http://192.168.1.81:4123/hls/fl1/EPIX_HITS
 
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mtv-live-us.png?raw=true" group-title="USA CHANNELS" tvg-id="MTV.East", MTV
-http://192.168.1.81:4123/hls/fl2/MTV
+http://192.168.1.81:4123/hls/fl1/MTV
 
 #EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s24959_h15_ab.png" group-title="USA CHANNELS" tvg-id="NatGeo.East", Nat Geo
 http://192.168.1.81:4123/hls/v12/NationalGeographicEast
 
 #EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s67331_h15_ab.png" group-title="USA CHANNELS" tvg-id="NatGeoWild.East", Nat Geo Wild
-http://192.168.1.81:4123/hls/fl2/Nat_Geo_Wild
+http://192.168.1.81:4123/hls/fl1/Nat_Geo_Wild
 
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/oxygen-us.png?raw=true" group-title="USA CHANNELS" tvg-id="Oxygen.East", Oxygen
-http://192.168.1.81:4123/hls/fl2/OXYGEN
+http://192.168.1.81:4123/hls/fl1/OXYGEN
 
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/paramount-network-us.png?raw=true" group-title="USA CHANNELS" tvg-id="ParamountNetwork.East", Paramount Network
-http://192.168.1.81:4123/hls/fl2/PARAMOUNT_NETWORK
+http://192.168.1.81:4123/hls/fl1/PARAMOUNT_NETWORK
 
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-us.png?raw=true" group-title="USA CHANNELS" tvg-id="Showtime.East", Showtime
 http://192.168.1.81:4123/hls/v3/ShowtimeEast
 
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-next-us.png?raw=true" group-title="USA CHANNELS" tvg-id="ShowtimeNext.East", Showtime Next
-http://192.168.1.81:4123/hls/fl2/SHOWTIME_NEXT
+http://192.168.1.81:4123/hls/fl1/SHOWTIME_NEXT
 
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-extreme-us.png?raw=true" group-title="USA CHANNELS" tvg-id="ShowtimeExtreme.West", Showtime Extreme
-http://192.168.1.81:4123/hls/fl2/SHOWTIME_EXTREME
+http://192.168.1.81:4123/hls/fl1/SHOWTIME_EXTREME
 
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-2-us.png?raw=true" group-title="USA CHANNELS" tvg-id="Showtime2.East", Showtime 2
-http://192.168.1.81:4123/hls/fl2/SHOWTIME_WEST
+http://192.168.1.81:4123/hls/fl1/SHOWTIME_WEST
 
 #EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s12719_h15_ac.png" group-title="USA CHANNELS" tvg-id="Starz.East", Starz
-http://192.168.1.81:4123/hls/fl5/STARZ
+http://192.168.1.81:4123/hls/fl1/STARZ
 
 #EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s34901_h15_ac.png" group-title="USA CHANNELS" tvg-id="StarzComedy.East", Starz Comedy
-http://192.168.1.81:4123/hls/fl5/STARZ_COMEDY
+http://192.168.1.81:4123/hls/fl1/STARZ_COMEDY
 
 #EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s14871_h15_ab.png" group-title="USA CHANNELS" tvg-id="StarzEncore.East", Starz Encore
-http://192.168.1.81:4123/hls/fl2/STARZ_ENCORE
+http://192.168.1.81:4123/hls/fl1/STARZ_ENCORE
 
 #EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s14871_h15_ab.png" group-title="USA CHANNELS" tvg-id="StarzEncoreAction.East", Starz Encore Action
-http://192.168.1.81:4123/hls/fl2/STARZ_ENCORE_ACTION
+http://192.168.1.81:4123/hls/fl1/STARZ_ENCORE_ACTION
 
 #EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s12719_h15_ac.png" group-title="USA CHANNELS" tvg-id="Starz.West", Starz (west)
-http://192.168.1.81:4123/hls/fl2/STARZ_WEST
+http://192.168.1.81:4123/hls/fl1/STARZ_WEST
 
 #EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s11097_h15_ae.png" group-title="USA CHANNELS" tvg-id="Syfy.East", Syfy
-http://192.168.1.81:4123/hls/fl5/SYFY
+http://192.168.1.81:4123/hls/fl1/SYFY
 
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11867_dark_360w_270h.png" group-title="USA CHANNELS" tvg-id="TBS.East", TBS
-http://192.168.1.81:4123/hls/fl2/TBS
+http://192.168.1.81:4123/hls/fl1/TBS
 
 #EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s11164_h15_ac.png" group-title="USA CHANNELS" tvg-id="TNT.East", TNT
 http://192.168.1.81:4123/hls/v16/TNTEast
 
 #EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s51306_h15_ac.png" group-title="USA CHANNELS" tvg-id="WGN", The CW (WGN)
-http://192.168.1.81:4123/hls/fl2/WGN
+http://192.168.1.81:4123/hls/fl1/WGN
 
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/travel-channel-us.png?raw=true" group-title="USA CHANNELS" tvg-id="Travel.East", Travel Channel
 http://192.168.1.81:4123/hls/fl1/Travel_Channel
 
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10153_dark_360w_270h.png" group-title="USA CHANNELS" tvg-id="truTV.East", truTV
-http://192.168.1.81:4123/hls/fl2/TRU_TV
+http://192.168.1.81:4123/hls/fl1/TRU_TV
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-cinema-action-uk.png" group-title="SKY CINEMA" tvg-id="SkyCinemaActionHD", Sky Cinema Action
 http://192.168.1.81:4123/hls/wind/677

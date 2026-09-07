@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
-<tv><channel id="Sky.Premiere.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1409.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1409.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">Sky Premiere</display-name>
+<tv><channel id="Sky.Cinema.Hits.HD.uk">
+    <icon src="https://cdn.tv-guide.future.sensi.link/images/channel/1be50627-1688-54a7-a314-dc256342c67a/logo.png" />
+    <icon src="https://cdn.tv-guide.future.sensi.link/images/channel/1be50627-1688-54a7-a314-dc256342c67a/logo.png" />
+    <url>http://www.whattowatch.com_uk</url>
+    <display-name lang="en">Sky Cinema Hits HD</display-name>
   </channel>
   <channel id="Sky.Cinema.Select.uk">
     <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4020.png" />
@@ -11,11 +11,11 @@
     <url>http://www.sky.com</url>
     <display-name lang="en">Sky Cinema Select</display-name>
   </channel>
-  <channel id="Sky.Cinema.Hits.HD.uk">
-    <icon src="https://cdn.tv-guide.future.sensi.link/images/channel/1be50627-1688-54a7-a314-dc256342c67a/logo.png" />
-    <icon src="https://cdn.tv-guide.future.sensi.link/images/channel/1be50627-1688-54a7-a314-dc256342c67a/logo.png" />
-    <url>http://www.whattowatch.com_uk</url>
-    <display-name lang="en">Sky Cinema Hits HD</display-name>
+  <channel id="Sky.Action.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1001.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1001.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">Sky Action</display-name>
   </channel>
   <channel id="Sky.Thriller.HD.uk">
     <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4062.png" />
@@ -23,160 +23,18 @@
     <url>http://www.sky.com</url>
     <display-name lang="en">Sky Thriller HD</display-name>
   </channel>
+  <channel id="Sky.Premiere.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1409.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1409.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">Sky Premiere</display-name>
+  </channel>
   <channel id="Sky.ScFi/HorHD.uk">
     <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4017.png" />
     <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4017.png" />
     <url>http://www.sky.com</url>
     <display-name lang="en">Sky ScFi/HorHD</display-name>
   </channel>
-  <channel id="Sky.Action.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1001.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1001.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">Sky Action</display-name>
-  </channel>
-  <programme channel="Sky.Action.uk" start="20260905011000 +0000" stop="20260905031000 +0000">
-    <title lang="en">Novocaine</title>
-    <desc lang="en">When his girlfriend is kidnapped, Jack Quaid turns his inability to feel pain into his quest to rescue her. Language/violence.</desc>
-    <date>2025</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Action</category>
-    <icon src="https://images.metadata.sky.com/pd-image/5dfe260a-8ce3-49f2-b5db-9b96b679dd8d/16-9" />
-    <rating system="UK">
-      <value>15</value>
-    </rating>
-  </programme>
-  <programme channel="Sky.Action.uk" start="20260905031000 +0000" stop="20260905045500 +0000">
-    <title lang="en">The Internship</title>
-    <desc lang="en">A CIA-trained assassin recruits other graduates from her secret childhood programme, The Internship, to violently destroy the organisation.</desc>
-    <date>2026</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Action</category>
-    <icon src="https://images.metadata.sky.com/pd-image/45f713f3-b923-4f71-b5d0-a96749e2bc01/16-9" />
-    <rating system="UK">
-      <value>15</value>
-    </rating>
-  </programme>
-  <programme channel="Sky.Action.uk" start="20260905045500 +0000" stop="20260905051000 +0000">
-    <title lang="en">The Cinema List: Jurassic</title>
-    <desc lang="en">Welcome to a Cinema List 65 million years in the making, going through the very best moments from the Jurassic franchise - from the 1993 original to Jurassic World: Dominion.</desc>
-    <category lang="en">Movie</category>
-    <category lang="en">Factual</category>
-    <icon src="https://images.metadata.sky.com/pd-image/9f2ccd2e-f296-4bcd-a8fe-58b229e533c3/16-9" />
-    <rating system="UK">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="Sky.Action.uk" start="20260905051000 +0000" stop="20260905071500 +0000">
-    <title lang="en">Constantine</title>
-    <desc lang="en">Exorcist Keanu Reeves tries to earn his place in heaven by sending demons back to hell. Strong language/violence/mature themes/flashing images.</desc>
-    <date>2005</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Sci-Fi</category>
-    <icon src="https://images.metadata.sky.com/pd-image/e52e875c-9f46-4624-a886-7b38ac77e854/16-9" />
-    <rating system="UK">
-      <value>15</value>
-    </rating>
-  </programme>
-  <programme channel="Sky.Action.uk" start="20260905071500 +0000" stop="20260905091000 +0000">
-    <title lang="en">Prisoner Of War</title>
-    <desc lang="en">A British RAF Wing Commander during World War II is captured and forced to fight in a Japanese internment camp in this action thriller.</desc>
-    <date>2025</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Action</category>
-    <icon src="https://images.metadata.sky.com/pd-image/8ab50495-dc1f-4fdb-b544-d1a62530ffcb/16-9" />
-    <rating system="UK">
-      <value>15</value>
-    </rating>
-  </programme>
-  <programme channel="Sky.Action.uk" start="20260905091000 +0000" stop="20260905105000 +0000">
-    <title lang="en">Nobody 2</title>
-    <desc lang="en">Suburban dad Hutch, a former lethal assassin, is pulled back into his violent past after a home invasion, setting off a chain of events.</desc>
-    <date>2025</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Action</category>
-    <icon src="https://images.metadata.sky.com/pd-image/8f8e85ff-117e-447d-9fae-1e2a5ed27f1e/16-9" />
-    <rating system="UK">
-      <value>15</value>
-    </rating>
-  </programme>
-  <programme channel="Sky.Action.uk" start="20260905105000 +0000" stop="20260905125000 +0000">
-    <title lang="en">300</title>
-    <desc lang="en">Spartan king Gerard Butler leads his brave elite warriors against the all-conquering Persian invaders. Strong violence.</desc>
-    <date>2006</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Action</category>
-    <icon src="https://images.metadata.sky.com/pd-image/f79cdb15-f599-497b-b870-f0ba89750563/16-9" />
-    <rating system="UK">
-      <value>15</value>
-    </rating>
-  </programme>
-  <programme channel="Sky.Action.uk" start="20260905125000 +0000" stop="20260905145000 +0000">
-    <title lang="en">300: Rise Of An Empire</title>
-    <desc lang="en">Greek general Thermistocles leads the charge against an invading Persian army in this action extravaganza. Strong language/violence/sex/mature themes/flashing images.</desc>
-    <date>2014</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Action</category>
-    <icon src="https://images.metadata.sky.com/pd-image/4cdc10fc-2dc0-4d2c-888f-264ab2468a9a/16-9" />
-    <rating system="UK">
-      <value>15</value>
-    </rating>
-  </programme>
-  <programme channel="Sky.Action.uk" start="20260905145000 +0000" stop="20260905165500 +0000">
-    <title lang="en">Mortal Kombat II</title>
-    <desc lang="en">The champions are pitted against one another in a battle to defeat Shao Kahn. Language/violence/flashing images.</desc>
-    <date>2026</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Action</category>
-    <icon src="https://images.metadata.sky.com/pd-image/bb5ade0a-79be-45a7-bc37-fb37b5976c6a/16-9" />
-    <rating system="UK">
-      <value>15</value>
-    </rating>
-  </programme>
-  <programme channel="Sky.Action.uk" start="20260905165500 +0000" stop="20260905190000 +0000">
-    <title lang="en">Bumblebee</title>
-    <desc lang="en">Transformers prequel starring Hailee Steinfeld as a teenager who discovers and revives the battle-scarred Bumblebee in a junkyard. With John Cena and Justin Theroux.</desc>
-    <date>2018</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Action</category>
-    <icon src="https://images.metadata.sky.com/pd-image/891db360-e83d-4c64-98cf-3387a3b4870c/16-9" />
-    <rating system="UK">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="Sky.Action.uk" start="20260905190000 +0000" stop="20260905212000 +0000">
-    <title lang="en">The Mummy Returns</title>
-    <desc lang="en">Blockbusting sequel with Brendan Fraser and Rachel Weisz battling a resurrected Egyptian priest and his evil hordes. Epic adventure. Contains violence/flashing images.</desc>
-    <date>2001</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Action</category>
-    <icon src="https://images.metadata.sky.com/pd-image/a7837616-9e40-4c9c-b075-1bf4a6de8763/16-9" />
-    <rating system="UK">
-      <value>12</value>
-    </rating>
-  </programme>
-  <programme channel="Sky.Action.uk" start="20260905212000 +0000" stop="20260905230500 +0000">
-    <title lang="en">Sisu: Road To Revenge</title>
-    <desc lang="en">Returning to his house, a one-man army comes up against his family's killers and sets out for revenge. Finnish action sequel with subtitles.</desc>
-    <date>2025</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Action</category>
-    <icon src="https://images.metadata.sky.com/pd-image/a7020cfc-a821-419f-ba34-20552a330cec/16-9" />
-    <rating system="UK">
-      <value>15</value>
-    </rating>
-  </programme>
-  <programme channel="Sky.Action.uk" start="20260905230500 +0000" stop="20260906004000 +0000">
-    <title lang="en">The Mechanic</title>
-    <desc lang="en">Ace assassin Jason Statham becomes a target when he agrees to teach reckless Ben Foster the art of contract killing. Gritty action thriller.</desc>
-    <date>2011</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Action</category>
-    <icon src="https://images.metadata.sky.com/pd-image/da1fe633-18bf-46cb-a5d4-4a029dd36734/16-9" />
-    <rating system="UK">
-      <value>15</value>
-    </rating>
-  </programme>
   <programme channel="Sky.Action.uk" start="20260906004000 +0000" stop="20260906022500 +0000">
     <title lang="en">Blood For Dust</title>
     <desc lang="en">Drowning in the pressure of providing for his family, a travelling salesman is drawn into a world of crime by his mysterious colleague, Kit Harington.</desc>
@@ -562,145 +420,134 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme channel="Sky.Premiere.uk" start="20260905005000 +0000" stop="20260905023500 +0000">
-    <title lang="en">Twinless</title>
-    <desc lang="en">A young man left broken by the loss of his twin brother joins a support group for 'twinless twins'. Psychological drama.</desc>
-    <date>2025</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Drama</category>
-    <icon src="https://images.metadata.sky.com/pd-image/0c3c5234-8b68-4be4-a869-7f3252cb7cef/16-9" />
-    <rating system="UK">
-      <value>15</value>
-    </rating>
-  </programme>
-  <programme channel="Sky.Premiere.uk" start="20260905023500 +0000" stop="20260905041500 +0000">
-    <title lang="en">Signal One</title>
-    <desc lang="en">A tech billionaire recruits a computer scientist to work on a groundbreaking project that could change humanity's future forever.</desc>
-    <date>2026</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Mystery</category>
-    <icon src="https://images.metadata.sky.com/pd-image/e3bac90f-b633-4a25-9a7d-be4a23bfcc02/16-9" />
-    <rating system="UK">
-      <value>15</value>
-    </rating>
-  </programme>
-  <programme channel="Sky.Premiere.uk" start="20260905041500 +0000" stop="20260905061000 +0000">
-    <title lang="en">Panda Plan 2: The Magical Tribe</title>
-    <desc lang="en">Giant Panda Hu Hu and Jackie Chan accidentally stumble into a mysterious primitive tribe, beginning an unprecedented and hilarious adventure.</desc>
-    <date>2026</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Family</category>
-    <icon src="https://images.metadata.sky.com/pd-image/cad8c151-e1dc-461e-8faa-f15c918a6892/16-9" />
-    <rating system="UK">
-      <value>12</value>
-    </rating>
-  </programme>
-  <programme channel="Sky.Premiere.uk" start="20260905061000 +0000" stop="20260905075500 +0000">
-    <title lang="en">GOAT</title>
-    <desc lang="en">A goat with big dreams gets a shot to join the pros and play roarball, a high-intensity sport dominated by the fiercest animals.(100mins).</desc>
-    <date>2026</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Drama</category>
-    <icon src="https://images.metadata.sky.com/pd-image/f0dcd76a-6d32-49ea-8898-cfa915af0ba1/16-9" />
-    <rating system="UK">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="Sky.Premiere.uk" start="20260905075500 +0000" stop="20260905094500 +0000">
-    <title lang="en">Tow</title>
-    <desc lang="en">The story of Amanda Ogle, a homeless Seattle woman, who fought her way out of tow-company hell to reclaim her life and car. Biographical drama with Rose Byrne.</desc>
-    <date>2025</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Drama</category>
-    <icon src="https://images.metadata.sky.com/pd-image/3cc2ccac-3930-4500-9fdf-78d6210d3bb7/16-9" />
-    <rating system="UK">
-      <value>15</value>
-    </rating>
-  </programme>
-  <programme channel="Sky.Premiere.uk" start="20260905094500 +0000" stop="20260905112500 +0000">
-    <title lang="en">Hungry</title>
-    <desc lang="en">After becoming lost in the Louisiana swamplands, a group of holidaymakers must fight for their lives against a rampaging hippo on the loose.</desc>
-    <date>2026</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Thriller</category>
-    <icon src="https://images.metadata.sky.com/pd-image/f7272e68-425a-47d3-b75a-f842785d9df6/16-9" />
-    <rating system="UK">
-      <value>15</value>
-    </rating>
-  </programme>
-  <programme channel="Sky.Premiere.uk" start="20260905112500 +0000" stop="20260905131500 +0000">
-    <title lang="en">Five Nights At Freddy's 2</title>
-    <desc lang="en">Mike and Vanessa fall back into a supernatural nightmare at Freddy Fazbear's Pizza. Josh Hutcherson stars.</desc>
-    <date>2025</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Horror</category>
-    <icon src="https://images.metadata.sky.com/pd-image/89f1fdf3-6540-4526-8d80-b088ad8fd97d/16-9" />
-    <rating system="UK">
-      <value>15</value>
-    </rating>
-  </programme>
-  <programme channel="Sky.Premiere.uk" start="20260905131500 +0000" stop="20260905152500 +0000">
-    <title lang="en">Hamnet</title>
-    <desc lang="en">Agnes and William Shakespeare navigate love, family and grief in this moving period drama starring Jessie Buckley and Paul Mescal.</desc>
-    <date>2025</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Drama</category>
-    <icon src="https://images.metadata.sky.com/pd-image/30e6f6c4-5805-4e03-acad-0292cce6a15b/16-9" />
-    <rating system="UK">
-      <value>12</value>
-    </rating>
-  </programme>
-  <programme channel="Sky.Premiere.uk" start="20260905152500 +0000" stop="20260905171000 +0000">
-    <title lang="en">GOAT</title>
-    <desc lang="en">A goat with big dreams gets a shot to join the pros and play roarball, a high-intensity sport dominated by the fiercest animals.(100mins).</desc>
-    <date>2026</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Drama</category>
-    <icon src="https://images.metadata.sky.com/pd-image/f0dcd76a-6d32-49ea-8898-cfa915af0ba1/16-9" />
-    <rating system="UK">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="Sky.Premiere.uk" start="20260905171000 +0000" stop="20260905190000 +0000">
-    <title lang="en">Tow</title>
-    <desc lang="en">The story of Amanda Ogle, a homeless Seattle woman, who fought her way out of tow-company hell to reclaim her life and car. Biographical drama with Rose Byrne.</desc>
-    <date>2025</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Drama</category>
-    <icon src="https://images.metadata.sky.com/pd-image/3cc2ccac-3930-4500-9fdf-78d6210d3bb7/16-9" />
-    <rating system="UK">
-      <value>15</value>
-    </rating>
-  </programme>
-  <programme channel="Sky.Premiere.uk" start="20260905190000 +0000" stop="20260905204500 +0000">
-    <title lang="en">Hungry</title>
-    <desc lang="en">After becoming lost in the Louisiana swamplands, a group of holidaymakers must fight for their lives against a rampaging hippo on the loose.</desc>
-    <date>2026</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Thriller</category>
-    <icon src="https://images.metadata.sky.com/pd-image/f7272e68-425a-47d3-b75a-f842785d9df6/16-9" />
-    <rating system="UK">
-      <value>15</value>
-    </rating>
-  </programme>
-  <programme channel="Sky.Premiere.uk" start="20260905204500 +0000" stop="20260905223500 +0000">
-    <title lang="en">Five Nights At Freddy's 2</title>
-    <desc lang="en">Mike and Vanessa fall back into a supernatural nightmare at Freddy Fazbear's Pizza. Josh Hutcherson stars.</desc>
-    <date>2025</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Horror</category>
-    <icon src="https://images.metadata.sky.com/pd-image/89f1fdf3-6540-4526-8d80-b088ad8fd97d/16-9" />
-    <rating system="UK">
-      <value>15</value>
-    </rating>
-  </programme>
-  <programme channel="Sky.Premiere.uk" start="20260905223500 +0000" stop="20260906004000 +0000">
-    <title lang="en">Rise of the Conqueror</title>
-    <desc lang="en">As the Mongol Empire crumbles, a battle-scarred Timur Barlas must confront a haunting destiny and renounce his loyalties to protect the fate of the Silk Road.</desc>
-    <date>2026</date>
+  <programme channel="Sky.Action.uk" start="20260908234500 +0000" stop="20260909012000 +0000">
+    <title lang="en">The Mechanic</title>
+    <desc lang="en">Ace assassin Jason Statham becomes a target when he agrees to teach reckless Ben Foster the art of contract killing. Gritty action thriller.</desc>
+    <date>2011</date>
     <category lang="en">Movie</category>
     <category lang="en">Action</category>
-    <icon src="https://images.metadata.sky.com/pd-image/d50b8a45-124d-49ff-98d0-2db4e288526e/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/da1fe633-18bf-46cb-a5d4-4a029dd36734/16-9" />
+    <rating system="UK">
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme channel="Sky.Action.uk" start="20260909012000 +0000" stop="20260909032000 +0000">
+    <title lang="en">300</title>
+    <desc lang="en">Spartan king Gerard Butler leads his brave elite warriors against the all-conquering Persian invaders. Strong violence.</desc>
+    <date>2006</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Action</category>
+    <icon src="https://images.metadata.sky.com/pd-image/f79cdb15-f599-497b-b870-f0ba89750563/16-9" />
+    <rating system="UK">
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme channel="Sky.Action.uk" start="20260909032000 +0000" stop="20260909052000 +0000">
+    <title lang="en">300: Rise Of An Empire</title>
+    <desc lang="en">Greek general Thermistocles leads the charge against an invading Persian army in this action extravaganza. Strong language/violence/sex/mature themes/flashing images.</desc>
+    <date>2014</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Action</category>
+    <icon src="https://images.metadata.sky.com/pd-image/4cdc10fc-2dc0-4d2c-888f-264ab2468a9a/16-9" />
+    <rating system="UK">
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme channel="Sky.Action.uk" start="20260909052000 +0000" stop="20260909065000 +0000">
+    <title lang="en">Jackie Chan's First Strike</title>
+    <desc lang="en">This fourth instalment of Jackie Chan's Police Story film franchise has our hero trying to locate a missing nuclear warhead.</desc>
+    <date>1996</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.metadata.sky.com/pd-image/6777a362-94f7-47a0-b484-dd3b4327094c/16-9" />
+    <rating system="UK">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme channel="Sky.Action.uk" start="20260909065000 +0000" stop="20260909082500 +0000">
+    <title lang="en">The Mechanic</title>
+    <desc lang="en">Ace assassin Jason Statham becomes a target when he agrees to teach reckless Ben Foster the art of contract killing. Gritty action thriller.</desc>
+    <date>2011</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Action</category>
+    <icon src="https://images.metadata.sky.com/pd-image/da1fe633-18bf-46cb-a5d4-4a029dd36734/16-9" />
+    <rating system="UK">
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme channel="Sky.Action.uk" start="20260909082500 +0000" stop="20260909101000 +0000">
+    <title lang="en">Homefront</title>
+    <desc lang="en">A former DEA agent moves his family to a quiet town, where he soon tangles with a local meth druglord. Action thriller.</desc>
+    <date>2013</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Action</category>
+    <icon src="https://images.metadata.sky.com/pd-image/a4ffd1b6-dc91-4fa4-89f4-c3141f532308/16-9" />
+    <rating system="UK">
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme channel="Sky.Action.uk" start="20260909101000 +0000" stop="20260909123500 +0000">
+    <title lang="en">Aquaman</title>
+    <desc lang="en">Jason Momoa stars as the half-human, half-Atlantean Aquaman, on the quest of a lifetime. With Nicole Kidman and Willem Dafoe.</desc>
+    <date>2018</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Action</category>
+    <icon src="https://images.metadata.sky.com/pd-image/c5dba143-d8d2-48ef-a440-2195038655c4/16-9" />
+    <rating system="UK">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme channel="Sky.Action.uk" start="20260909123500 +0000" stop="20260909141500 +0000">
+    <title lang="en">Hancock</title>
+    <desc lang="en">Alcoholic superhero Will Smith hires a PR officer to help improve his image. With Charlize Theron. Strong language/violence/flashing images.</desc>
+    <date>2008</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Action</category>
+    <icon src="https://images.metadata.sky.com/pd-image/7b464033-e2fd-409e-bbbb-879a74525a3e/16-9" />
+    <rating system="UK">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme channel="Sky.Action.uk" start="20260909141500 +0000" stop="20260909163500 +0000">
+    <title lang="en">The Amazing Spider-Man</title>
+    <desc lang="en">Andrew Garfield stars as the Webbed Wonder, on a collision course with evil adversary The Lizard. With Emma Stone. Violence/flashing images.</desc>
+    <date>2012</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Action</category>
+    <icon src="https://images.metadata.sky.com/pd-image/d576b25b-3e27-4b30-b943-aee4b178ad1d/16-9" />
+    <rating system="UK">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme channel="Sky.Action.uk" start="20260909163500 +0000" stop="20260909190000 +0000">
+    <title lang="en">The Amazing Spider-Man 2</title>
+    <desc lang="en">Andrew Garfield's Spider-Man returns to battle supercharged villain Electro, before confronting someone from his past. Emma Stone co-stars.</desc>
+    <date>2014</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Action</category>
+    <icon src="https://images.metadata.sky.com/pd-image/299769eb-6c39-4fe3-9b75-01d8daeca1ab/16-9" />
+    <rating system="UK">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme channel="Sky.Action.uk" start="20260909190000 +0000" stop="20260909213000 +0000">
+    <title lang="en">Spider-Man: No Way Home</title>
+    <desc lang="en">When dangerous foes from other worlds appear, Peter Parker must learn what it truly means to be Spider-Man. Web-slinging sequel with Tom Holland.</desc>
+    <date>2021</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Action</category>
+    <icon src="https://images.metadata.sky.com/pd-image/bdc89113-78ce-483b-abb8-174577d0501d/16-9" />
+    <rating system="UK">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme channel="Sky.Action.uk" start="20260909213000 +0000" stop="20260909230500 +0000">
+    <title lang="en">Nobody 2</title>
+    <desc lang="en">Suburban dad Hutch, a former lethal assassin, is pulled back into his violent past after a home invasion, setting off a chain of events.</desc>
+    <date>2025</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Action</category>
+    <icon src="https://images.metadata.sky.com/pd-image/8f8e85ff-117e-447d-9fae-1e2a5ed27f1e/16-9" />
     <rating system="UK">
       <value>15</value>
     </rating>
@@ -1146,147 +993,142 @@
       <value>15</value>
     </rating>
   </programme>
-  <programme channel="Sky.ScFi/HorHD.uk" start="20260905003500 +0000" stop="20260905022000 +0000">
-    <title lang="en">Critters</title>
-    <desc lang="en">A group of small but vicious alien creatures called Crites escape from an alien prison transport vessel and lands near a small farm town on Earth.</desc>
-    <date>1986</date>
+  <programme channel="Sky.Premiere.uk" start="20260909001500 +0000" stop="20260909021000 +0000">
+    <title lang="en">Tow</title>
+    <desc lang="en">The story of Amanda Ogle, a homeless Seattle woman, who fought her way out of tow-company hell to reclaim her life and car. Biographical drama with Rose Byrne.</desc>
+    <date>2025</date>
     <category lang="en">Movie</category>
-    <category lang="en">Comedy</category>
-    <icon src="https://images.metadata.sky.com/pd-image/8d0e50d8-4a6d-4c86-bd3f-092363de081a/16-9" />
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/3cc2ccac-3930-4500-9fdf-78d6210d3bb7/16-9" />
+    <rating system="UK">
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme channel="Sky.Premiere.uk" start="20260909021000 +0000" stop="20260909041500 +0000">
+    <title lang="en">Rise of the Conqueror</title>
+    <desc lang="en">As the Mongol Empire crumbles, a battle-scarred Timur Barlas must confront a haunting destiny and renounce his loyalties to protect the fate of the Silk Road.</desc>
+    <date>2026</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Action</category>
+    <icon src="https://images.metadata.sky.com/pd-image/d50b8a45-124d-49ff-98d0-2db4e288526e/16-9" />
+    <rating system="UK">
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme channel="Sky.Premiere.uk" start="20260909041500 +0000" stop="20260909044500 +0000">
+    <title lang="en">Sky Cinema Preview</title>
+    <desc lang="en">Previews of the great films now playing on Sky Cinema, plus other highlights showing on Sky.</desc>
+    <category lang="en">Movie</category>
+    <icon src="https://images.metadata.sky.com/pd-image/6b5a5f05-87f2-437a-8561-53b053335722/16-9" />
+  </programme>
+  <programme channel="Sky.Premiere.uk" start="20260909044500 +0000" stop="20260909063000 +0000">
+    <title lang="en">Tom And Jerry: Forbidden Compass</title>
+    <desc lang="en">During a chase inside a museum, Tom and Jerry find a magical object that transports them through time. They must work together to find a way home.</desc>
+    <date>2025</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Family</category>
+    <icon src="https://images.metadata.sky.com/pd-image/cc1811e8-73c8-44d1-b6fe-73cbcc374227/16-9" />
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="Sky.Premiere.uk" start="20260909063000 +0000" stop="20260909081500 +0000">
+    <title lang="en">GOAT</title>
+    <desc lang="en">A goat with big dreams gets a shot to join the pros and play roarball, a high-intensity sport dominated by the fiercest animals.(100mins).</desc>
+    <date>2026</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/f0dcd76a-6d32-49ea-8898-cfa915af0ba1/16-9" />
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="Sky.Premiere.uk" start="20260909081500 +0000" stop="20260909100000 +0000">
+    <title lang="en">Panda Plan 2: The Magical Tribe</title>
+    <desc lang="en">Giant Panda Hu Hu and Jackie Chan accidentally stumble into a mysterious primitive tribe, beginning an unprecedented and hilarious adventure.</desc>
+    <date>2026</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Family</category>
+    <icon src="https://images.metadata.sky.com/pd-image/cad8c151-e1dc-461e-8faa-f15c918a6892/16-9" />
     <rating system="UK">
       <value>12</value>
     </rating>
   </programme>
-  <programme channel="Sky.ScFi/HorHD.uk" start="20260905022000 +0000" stop="20260905042500 +0000">
-    <title lang="en">The Exorcist</title>
-    <desc lang="en">William Friedkin's Oscar-winning horror about a priest battling to save the soul of a girl. Language/violence/mature themes/sex/flashing images.</desc>
-    <date>1973</date>
+  <programme channel="Sky.Premiere.uk" start="20260909100000 +0000" stop="20260909114500 +0000">
+    <title lang="en">Hungry</title>
+    <desc lang="en">After becoming lost in the Louisiana swamplands, a group of holidaymakers must fight for their lives against a rampaging hippo on the loose.</desc>
+    <date>2026</date>
     <category lang="en">Movie</category>
-    <category lang="en">Horror</category>
-    <icon src="https://images.metadata.sky.com/pd-image/9e02110c-7a75-42a6-a827-2643fb616e90/16-9" />
+    <category lang="en">Thriller</category>
+    <icon src="https://images.metadata.sky.com/pd-image/f7272e68-425a-47d3-b75a-f842785d9df6/16-9" />
     <rating system="UK">
-      <value>18</value>
+      <value>15</value>
     </rating>
   </programme>
-  <programme channel="Sky.ScFi/HorHD.uk" start="20260905042500 +0000" stop="20260905060500 +0000">
-    <title lang="en">Man Finds Tape</title>
-    <desc lang="en">After finding mysterious video clips, siblings investigate the strange recordings and uncover a disturbing secret. Found-footage horror. Language/violence.</desc>
+  <programme channel="Sky.Premiere.uk" start="20260909114500 +0000" stop="20260909134000 +0000">
+    <title lang="en">Five Nights At Freddy's 2</title>
+    <desc lang="en">Mike and Vanessa fall back into a supernatural nightmare at Freddy Fazbear's Pizza. Josh Hutcherson stars.</desc>
     <date>2025</date>
     <category lang="en">Movie</category>
     <category lang="en">Horror</category>
-    <icon src="https://images.metadata.sky.com/pd-image/69da20da-ea5c-42e9-beed-d6b92e77189b/16-9" />
-    <rating system="UK">
-      <value>MP</value>
-    </rating>
-  </programme>
-  <programme channel="Sky.ScFi/HorHD.uk" start="20260905060500 +0000" stop="20260905075500 +0000">
-    <title lang="en">Pet Sematary</title>
-    <desc lang="en">Re-imagining of the classic horror from Stephen King's bestselling novel. A family moves to a rural house, and things soon start to go wrong.</desc>
-    <date>2019</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Horror</category>
-    <icon src="https://images.metadata.sky.com/pd-image/1f47a54e-b618-4ead-9d09-7db048d41da0/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/89f1fdf3-6540-4526-8d80-b088ad8fd97d/16-9" />
     <rating system="UK">
       <value>15</value>
     </rating>
   </programme>
-  <programme channel="Sky.ScFi/HorHD.uk" start="20260905075500 +0000" stop="20260905093500 +0000">
-    <title lang="en">Beast Of War</title>
-    <desc lang="en">A group of young soldiers find themselves stranded on a raft in the middle of the ocean and must battle for their lives against a giant, hungry great white shark.</desc>
+  <programme channel="Sky.Premiere.uk" start="20260909134000 +0000" stop="20260909152500 +0000">
+    <title lang="en">Do Not Enter</title>
+    <desc lang="en">On the hunt for hidden treasure, a group of explorers investigate an old abandoned hotel, encountering a strange supernatural being.</desc>
+    <date>2026</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Horror</category>
+    <icon src="https://images.metadata.sky.com/pd-image/6eecabb2-2a6c-4eb4-91a3-b518ed6f51be/16-9" />
+    <rating system="UK">
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme channel="Sky.Premiere.uk" start="20260909152500 +0000" stop="20260909171000 +0000">
+    <title lang="en">Twinless</title>
+    <desc lang="en">A young man left broken by the loss of his twin brother joins a support group for 'twinless twins'. Psychological drama.</desc>
     <date>2025</date>
     <category lang="en">Movie</category>
-    <category lang="en">Horror</category>
-    <icon src="https://images.metadata.sky.com/pd-image/66e98e54-8cc3-4cd9-a412-065a93359156/16-9" />
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/0c3c5234-8b68-4be4-a869-7f3252cb7cef/16-9" />
     <rating system="UK">
       <value>15</value>
     </rating>
   </programme>
-  <programme channel="Sky.ScFi/HorHD.uk" start="20260905093500 +0000" stop="20260905112000 +0000">
-    <title lang="en">The Crazies</title>
-    <desc lang="en">A virus turns the residents of a small town into murderous maniacs. Horror with Timothy Olyphant. Language/violence/flashing images.</desc>
-    <date>2010</date>
+  <programme channel="Sky.Premiere.uk" start="20260909171000 +0000" stop="20260909190000 +0000">
+    <title lang="en">Tow</title>
+    <desc lang="en">The story of Amanda Ogle, a homeless Seattle woman, who fought her way out of tow-company hell to reclaim her life and car. Biographical drama with Rose Byrne.</desc>
+    <date>2025</date>
     <category lang="en">Movie</category>
-    <category lang="en">Horror</category>
-    <icon src="https://images.metadata.sky.com/pd-image/50ed4d70-a926-47e2-8fb9-f44b0580cebc/16-9" />
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/3cc2ccac-3930-4500-9fdf-78d6210d3bb7/16-9" />
     <rating system="UK">
       <value>15</value>
     </rating>
   </programme>
-  <programme channel="Sky.ScFi/HorHD.uk" start="20260905112000 +0000" stop="20260905130000 +0000">
-    <title lang="en">Anacondas: The Hunt For The Blood Orchid</title>
-    <desc lang="en">A research team journeys into the jungle in search of a miracle flower, unaware that a horde of slithery adversaries lie in wait. Monster-movie sequel.(93mins).</desc>
-    <date>2004</date>
+  <programme channel="Sky.Premiere.uk" start="20260909190000 +0000" stop="20260909204500 +0000">
+    <title lang="en">Hungry</title>
+    <desc lang="en">After becoming lost in the Louisiana swamplands, a group of holidaymakers must fight for their lives against a rampaging hippo on the loose.</desc>
+    <date>2026</date>
     <category lang="en">Movie</category>
-    <category lang="en">Horror</category>
-    <icon src="https://images.metadata.sky.com/pd-image/62d37876-0e35-46d6-80db-2f7df36dbed8/16-9" />
+    <category lang="en">Thriller</category>
+    <icon src="https://images.metadata.sky.com/pd-image/f7272e68-425a-47d3-b75a-f842785d9df6/16-9" />
+    <rating system="UK">
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme channel="Sky.Premiere.uk" start="20260909204500 +0000" stop="20260909230000 +0000">
+    <title lang="en">Hamnet</title>
+    <desc lang="en">Agnes and William Shakespeare navigate love, family and grief in this moving period drama starring Jessie Buckley and Paul Mescal.</desc>
+    <date>2025</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/30e6f6c4-5805-4e03-acad-0292cce6a15b/16-9" />
     <rating system="UK">
       <value>12</value>
-    </rating>
-  </programme>
-  <programme channel="Sky.ScFi/HorHD.uk" start="20260905130000 +0000" stop="20260905145500 +0000">
-    <title lang="en">The Last Starfighter</title>
-    <desc lang="en">A video game expert finds himself transported to another planet after conquering a game, only to discover it was just a test. Classic sci-fi action adventure.</desc>
-    <date>1984</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Sci-Fi</category>
-    <icon src="https://images.metadata.sky.com/pd-image/1ed7ffa1-92ca-4038-b06c-d10c1e1ab9ca/16-9" />
-    <rating system="UK">
-      <value>12</value>
-    </rating>
-  </programme>
-  <programme channel="Sky.ScFi/HorHD.uk" start="20260905145500 +0000" stop="20260905163500 +0000">
-    <title lang="en">Zombieland</title>
-    <desc lang="en">With America in the grip of a zombie apocalypse, Woody Harrelson and Jesse Eisenberg team up to survive. With Emma Stone. Violence/strong language.</desc>
-    <date>2009</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Horror</category>
-    <icon src="https://images.metadata.sky.com/pd-image/ed7675a7-a9b0-4175-a7d8-7eae489c7dd0/16-9" />
-    <rating system="UK">
-      <value>15</value>
-    </rating>
-  </programme>
-  <programme channel="Sky.ScFi/HorHD.uk" start="20260905163500 +0000" stop="20260905190000 +0000">
-    <title lang="en">IT</title>
-    <desc lang="en">Hit adaptation of the Stephen King novel about a ragtag bunch of bullied outsiders battling evil, sewer-dwelling clown Pennywise. Jaeden Lieberher stars.</desc>
-    <date>2017</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Horror</category>
-    <icon src="https://images.metadata.sky.com/pd-image/de0f6ce4-20d7-420e-b022-2dcc57771a11/16-9" />
-    <rating system="UK">
-      <value>15</value>
-    </rating>
-  </programme>
-  <programme channel="Sky.ScFi/HorHD.uk" start="20260905190000 +0000" stop="20260905205500 +0000">
-    <title lang="en">Annabelle: Creation</title>
-    <desc lang="en">Young orphan Linda finds herself drawn to a creepy porcelain doll that seems to have evil in its cold, dead eyes... Horror.</desc>
-    <date>2017</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Horror</category>
-    <icon src="https://images.metadata.sky.com/pd-image/eb7839d7-8c50-4334-a8fa-7b731ab9599f/16-9" />
-    <rating system="UK">
-      <value>15</value>
-    </rating>
-  </programme>
-  <programme channel="Sky.ScFi/HorHD.uk" start="20260905205500 +0000" stop="20260905223500 +0000">
-    <title lang="en">Annabelle</title>
-    <desc lang="en">In this creepy prequel to hit horror The Conjuring, a married couple are tormented by a doll that has been possessed by an evil spirit.</desc>
-    <date>2014</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Horror</category>
-    <icon src="https://images.metadata.sky.com/pd-image/02b77b5b-c5ad-4e7d-9250-299367e8fedc/16-9" />
-    <rating system="UK">
-      <value>15</value>
-    </rating>
-  </programme>
-  <programme channel="Sky.ScFi/HorHD.uk" start="20260905223500 +0000" stop="20260906002500 +0000">
-    <title lang="en">Night Patrol</title>
-    <desc lang="en">An LA cop discovers a local task force is hiding a secret that puts the residents of his childhood neighbourhood in danger.(104mins).</desc>
-    <date>2025</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Horror</category>
-    <icon src="https://images.metadata.sky.com/pd-image/58032d83-1ca0-4505-b31d-39f8170e33a1/16-9" />
-    <rating system="UK">
-      <value>15</value>
     </rating>
   </programme>
   <programme channel="Sky.ScFi/HorHD.uk" start="20260906002500 +0000" stop="20260906022000 +0000">
@@ -1680,168 +1522,136 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme channel="Sky.Cinema.Select.uk" start="20260905004000 +0000" stop="20260905022000 +0000">
-    <title lang="en">Hotel Transylvania 3: A Monster Vacation</title>
-    <desc lang="en">A stressed-out Dracula is whisked away on a luxury summer cruise. Animated fun with the voice of Adam Sandler.</desc>
+  <programme channel="Sky.ScFi/HorHD.uk" start="20260908232500 +0000" stop="20260909011500 +0000">
+    <title lang="en">Halloween</title>
+    <desc lang="en">It's been 40 years since his Halloween killing spree, and Michael Myers has been in a mental asylum...until now. But Laurie Strode (Jamie Lee Curtis) is ready for him.</desc>
     <date>2018</date>
     <category lang="en">Movie</category>
-    <category lang="en">Animation</category>
-    <icon src="https://images.metadata.sky.com/pd-image/e30ba993-773b-4915-9780-45e39d9f667e/16-9" />
+    <category lang="en">Horror</category>
+    <icon src="https://images.metadata.sky.com/pd-image/adf26066-9d5b-4e7e-bae2-9efa34b36804/16-9" />
     <rating system="UK">
-      <value>U</value>
+      <value>18</value>
     </rating>
   </programme>
-  <programme channel="Sky.Cinema.Select.uk" start="20260905022000 +0000" stop="20260905040500 +0000">
-    <title lang="en">The Angry Birds Movie</title>
-    <desc lang="en">Outsider Red doesn't fit in among his chirpy community, but he's the only one to smell a rat when a fleet of pigs pitch up.</desc>
-    <date>2016</date>
+  <programme channel="Sky.ScFi/HorHD.uk" start="20260909011500 +0000" stop="20260909032000 +0000">
+    <title lang="en">The Exorcist</title>
+    <desc lang="en">William Friedkin's Oscar-winning horror about a priest battling to save the soul of a girl. Language/violence/mature themes/sex/flashing images.</desc>
+    <date>1973</date>
     <category lang="en">Movie</category>
-    <category lang="en">Animation</category>
-    <icon src="https://images.metadata.sky.com/pd-image/d51f395b-0ba1-4c7b-a7d8-1a9734ce991c/16-9" />
+    <category lang="en">Horror</category>
+    <icon src="https://images.metadata.sky.com/pd-image/9e02110c-7a75-42a6-a827-2643fb616e90/16-9" />
     <rating system="UK">
-      <value>U</value>
+      <value>18</value>
     </rating>
   </programme>
-  <programme channel="Sky.Cinema.Select.uk" start="20260905040500 +0000" stop="20260905043000 +0000">
-    <title lang="en">The Cinema List: Family Favourites</title>
-    <desc lang="en">Discover some of the very best Sky Originals to watch with the whole family, from Monster Family to The Amazing Maurice.</desc>
+  <programme channel="Sky.ScFi/HorHD.uk" start="20260909032000 +0000" stop="20260909051500 +0000">
+    <title lang="en">Salem's Lot</title>
+    <desc lang="en">Based on Stephen King's terrifying novel, this horror sees an author stumble upon a town under the threat of a bloodthirsty vampire.</desc>
+    <date>2024</date>
     <category lang="en">Movie</category>
-    <category lang="en">Factual</category>
-    <icon src="https://images.metadata.sky.com/pd-image/4cc98f8a-8d12-3a66-ae11-27c7f9d5a518/16-9" />
+    <category lang="en">Horror</category>
+    <icon src="https://images.metadata.sky.com/pd-image/ac493d5c-3580-3e97-9d72-af05c63b5d34/16-9" />
     <rating system="UK">
-      <value>U</value>
+      <value>MP</value>
     </rating>
   </programme>
-  <programme channel="Sky.Cinema.Select.uk" start="20260905043000 +0000" stop="20260905062000 +0000">
-    <title lang="en">The Angry Birds Movie 2</title>
-    <desc lang="en">The flightless birds and scheming green pigs take their beef to the next level. Animated sequel with Peter Dinklage.</desc>
+  <programme channel="Sky.ScFi/HorHD.uk" start="20260909051500 +0000" stop="20260909070000 +0000">
+    <title lang="en">Pet Sematary</title>
+    <desc lang="en">Re-imagining of the classic horror from Stephen King's bestselling novel. A family moves to a rural house, and things soon start to go wrong.</desc>
     <date>2019</date>
     <category lang="en">Movie</category>
-    <category lang="en">Animation</category>
-    <icon src="https://images.metadata.sky.com/pd-image/82315a41-2ec3-3fe5-b7cb-88f8b90d2633/16-9" />
+    <category lang="en">Horror</category>
+    <icon src="https://images.metadata.sky.com/pd-image/1f47a54e-b618-4ead-9d09-7db048d41da0/16-9" />
     <rating system="UK">
-      <value>U</value>
+      <value>15</value>
     </rating>
   </programme>
-  <programme channel="Sky.Cinema.Select.uk" start="20260905062000 +0000" stop="20260905081000 +0000">
-    <title lang="en">GOAT</title>
-    <desc lang="en">A goat with big dreams gets a shot to join the pros and play roarball, a high-intensity sport dominated by the fiercest animals.(100mins).</desc>
-    <date>2026</date>
+  <programme channel="Sky.ScFi/HorHD.uk" start="20260909070000 +0000" stop="20260909083500 +0000">
+    <title lang="en">Evil Dead II</title>
+    <desc lang="en">Savage sequel to Sam Raimi's 1981 hit horror. A weekend break at an isolated cabin turns nasty when Bruce Campbell unwittingly unleashes an evil spirit on the guests.</desc>
+    <date>1987</date>
     <category lang="en">Movie</category>
-    <category lang="en">Drama</category>
-    <icon src="https://images.metadata.sky.com/pd-image/f0dcd76a-6d32-49ea-8898-cfa915af0ba1/16-9" />
+    <category lang="en">Horror</category>
+    <icon src="https://images.metadata.sky.com/pd-image/d21c55c8-cb97-433b-9e56-19348e8504c2/16-9" />
     <rating system="UK">
-      <value>PG</value>
+      <value>15</value>
     </rating>
   </programme>
-  <programme channel="Sky.Cinema.Select.uk" start="20260905081000 +0000" stop="20260905095500 +0000">
-    <title lang="en">Despicable Me</title>
-    <desc lang="en">Supervillain Gru has a devious plot to steal the Moon, until three young orphans melt his heart. With the voice of Steve Carell. Flashing images.</desc>
-    <date>2010</date>
+  <programme channel="Sky.ScFi/HorHD.uk" start="20260909083500 +0000" stop="20260909103000 +0000">
+    <title lang="en">Wolf Man</title>
+    <desc lang="en">A family is attacked by an unseen animal, but as the night stretches on, the father begins to transform into something unrecognizable.</desc>
+    <date>2025</date>
     <category lang="en">Movie</category>
-    <category lang="en">Animation</category>
-    <icon src="https://images.metadata.sky.com/pd-image/f8dff62d-5b14-4487-bc71-7231438c41e6/16-9" />
+    <category lang="en">Horror</category>
+    <icon src="https://images.metadata.sky.com/pd-image/3259248a-68b5-4fe6-9731-707aad277361/16-9" />
     <rating system="UK">
-      <value>U</value>
+      <value>15</value>
     </rating>
   </programme>
-  <programme channel="Sky.Cinema.Select.uk" start="20260905095500 +0000" stop="20260905114000 +0000">
-    <title lang="en">Despicable Me 2</title>
-    <desc lang="en">Having left his former life behind to be a dad, ex-supervillain Gru is recruited to help take down a powerful new criminal. Animation. Flashing images.</desc>
+  <programme channel="Sky.ScFi/HorHD.uk" start="20260909103000 +0000" stop="20260909123000 +0000">
+    <title lang="en">Constantine</title>
+    <desc lang="en">Exorcist Keanu Reeves tries to earn his place in heaven by sending demons back to hell. Strong language/violence/mature themes/flashing images.</desc>
+    <date>2005</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Sci-Fi</category>
+    <icon src="https://images.metadata.sky.com/pd-image/e52e875c-9f46-4624-a886-7b38ac77e854/16-9" />
+    <rating system="UK">
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme channel="Sky.ScFi/HorHD.uk" start="20260909123000 +0000" stop="20260909145000 +0000">
+    <title lang="en">Oblivion</title>
+    <desc lang="en">One of the last people on an evacuated Earth finds himself battling to save mankind. Strong language/violence/flashing images.</desc>
     <date>2013</date>
     <category lang="en">Movie</category>
-    <category lang="en">Animation</category>
-    <icon src="https://images.metadata.sky.com/pd-image/6a5f9fb5-494c-39e3-907e-f0ccf35bfe75/16-9" />
+    <category lang="en">Sci-Fi</category>
+    <icon src="https://images.metadata.sky.com/pd-image/cd64880d-fceb-42b1-9d4e-6979d4ada0f5/16-9" />
     <rating system="UK">
-      <value>U</value>
+      <value>12</value>
     </rating>
   </programme>
-  <programme channel="Sky.Cinema.Select.uk" start="20260905114000 +0000" stop="20260905131500 +0000">
-    <title lang="en">Despicable Me 3</title>
-    <desc lang="en">Dismissed from the Anti-Villain League after botching a mission, Gru sets off to meet his long-lost twin brother. Smash-hit animated sequel.</desc>
-    <date>2017</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Animation</category>
-    <icon src="https://images.metadata.sky.com/pd-image/9ed8785e-1ace-3b96-8750-1f120b242afe/16-9" />
-    <rating system="UK">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme channel="Sky.Cinema.Select.uk" start="20260905131500 +0000" stop="20260905150000 +0000">
-    <title lang="en">GOAT</title>
-    <desc lang="en">A goat with big dreams gets a shot to join the pros and play roarball, a high-intensity sport dominated by the fiercest animals.(100mins).</desc>
-    <date>2026</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Drama</category>
-    <icon src="https://images.metadata.sky.com/pd-image/f0dcd76a-6d32-49ea-8898-cfa915af0ba1/16-9" />
-    <rating system="UK">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="Sky.Cinema.Select.uk" start="20260905150000 +0000" stop="20260905163500 +0000">
-    <title lang="en">Fantastic Mr. Fox</title>
-    <desc lang="en">A cocky fox causes chaos when his poultry pilfering leads the local farmers to dig up his home. Wes Anderson animation with George Clooney. Contains flashing images.</desc>
-    <date>2009</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Family</category>
-    <icon src="https://images.metadata.sky.com/pd-image/d5251b5d-0bfa-4383-8c0b-0c6ef64141fa/16-9" />
-    <rating system="UK">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="Sky.Cinema.Select.uk" start="20260905163500 +0000" stop="20260905181000 +0000">
-    <title lang="en">Hotel Transylvania</title>
-    <desc lang="en">Hotel Transylvania is the perfect place for monsters to escape the human world, until an unwitting hitchhiker tries to check in. Animated fun with the voice of Adam Sandler.</desc>
+  <programme channel="Sky.ScFi/HorHD.uk" start="20260909145000 +0000" stop="20260909170000 +0000">
+    <title lang="en">Total Recall</title>
+    <desc lang="en">Philip K Dick adaptation, with Colin Farrell as a future-world factory worker on the run and struggling to know what's real. Strong language/violence/sex/flashing images.</desc>
     <date>2012</date>
     <category lang="en">Movie</category>
-    <category lang="en">Animation</category>
-    <icon src="https://images.metadata.sky.com/pd-image/23b4e8f3-6f48-351c-8726-34309adbc339/16-9" />
+    <category lang="en">Sci-Fi</category>
+    <icon src="https://images.metadata.sky.com/pd-image/13416a66-dc20-4717-98d2-a6e1208800ed/16-9" />
     <rating system="UK">
-      <value>PG</value>
+      <value>12</value>
     </rating>
   </programme>
-  <programme channel="Sky.Cinema.Select.uk" start="20260905181000 +0000" stop="20260905194500 +0000">
-    <title lang="en">Hotel Transylvania 2</title>
-    <desc lang="en">Dracula recruits his friends to help bring out the monster in his half human, half vampire grandson. Animated sequel with the voices of Adam Sandler and Andy Samberg.</desc>
-    <date>2015</date>
+  <programme channel="Sky.ScFi/HorHD.uk" start="20260909170000 +0000" stop="20260909190000 +0000">
+    <title lang="en">Assassin's Creed</title>
+    <desc lang="en">Michael Fassbender stars as a prisoner saved from death row by a shadowy organisation. But for what purpose? Stylish action based on the hit video game series.</desc>
+    <date>2016</date>
     <category lang="en">Movie</category>
-    <category lang="en">Animation</category>
-    <icon src="https://images.metadata.sky.com/pd-image/0c047495-85d8-4680-9e4b-ad8fa4f625d9/16-9" />
+    <category lang="en">Sci-Fi</category>
+    <icon src="https://images.metadata.sky.com/pd-image/e982a6dd-f31a-4922-81bc-35d3518cf070/16-9" />
     <rating system="UK">
-      <value>U</value>
+      <value>12</value>
     </rating>
   </programme>
-  <programme channel="Sky.Cinema.Select.uk" start="20260905194500 +0000" stop="20260905212500 +0000">
-    <title lang="en">Hotel Transylvania 3: A Monster Vacation</title>
-    <desc lang="en">A stressed-out Dracula is whisked away on a luxury summer cruise. Animated fun with the voice of Adam Sandler.</desc>
-    <date>2018</date>
+  <programme channel="Sky.ScFi/HorHD.uk" start="20260909190000 +0000" stop="20260909212000 +0000">
+    <title lang="en">IT</title>
+    <desc lang="en">Hit adaptation of the Stephen King novel about a ragtag bunch of bullied outsiders battling evil, sewer-dwelling clown Pennywise. Jaeden Lieberher stars.</desc>
+    <date>2017</date>
     <category lang="en">Movie</category>
-    <category lang="en">Animation</category>
-    <icon src="https://images.metadata.sky.com/pd-image/e30ba993-773b-4915-9780-45e39d9f667e/16-9" />
+    <category lang="en">Horror</category>
+    <icon src="https://images.metadata.sky.com/pd-image/de0f6ce4-20d7-420e-b022-2dcc57771a11/16-9" />
     <rating system="UK">
-      <value>U</value>
+      <value>15</value>
     </rating>
   </programme>
-  <programme channel="Sky.Cinema.Select.uk" start="20260905212500 +0000" stop="20260905230500 +0000">
-    <title lang="en">How To Train Your Dragon</title>
-    <desc lang="en">As his father wages a war against dragons, a viking teen secretly befriends one of the fire-breathing fiends. Sublime DreamWorks animation. Contains flashing images.</desc>
-    <date>2010</date>
+  <programme channel="Sky.ScFi/HorHD.uk" start="20260909212000 +0000" stop="20260909233000 +0000">
+    <title lang="en">Weapons</title>
+    <desc lang="en">When all but one child from the same class vanish on the same night, a community is left questioning their disappearance. Twisted horror.</desc>
+    <date>2025</date>
     <category lang="en">Movie</category>
-    <category lang="en">Animation</category>
-    <icon src="https://images.metadata.sky.com/pd-image/90e92a4e-df7b-4cd8-9f14-9bdd34f4c90e/16-9" />
+    <category lang="en">Horror</category>
+    <icon src="https://images.metadata.sky.com/pd-image/45a99f3d-1953-4e68-bcb6-cc9a0ad513e7/16-9" />
     <rating system="UK">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="Sky.Cinema.Select.uk" start="20260905230500 +0000" stop="20260906005000 +0000">
-    <title lang="en">How To Train Your Dragon 2</title>
-    <desc lang="en">Viking Hiccup and his fire-breathing friend Toothless battle to stop a vengeful dragon master upsetting the peace between dragons and humans. Ace animation. Flashing images.</desc>
-    <date>2014</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Animation</category>
-    <icon src="https://images.metadata.sky.com/pd-image/99d32c7a-ec3d-3be5-80e2-88aa8a64560e/16-9" />
-    <rating system="UK">
-      <value>PG</value>
+      <value>18</value>
     </rating>
   </programme>
   <programme channel="Sky.Cinema.Select.uk" start="20260906005000 +0000" stop="20260906022500 +0000">
@@ -2262,134 +2072,123 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme channel="Sky.Thriller.HD.uk" start="20260905010500 +0000" stop="20260905032500 +0000">
-    <title lang="en">Basic Instinct</title>
-    <desc lang="en">Police detective Michael Douglas falls under the spell of alluring murder suspect Sharon Stone in Paul Verhoeven's iconic erotic thriller.</desc>
-    <date>1991</date>
+  <programme channel="Sky.Cinema.Select.uk" start="20260908234500 +0000" stop="20260909013500 +0000">
+    <title lang="en">The Toxic Avenger</title>
+    <desc lang="en">A horrible, toxic accident transforms downtrodden janitor Winston Gooze into a new evolution of hero: The Toxic Avenger.</desc>
+    <date>2025</date>
     <category lang="en">Movie</category>
-    <category lang="en">Thriller</category>
-    <icon src="https://images.metadata.sky.com/pd-image/8c6ad149-1dff-4713-b2a9-748933c45d3b/16-9" />
+    <category lang="en">Action</category>
+    <icon src="https://images.metadata.sky.com/pd-image/0054ee0a-fcc6-42e6-84d4-1e43f634a97b/16-9" />
     <rating system="UK">
       <value>18</value>
     </rating>
   </programme>
-  <programme channel="Sky.Thriller.HD.uk" start="20260905032500 +0000" stop="20260905050000 +0000">
-    <title lang="en">Thieves Highway</title>
-    <desc lang="en">After uncovering a cattle-smuggling plot, a man stands between a gang of dangerous rustlers and the border. Violence/flashing images.</desc>
-    <date>2025</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Drama</category>
-    <icon src="https://images.metadata.sky.com/pd-image/81f917c4-6d52-499c-a447-87cfa705ccb4/16-9" />
-    <rating system="UK">
-      <value>MP</value>
-    </rating>
-  </programme>
-  <programme channel="Sky.Thriller.HD.uk" start="20260905050000 +0000" stop="20260905064500 +0000">
-    <title lang="en">Black Bag</title>
-    <desc lang="en">When his beloved wife, Kathryn, is suspected of betraying the nation, intelligence agent George Woodhouse faces the ultimate test - loyalty to his marriage or his country.</desc>
-    <date>2025</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Thriller</category>
-    <icon src="https://images.metadata.sky.com/pd-image/d3fd3fa9-f25f-4782-9f93-49c4be71db69/16-9" />
-    <rating system="UK">
-      <value>15</value>
-    </rating>
-  </programme>
-  <programme channel="Sky.Thriller.HD.uk" start="20260905064500 +0000" stop="20260905090000 +0000">
-    <title lang="en">Sherlock Holmes</title>
-    <desc lang="en">Golden Globe winner Robert Downey Jr is the eponymous sleuth and Jude Law his sidekick Watson in Guy Ritchie's barnstorming take on the legendary detective. Violence.</desc>
-    <date>2009</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Thriller</category>
-    <icon src="https://images.metadata.sky.com/pd-image/e3c5a605-7278-4f27-b5af-a23d97c4a5d0/16-9" />
-    <rating system="UK">
-      <value>12</value>
-    </rating>
-  </programme>
-  <programme channel="Sky.Thriller.HD.uk" start="20260905090000 +0000" stop="20260905111500 +0000">
-    <title lang="en">Sherlock Holmes: A Game Of Shadows</title>
-    <desc lang="en">Robert Downey Jr and Jude Law return as the shrewd detective and his trusty aide Watson, taking on arch-nemesis Moriarty in a battle of wits. Violence/flashing images.</desc>
+  <programme channel="Sky.Cinema.Select.uk" start="20260909013500 +0000" stop="20260909041000 +0000">
+    <title lang="en">Transformers: Dark Of The Moon</title>
+    <desc lang="en">Can Shia LaBeouf save the world once more? Third instalment of the hit franchise. Strong language/violence/flashing images.</desc>
     <date>2011</date>
     <category lang="en">Movie</category>
-    <category lang="en">Thriller</category>
-    <icon src="https://images.metadata.sky.com/pd-image/c9698837-2597-48bc-bf57-81a7a27bcb9a/16-9" />
+    <category lang="en">Action</category>
+    <icon src="https://images.metadata.sky.com/pd-image/687dc2c4-e5b4-4f7c-a08e-130ec577e489/16-9" />
     <rating system="UK">
       <value>12</value>
     </rating>
   </programme>
-  <programme channel="Sky.Thriller.HD.uk" start="20260905111500 +0000" stop="20260905131500 +0000">
-    <title lang="en">The Bourne Identity</title>
-    <desc lang="en">Matt Damon plays a man with amnesia who finds himself at the centre of a manhunt. First-rate action thriller. Strong language/violence/flashing images.</desc>
-    <date>2002</date>
+  <programme channel="Sky.Cinema.Select.uk" start="20260909041000 +0000" stop="20260909054000 +0000">
+    <title lang="en">Super Charlie</title>
+    <desc lang="en">Willie's dream of fighting crime with his cop dad is shattered when his baby brother Charlie arrives, who turns out to have actual superpowers.</desc>
+    <date>2024</date>
     <category lang="en">Movie</category>
-    <category lang="en">Thriller</category>
-    <icon src="https://images.metadata.sky.com/pd-image/5dde8576-9533-4d50-a061-08a3dea9bf49/16-9" />
+    <category lang="en">Animation</category>
+    <icon src="https://images.metadata.sky.com/pd-image/5b79054c-0fb6-48fd-b5ea-150a3c932365/16-9" />
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="Sky.Cinema.Select.uk" start="20260909054000 +0000" stop="20260909074000 +0000">
+    <title lang="en">Spider-Man: Into The Spider-Verse</title>
+    <desc lang="en">Academy Award-winning animated film exploring the weaves, webs and alternate realities of the incredible Spider-Man universe.</desc>
+    <date>2018</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Animation</category>
+    <icon src="https://images.metadata.sky.com/pd-image/e0603e63-d2f8-4e2a-8505-bf9be9a3a15f/16-9" />
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="Sky.Cinema.Select.uk" start="20260909074000 +0000" stop="20260909095000 +0000">
+    <title lang="en">Batman</title>
+    <desc lang="en">Michael Keaton's Bruce Wayne takes on Jack Nicholson's villainous Joker. Gothic Gotham fantasy directed by Tim Burton. Violence/flashing images.</desc>
+    <date>1989</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Action</category>
+    <icon src="https://images.metadata.sky.com/pd-image/95d06934-2444-4ff9-8dce-62b22a687096/16-9" />
+    <rating system="UK">
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme channel="Sky.Cinema.Select.uk" start="20260909095000 +0000" stop="20260909122500 +0000">
+    <title lang="en">Transformers: Dark Of The Moon</title>
+    <desc lang="en">Can Shia LaBeouf save the world once more? Third instalment of the hit franchise. Strong language/violence/flashing images.</desc>
+    <date>2011</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Action</category>
+    <icon src="https://images.metadata.sky.com/pd-image/687dc2c4-e5b4-4f7c-a08e-130ec577e489/16-9" />
     <rating system="UK">
       <value>12</value>
     </rating>
   </programme>
-  <programme channel="Sky.Thriller.HD.uk" start="20260905131500 +0000" stop="20260905150000 +0000">
-    <title lang="en">Hungry</title>
-    <desc lang="en">After becoming lost in the Louisiana swamplands, a group of holidaymakers must fight for their lives against a rampaging hippo on the loose.</desc>
-    <date>2026</date>
+  <programme channel="Sky.Cinema.Select.uk" start="20260909122500 +0000" stop="20260909142500 +0000">
+    <title lang="en">Justice League</title>
+    <desc lang="en">When a terrifying new villain emerges Batman and Wonder Woman must assemble a team capable of fighting back. DC action.</desc>
+    <date>2017</date>
     <category lang="en">Movie</category>
-    <category lang="en">Thriller</category>
-    <icon src="https://images.metadata.sky.com/pd-image/f7272e68-425a-47d3-b75a-f842785d9df6/16-9" />
-    <rating system="UK">
-      <value>15</value>
-    </rating>
-  </programme>
-  <programme channel="Sky.Thriller.HD.uk" start="20260905150000 +0000" stop="20260905170500 +0000">
-    <title lang="en">Jaws</title>
-    <desc lang="en">Police chief Roy Scheider hunts the killer shark menacing his peaceful seaside community. Spielberg's classic thriller. Language/violence/flashing images.</desc>
-    <date>1975</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Thriller</category>
-    <icon src="https://images.metadata.sky.com/pd-image/c23312f7-eb18-4422-b2a7-57c915c236a3/16-9" />
+    <category lang="en">Action</category>
+    <icon src="https://images.metadata.sky.com/pd-image/ac00931b-4d45-4798-81a4-0260326c4745/16-9" />
     <rating system="UK">
       <value>12</value>
     </rating>
   </programme>
-  <programme channel="Sky.Thriller.HD.uk" start="20260905170500 +0000" stop="20260905190000 +0000">
-    <title lang="en">The Girl On The Train</title>
-    <desc lang="en">Adaptation of the hit book starring Emily Blunt as an alcoholic divorcee caught up in a missing person case that sends shockwaves throughout her life.</desc>
-    <date>2016</date>
+  <programme channel="Sky.Cinema.Select.uk" start="20260909142500 +0000" stop="20260909163500 +0000">
+    <title lang="en">Spider-Man 2</title>
+    <desc lang="en">Tobey Maguire returns as the Webbed Wonder, battling evil in New York with Kirsten Dunst at his side. Action-packed superhero sequel.</desc>
+    <date>2004</date>
     <category lang="en">Movie</category>
-    <category lang="en">Drama</category>
-    <icon src="https://images.metadata.sky.com/pd-image/18fbc7df-f219-4eb5-943b-a446e9b2d179/16-9" />
+    <category lang="en">Action</category>
+    <icon src="https://images.metadata.sky.com/pd-image/a7f835cd-5062-4fee-9c63-a6d06680d62e/16-9" />
+    <rating system="UK">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme channel="Sky.Cinema.Select.uk" start="20260909163500 +0000" stop="20260909190000 +0000">
+    <title lang="en">Spider-Man 3</title>
+    <desc lang="en">Super-powered action as Spidey (Tobey Maguire) battles his inner demons while Sandman and Venom plot to take him down. Violence/flashing images.</desc>
+    <date>2007</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Action</category>
+    <icon src="https://images.metadata.sky.com/pd-image/2382bce3-193d-4c20-a735-7ce782492694/16-9" />
+    <rating system="UK">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme channel="Sky.Cinema.Select.uk" start="20260909190000 +0000" stop="20260909211000 +0000">
+    <title lang="en">Batman Returns</title>
+    <desc lang="en">Blockbuster action as Gotham braces itself for a showdown between the caped crusader, Catwoman and the Penguin.</desc>
+    <date>1992</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Action</category>
+    <icon src="https://images.metadata.sky.com/pd-image/832a27bf-60a6-4a36-81c3-7299bc5d76bb/16-9" />
     <rating system="UK">
       <value>15</value>
     </rating>
   </programme>
-  <programme channel="Sky.Thriller.HD.uk" start="20260905190000 +0000" stop="20260905211000 +0000">
-    <title lang="en">The Accountant</title>
-    <desc lang="en">Action thriller starring Ben Affleck as a high-functioning autistic number-cruncher who moonlights as a money launderer for the mob. With Anna Kendrick and JK Simmons.</desc>
-    <date>2016</date>
+  <programme channel="Sky.Cinema.Select.uk" start="20260909211000 +0000" stop="20260909234500 +0000">
+    <title lang="en">Transformers: Dark Of The Moon</title>
+    <desc lang="en">Can Shia LaBeouf save the world once more? Third instalment of the hit franchise. Strong language/violence/flashing images.</desc>
+    <date>2011</date>
     <category lang="en">Movie</category>
-    <category lang="en">Thriller</category>
-    <icon src="https://images.metadata.sky.com/pd-image/dd9c3d70-40d1-4c46-a6e9-bfaae4290db9/16-9" />
-    <rating system="UK">
-      <value>15</value>
-    </rating>
-  </programme>
-  <programme channel="Sky.Thriller.HD.uk" start="20260905211000 +0000" stop="20260905232000 +0000">
-    <title lang="en">Seven</title>
-    <desc lang="en">Veteran detective Morgan Freeman and rookie Brad Pitt hunt serial killer Kevin Spacey as he embarks on a seven deadly sins-centric murder spree. Classic crime thriller.</desc>
-    <date>1995</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Thriller</category>
-    <icon src="https://images.metadata.sky.com/pd-image/221e5981-577b-4ad7-b269-c7c3ca658290/16-9" />
-    <rating system="UK">
-      <value>18</value>
-    </rating>
-  </programme>
-  <programme channel="Sky.Thriller.HD.uk" start="20260905232000 +0000" stop="20260906012500 +0000">
-    <title lang="en">The Bourne Identity</title>
-    <desc lang="en">Matt Damon plays a man with amnesia who finds himself at the centre of a manhunt. First-rate action thriller. Strong language/violence/flashing images.</desc>
-    <date>2002</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Thriller</category>
-    <icon src="https://images.metadata.sky.com/pd-image/5dde8576-9533-4d50-a061-08a3dea9bf49/16-9" />
+    <category lang="en">Action</category>
+    <icon src="https://images.metadata.sky.com/pd-image/687dc2c4-e5b4-4f7c-a08e-130ec577e489/16-9" />
     <rating system="UK">
       <value>12</value>
     </rating>
@@ -2784,209 +2583,125 @@
       <value>18</value>
     </rating>
   </programme>
-  <programme channel="Sky.Cinema.Hits.HD.uk" start="20260905190000 +0000" stop="20260905210000 +0000">
-    <title lang="en">Men in Black: International</title>
-    <desc lang="en">The intergalactic law enforcers have always protected the Earth from the scum of the universe. This time they tackle their biggest threat - a mole in the Men in Black organisation. Director F Gary Gray's fantasy sequel, starring Chris Hemsworth, Tessa Thompson and Rebecca Ferguson.</desc>
-    <credits>
-      <actor>Chris Hemsworth</actor>
-      <actor>Tessa Thompson</actor>
-      <actor>Rebecca Ferguson</actor>
-      <actor>Rafe Spall</actor>
-      <actor>Emma Thompson</actor>
-      <actor>Liam Neeson</actor>
-      <actor>F Gary Gray</actor>
-    </credits>
-    <category lang="en">Film</category>
-    <icon src="https://tv.assets.pressassociation.io/b0e5e0f4-c4dd-548c-a527-6b023911ee6c.jpg" />
+  <programme channel="Sky.Thriller.HD.uk" start="20260909013000 +0000" stop="20260909033500 +0000">
+    <title lang="en">Juror #2</title>
+    <desc lang="en">While serving as a juror in a high-profile murder case, family man Nicholas Hoult grapples with a serious moral dilemma. From Clint Eastwood.</desc>
+    <date>2024</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Thriller</category>
+    <icon src="https://images.metadata.sky.com/pd-image/02290cef-982e-3fda-bd75-f2dc027fba82/16-9" />
+    <rating system="UK">
+      <value>12</value>
+    </rating>
   </programme>
-  <programme channel="Sky.Cinema.Hits.HD.uk" start="20260905210000 +0000" stop="20260905224500 +0000">
-    <title lang="en">Men in Black</title>
-    <desc lang="en">A streetwise cop is enlisted by a top-secret government force dedicated to policing alien visitors to Earth, teaming up with a veteran agent just as a body-swapping extraterrestrial giant insect begins a reign of terror throughout New York City. Sci-fi comedy, starring Will Smith, Tommy Lee Jones, Linda Fiorentino, Rip Torn and Vincent D'Onofrio.</desc>
-    <credits>
-      <actor>Will Smith</actor>
-      <actor>Tommy Lee Jones</actor>
-      <actor>Linda Fiorentino</actor>
-      <actor>Rip Torn</actor>
-      <actor>Vincent D'Onofrio</actor>
-      <actor>Tony Shalhoub</actor>
-      <actor>Carel Struycken</actor>
-      <actor>Siobhan Fallon</actor>
-    </credits>
-    <category lang="en">Film</category>
-    <icon src="https://tv.assets.pressassociation.io/7be4eb31-29df-583e-9dde-cc297471af2a.jpg" />
+  <programme channel="Sky.Thriller.HD.uk" start="20260909033500 +0000" stop="20260909054500 +0000">
+    <title lang="en">Fatal Attraction</title>
+    <desc lang="en">Married Michael Douglas has a one-night stand with Glenn Close, but the bunny-hating harpy isn't ready to say goodbye. Thriller. Contains violence/sex/mature themes.</desc>
+    <date>1987</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Thriller</category>
+    <icon src="https://images.metadata.sky.com/pd-image/6947aa1d-2c00-4703-8829-8fb822dd4cc6/16-9" />
+    <rating system="UK">
+      <value>MP</value>
+    </rating>
   </programme>
-  <programme channel="Sky.Cinema.Hits.HD.uk" start="20260905224500 +0000" stop="20260906002500 +0000">
-    <title lang="en">Men in Black II</title>
-    <desc lang="en">Agent J investigates the unauthorised landing of a spacecraft and discovers a malevolent alien disguised as a lingerie model is on the verge of destroying humanity. His only hope of stopping her diabolical plot is to restore the memory of his retired partner K - but his former mentor takes more than a little convincing. Sci-fi comedy sequel, directed by Barry Sonnenfeld, starring Will Smith, Tommy Lee Jones, Rosario Dawson, Lara Flynn Boyle, Johnny Knoxville, Rip Torn and Tony Shalhoub.</desc>
-    <credits>
-      <actor>Will Smith</actor>
-      <actor>Tommy Lee Jones</actor>
-      <actor>Rosario Dawson</actor>
-      <actor>Lara Flynn Boyle</actor>
-      <actor>Johnny Knoxville</actor>
-      <actor>Rip Torn</actor>
-      <actor>Tony Shalhoub</actor>
-      <actor>Patrick Warburton</actor>
-    </credits>
-    <category lang="en">Film</category>
-    <icon src="https://tv.assets.pressassociation.io/37383208-29fb-55f5-b46e-18ab380f49a3.jpg" />
+  <programme channel="Sky.Thriller.HD.uk" start="20260909054500 +0000" stop="20260909075000 +0000">
+    <title lang="en">Nightcrawler</title>
+    <desc lang="en">Jake Gyllenhaal's freelance cameraman scours LA for scandal, blurring the lines between observer and participant to become the star of his own story. Neo-noir thriller.</desc>
+    <date>2014</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Thriller</category>
+    <icon src="https://images.metadata.sky.com/pd-image/c7ce82a8-943a-4b42-ab48-ff0ace38a43b/16-9" />
+    <rating system="UK">
+      <value>15</value>
+    </rating>
   </programme>
-  <programme channel="Sky.Cinema.Hits.HD.uk" start="20260906002500 +0000" stop="20260906022000 +0000">
-    <title lang="en">Men in Black 3</title>
-    <desc lang="en">An alien criminal escapes from a prison on the moon and goes back in time on a mission of revenge, changing the course of history. Agent J of the top-secret Earth defence organisation follows him back to 1969, and joins forces with a younger version of his mentor Agent K to set things right. Sci-fi comedy sequel, starring Will Smith, Josh Brolin and Tommy Lee Jones.</desc>
-    <credits>
-      <actor>Will Smith</actor>
-      <actor>Tommy Lee Jones</actor>
-      <actor>Josh Brolin</actor>
-      <actor>Emma Thompson</actor>
-      <actor>Jemaine Clement</actor>
-      <actor>Alice Eve</actor>
-      <actor>Michael Stuhlbarg</actor>
-      <actor>Michael Chernus</actor>
-    </credits>
-    <category lang="en">Film</category>
-    <icon src="https://tv.assets.pressassociation.io/c6dec8c6-ad69-5878-a55d-8a84e4b57082.jpg" />
+  <programme channel="Sky.Thriller.HD.uk" start="20260909075000 +0000" stop="20260909100000 +0000">
+    <title lang="en">Patriot Games</title>
+    <desc lang="en">CIA agent Harrison Ford becomes the target of an IRA revenge plot after he foils a terrorist attack. Strong language/violence/flashing images.</desc>
+    <date>1991</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Thriller</category>
+    <icon src="https://images.metadata.sky.com/pd-image/4a8d0ba6-d1a9-4bcf-96a3-e5a6f5fed4c2/16-9" />
+    <rating system="UK">
+      <value>15</value>
+    </rating>
   </programme>
-  <programme channel="Sky.Cinema.Hits.HD.uk" start="20260906022000 +0000" stop="20260906042500 +0000">
-    <title lang="en">Men in Black: International</title>
-    <desc lang="en">The intergalactic law enforcers have always protected the Earth from the scum of the universe. This time they tackle their biggest threat - a mole in the Men in Black organisation. Director F Gary Gray's fantasy sequel, starring Chris Hemsworth, Tessa Thompson and Rebecca Ferguson.</desc>
-    <credits>
-      <actor>Chris Hemsworth</actor>
-      <actor>Tessa Thompson</actor>
-      <actor>Rebecca Ferguson</actor>
-      <actor>Rafe Spall</actor>
-      <actor>Emma Thompson</actor>
-      <actor>Liam Neeson</actor>
-      <actor>F Gary Gray</actor>
-    </credits>
-    <category lang="en">Film</category>
-    <icon src="https://tv.assets.pressassociation.io/b0e5e0f4-c4dd-548c-a527-6b023911ee6c.jpg" />
+  <programme channel="Sky.Thriller.HD.uk" start="20260909100000 +0000" stop="20260909120500 +0000">
+    <title lang="en">Mr. &amp; Mrs. Smith</title>
+    <desc lang="en">Brad Pitt and Angelina Jolie are the married assassins facing off in a super-sexy shoot 'em up. Action comedy. Contains strong language/violence/flashing images.</desc>
+    <date>2005</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Thriller</category>
+    <icon src="https://images.metadata.sky.com/pd-image/6845fae2-86dc-4d46-a701-e47d3619bdc7/16-9" />
+    <rating system="UK">
+      <value>15</value>
+    </rating>
   </programme>
-  <programme channel="Sky.Cinema.Hits.HD.uk" start="20260906042500 +0000" stop="20260906061500 +0000">
-    <title lang="en">Men in Black</title>
-    <desc lang="en">A streetwise cop is enlisted by a top-secret government force dedicated to policing alien visitors to Earth, teaming up with a veteran agent just as a body-swapping extraterrestrial giant insect begins a reign of terror throughout New York City. Sci-fi comedy, starring Will Smith, Tommy Lee Jones, Linda Fiorentino, Rip Torn and Vincent D'Onofrio.</desc>
-    <credits>
-      <actor>Will Smith</actor>
-      <actor>Tommy Lee Jones</actor>
-      <actor>Linda Fiorentino</actor>
-      <actor>Rip Torn</actor>
-      <actor>Vincent D'Onofrio</actor>
-      <actor>Tony Shalhoub</actor>
-      <actor>Carel Struycken</actor>
-      <actor>Siobhan Fallon</actor>
-    </credits>
-    <category lang="en">Film</category>
-    <icon src="https://tv.assets.pressassociation.io/7be4eb31-29df-583e-9dde-cc297471af2a.jpg" />
+  <programme channel="Sky.Thriller.HD.uk" start="20260909120500 +0000" stop="20260909142500 +0000">
+    <title lang="en">The Bourne Legacy</title>
+    <desc lang="en">Enhanced assassin Jeremy Renner faces a battle to survive when his CIA employers decide to eliminate his programme.</desc>
+    <category lang="en">Movie</category>
+    <category lang="en">Thriller</category>
+    <icon src="https://images.metadata.sky.com/pd-image/b3ac00bb-b586-4efe-9b49-cbbfe796da16/16-9" />
+    <rating system="UK">
+      <value>12</value>
+    </rating>
   </programme>
-  <programme channel="Sky.Cinema.Hits.HD.uk" start="20260906061500 +0000" stop="20260906075500 +0000">
-    <title lang="en">Men in Black II</title>
-    <desc lang="en">Agent J investigates the unauthorised landing of a spacecraft and discovers a malevolent alien disguised as a lingerie model is on the verge of destroying humanity. His only hope of stopping her diabolical plot is to restore the memory of his retired partner K - but his former mentor takes more than a little convincing. Sci-fi comedy sequel, directed by Barry Sonnenfeld, starring Will Smith, Tommy Lee Jones, Rosario Dawson, Lara Flynn Boyle, Johnny Knoxville, Rip Torn and Tony Shalhoub.</desc>
-    <credits>
-      <actor>Will Smith</actor>
-      <actor>Tommy Lee Jones</actor>
-      <actor>Rosario Dawson</actor>
-      <actor>Lara Flynn Boyle</actor>
-      <actor>Johnny Knoxville</actor>
-      <actor>Rip Torn</actor>
-      <actor>Tony Shalhoub</actor>
-      <actor>Patrick Warburton</actor>
-    </credits>
-    <category lang="en">Film</category>
-    <icon src="https://tv.assets.pressassociation.io/37383208-29fb-55f5-b46e-18ab380f49a3.jpg" />
+  <programme channel="Sky.Thriller.HD.uk" start="20260909142500 +0000" stop="20260909164000 +0000">
+    <title lang="en">Jason Bourne</title>
+    <desc lang="en">Matt Damon's super-soldier emerges from the shadows when a face from his past uncovers hard-hitting secrets. Action thriller with Tommy Lee Jones and Alicia Vikander.</desc>
+    <date>2016</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Thriller</category>
+    <icon src="https://images.metadata.sky.com/pd-image/0298e072-27f7-46aa-ab1c-3643c9cc51fc/16-9" />
+    <rating system="UK">
+      <value>12</value>
+    </rating>
   </programme>
-  <programme channel="Sky.Cinema.Hits.HD.uk" start="20260906075500 +0000" stop="20260906094500 +0000">
-    <title lang="en">Men in Black 3</title>
-    <desc lang="en">An alien criminal escapes from a prison on the moon and goes back in time on a mission of revenge, changing the course of history. Agent J of the top-secret Earth defence organisation follows him back to 1969, and joins forces with a younger version of his mentor Agent K to set things right. Sci-fi comedy sequel, starring Will Smith, Josh Brolin and Tommy Lee Jones.</desc>
-    <credits>
-      <actor>Will Smith</actor>
-      <actor>Tommy Lee Jones</actor>
-      <actor>Josh Brolin</actor>
-      <actor>Emma Thompson</actor>
-      <actor>Jemaine Clement</actor>
-      <actor>Alice Eve</actor>
-      <actor>Michael Stuhlbarg</actor>
-      <actor>Michael Chernus</actor>
-    </credits>
-    <category lang="en">Film</category>
-    <icon src="https://tv.assets.pressassociation.io/c6dec8c6-ad69-5878-a55d-8a84e4b57082.jpg" />
+  <programme channel="Sky.Thriller.HD.uk" start="20260909164000 +0000" stop="20260909190000 +0000">
+    <title lang="en">The Hunt For Red October</title>
+    <desc lang="en">Soviet nuclear sub commander Sean Connery announces his defection to the West, but is it just a war-mongering ploy? Thriller with Alec Baldwin.</desc>
+    <date>1990</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Thriller</category>
+    <icon src="https://images.metadata.sky.com/pd-image/73c0c7fd-97df-4243-a5ca-98a8e293e297/16-9" />
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
   </programme>
-  <programme channel="Sky.Cinema.Hits.HD.uk" start="20260906094500 +0000" stop="20260906114500 +0000">
-    <title lang="en">Men in Black: International</title>
-    <desc lang="en">The intergalactic law enforcers have always protected the Earth from the scum of the universe. This time they tackle their biggest threat - a mole in the Men in Black organisation. Director F Gary Gray's fantasy sequel, starring Chris Hemsworth, Tessa Thompson and Rebecca Ferguson.</desc>
-    <credits>
-      <actor>Chris Hemsworth</actor>
-      <actor>Tessa Thompson</actor>
-      <actor>Rebecca Ferguson</actor>
-      <actor>Rafe Spall</actor>
-      <actor>Emma Thompson</actor>
-      <actor>Liam Neeson</actor>
-      <actor>F Gary Gray</actor>
-    </credits>
-    <category lang="en">Film</category>
-    <icon src="https://tv.assets.pressassociation.io/b0e5e0f4-c4dd-548c-a527-6b023911ee6c.jpg" />
+  <programme channel="Sky.Thriller.HD.uk" start="20260909190000 +0000" stop="20260909205000 +0000">
+    <title lang="en">Snatch</title>
+    <desc lang="en">Guy Ritchie's East End thriller with bare-knuckle boxing, wheeler-dealers and conmen in pursuit of a stolen jewel. Strong language/sex/violence.</desc>
+    <date>2000</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Thriller</category>
+    <icon src="https://images.metadata.sky.com/pd-image/b572d8d8-22f4-4234-afa1-2502612aa245/16-9" />
+    <rating system="UK">
+      <value>15</value>
+    </rating>
   </programme>
-  <programme channel="Sky.Cinema.Hits.HD.uk" start="20260906114500 +0000" stop="20260906133000 +0000">
-    <title lang="en">Men in Black</title>
-    <desc lang="en">A streetwise cop is enlisted by a top-secret government force dedicated to policing alien visitors to Earth, teaming up with a veteran agent just as a body-swapping extraterrestrial giant insect begins a reign of terror throughout New York City. Sci-fi comedy, starring Will Smith, Tommy Lee Jones, Linda Fiorentino, Rip Torn and Vincent D'Onofrio.</desc>
-    <credits>
-      <actor>Will Smith</actor>
-      <actor>Tommy Lee Jones</actor>
-      <actor>Linda Fiorentino</actor>
-      <actor>Rip Torn</actor>
-      <actor>Vincent D'Onofrio</actor>
-      <actor>Tony Shalhoub</actor>
-      <actor>Carel Struycken</actor>
-      <actor>Siobhan Fallon</actor>
-    </credits>
-    <category lang="en">Film</category>
-    <icon src="https://tv.assets.pressassociation.io/7be4eb31-29df-583e-9dde-cc297471af2a.jpg" />
+  <programme channel="Sky.Thriller.HD.uk" start="20260909205000 +0000" stop="20260909223500 +0000">
+    <title lang="en">Hungry</title>
+    <desc lang="en">After becoming lost in the Louisiana swamplands, a group of holidaymakers must fight for their lives against a rampaging hippo on the loose.</desc>
+    <date>2026</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Thriller</category>
+    <icon src="https://images.metadata.sky.com/pd-image/f7272e68-425a-47d3-b75a-f842785d9df6/16-9" />
+    <rating system="UK">
+      <value>15</value>
+    </rating>
   </programme>
-  <programme channel="Sky.Cinema.Hits.HD.uk" start="20260906133000 +0000" stop="20260906150000 +0000">
-    <title lang="en">Men in Black II</title>
-    <desc lang="en">Agent J investigates the unauthorised landing of a spacecraft and discovers a malevolent alien disguised as a lingerie model is on the verge of destroying humanity. His only hope of stopping her diabolical plot is to restore the memory of his retired partner K - but his former mentor takes more than a little convincing. Sci-fi comedy sequel, directed by Barry Sonnenfeld, starring Will Smith, Tommy Lee Jones, Rosario Dawson, Lara Flynn Boyle, Johnny Knoxville, Rip Torn and Tony Shalhoub.</desc>
-    <credits>
-      <actor>Will Smith</actor>
-      <actor>Tommy Lee Jones</actor>
-      <actor>Rosario Dawson</actor>
-      <actor>Lara Flynn Boyle</actor>
-      <actor>Johnny Knoxville</actor>
-      <actor>Rip Torn</actor>
-      <actor>Tony Shalhoub</actor>
-      <actor>Patrick Warburton</actor>
-    </credits>
-    <category lang="en">Film</category>
-    <icon src="https://tv.assets.pressassociation.io/37383208-29fb-55f5-b46e-18ab380f49a3.jpg" />
-  </programme>
-  <programme channel="Sky.Cinema.Hits.HD.uk" start="20260906150000 +0000" stop="20260906170000 +0000">
-    <title lang="en">Men in Black 3</title>
-    <desc lang="en">An alien criminal escapes from a prison on the moon and goes back in time on a mission of revenge, changing the course of history. Agent J of the top-secret Earth defence organisation follows him back to 1969, and joins forces with a younger version of his mentor Agent K to set things right. Sci-fi comedy sequel, starring Will Smith, Josh Brolin and Tommy Lee Jones.</desc>
-    <credits>
-      <actor>Will Smith</actor>
-      <actor>Tommy Lee Jones</actor>
-      <actor>Josh Brolin</actor>
-      <actor>Emma Thompson</actor>
-      <actor>Jemaine Clement</actor>
-      <actor>Alice Eve</actor>
-      <actor>Michael Stuhlbarg</actor>
-      <actor>Michael Chernus</actor>
-    </credits>
-    <category lang="en">Film</category>
-    <icon src="https://tv.assets.pressassociation.io/c6dec8c6-ad69-5878-a55d-8a84e4b57082.jpg" />
-  </programme>
-  <programme channel="Sky.Cinema.Hits.HD.uk" start="20260906170000 +0000" stop="20260906190000 +0000">
-    <title lang="en">Men in Black: International</title>
-    <desc lang="en">The intergalactic law enforcers have always protected the Earth from the scum of the universe. This time they tackle their biggest threat - a mole in the Men in Black organisation. Director F Gary Gray's fantasy sequel, starring Chris Hemsworth, Tessa Thompson and Rebecca Ferguson.</desc>
-    <credits>
-      <actor>Chris Hemsworth</actor>
-      <actor>Tessa Thompson</actor>
-      <actor>Rebecca Ferguson</actor>
-      <actor>Rafe Spall</actor>
-      <actor>Emma Thompson</actor>
-      <actor>Liam Neeson</actor>
-      <actor>F Gary Gray</actor>
-    </credits>
-    <category lang="en">Film</category>
-    <icon src="https://tv.assets.pressassociation.io/b0e5e0f4-c4dd-548c-a527-6b023911ee6c.jpg" />
+  <programme channel="Sky.Thriller.HD.uk" start="20260909223500 +0000" stop="20260910004000 +0000">
+    <title lang="en">Safe House</title>
+    <desc lang="en">Sparks fly when CIA man Ryan Reynolds is tasked with keeping watch over murderous rogue agent Denzel Washington. Action thriller. Language/violence/flashing images.</desc>
+    <date>2012</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Thriller</category>
+    <icon src="https://images.metadata.sky.com/pd-image/8e7d23f2-5d46-4f3c-994c-b4a2c1b3dbf5/16-9" />
+    <rating system="UK">
+      <value>15</value>
+    </rating>
   </programme>
   <programme channel="Sky.Cinema.Hits.HD.uk" start="20260906190000 +0000" stop="20260906204500 +0000">
     <title lang="en">Men in Black</title>
@@ -3456,6 +3171,214 @@
     </credits>
     <category lang="en">Film</category>
     <icon src="https://tv.assets.pressassociation.io/4e94fbf3-24e8-5be4-9c6d-0f3ed35618ed.jpg" />
+  </programme>
+  <programme channel="Sky.Cinema.Hits.HD.uk" start="20260909011500 +0000" stop="20260909030000 +0000">
+    <title lang="en">American Pie</title>
+    <desc lang="en">Four teenage lads make a solemn pact to lose their virginity before the high-school prom. Though their antics cause them huge embarrassment and public humiliation, the friends also learn about love and affection in their relations with the opposite sex. Comedy, starring Jason Biggs, Shannon Elizabeth, Chris Klein, Alyson Hannigan, Mena Suvari, Seann William Scott and Eugene Levy.</desc>
+    <credits>
+      <actor>Jason Biggs</actor>
+      <actor>Eugene Levy</actor>
+      <actor>Shannon Elizabeth</actor>
+      <actor>Alyson Hannigan</actor>
+      <actor>Chris Klein</actor>
+      <actor>Thomas Ian Nicholas</actor>
+      <actor>Mena Suvari</actor>
+      <actor>Seann William Scott</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="https://tv.assets.pressassociation.io/2945120d-1d8b-5674-b409-e3d360c65214.jpg" />
+  </programme>
+  <programme channel="Sky.Cinema.Hits.HD.uk" start="20260909030000 +0000" stop="20260909045500 +0000">
+    <title lang="en">American Pie 2</title>
+    <desc lang="en">The teenagers reunite after their first year at college to spend the summer at a lake house. Jim is concerned by his lack of sexual experience, and goes in search of an old flame, Oz struggles to keep a long-term relationship going, and Finch tries to master the art of tantric sex. Comedy sequel, starring Jason Biggs, Chris Klein, Seann William Scott, Alyson Hannigan and Eugene Levy.</desc>
+    <credits>
+      <actor>Jason Biggs</actor>
+      <actor>Chris Klein</actor>
+      <actor>Seann William Scott</actor>
+      <actor>Alyson Hannigan</actor>
+      <actor>Eugene Levy</actor>
+      <actor>Thomas Ian Nicholas</actor>
+      <actor>Mena Suvari</actor>
+      <actor>Shannon Elizabeth</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="https://tv.assets.pressassociation.io/e5071242-5e9b-5267-8d2e-c66223a4e380.jpg" />
+  </programme>
+  <programme channel="Sky.Cinema.Hits.HD.uk" start="20260909045500 +0000" stop="20260909064000 +0000">
+    <title lang="en">American Pie: The Wedding</title>
+    <desc lang="en">The friends from East Great Falls High reunite to celebrate Jim and Michelle's forthcoming wedding. Though reluctant to invite Stifler to their big day, the happy couple relent - but regret their decision when he plans a bachelor party on the same evening Jim is due to meet the in-laws. The third instalment in the comedy series, with Jason Biggs, Alyson Hannigan, Seann William Scott, Eddie Kaye Thomas and Eugene Levy.</desc>
+    <credits>
+      <actor>Jason Biggs</actor>
+      <actor>Alyson Hannigan</actor>
+      <actor>Seann William Scott</actor>
+      <actor>Eddie Kaye Thomas</actor>
+      <actor>Eugene Levy</actor>
+      <actor>Thomas Ian Nicholas</actor>
+      <actor>January Jones</actor>
+      <actor>Molly Cheek</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="https://tv.assets.pressassociation.io/8316865a-a5ba-57dd-962b-8ad797e21133.jpg" />
+  </programme>
+  <programme channel="Sky.Cinema.Hits.HD.uk" start="20260909064000 +0000" stop="20260909084500 +0000">
+    <title lang="en">American Reunion</title>
+    <desc lang="en">Jim Levenstein and his old friends return to their home town for a high-school reunion. Struck by how much their lives have changed, they set out to relive the sexual misadventures of their adolescence, but only end up making bigger fools of themselves than they did as teenagers. Comedy sequel to the American Pie movies, starring Jason Biggs and Alyson Hannigan.</desc>
+    <credits>
+      <actor>Jason Biggs</actor>
+      <actor>Alyson Hannigan</actor>
+      <actor>Chris Klein</actor>
+      <actor>Thomas Ian Nicholas</actor>
+      <actor>Tara Reid</actor>
+      <actor>Seann William Scott</actor>
+      <actor>Mena Suvari</actor>
+      <actor>Eugene Levy</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="https://tv.assets.pressassociation.io/4e94fbf3-24e8-5be4-9c6d-0f3ed35618ed.jpg" />
+  </programme>
+  <programme channel="Sky.Cinema.Hits.HD.uk" start="20260909084500 +0000" stop="20260909103500 +0000">
+    <title lang="en">American Pie</title>
+    <desc lang="en">Four teenage lads make a solemn pact to lose their virginity before the high-school prom. Though their antics cause them huge embarrassment and public humiliation, the friends also learn about love and affection in their relations with the opposite sex. Comedy, starring Jason Biggs, Shannon Elizabeth, Chris Klein, Alyson Hannigan, Mena Suvari, Seann William Scott and Eugene Levy.</desc>
+    <credits>
+      <actor>Jason Biggs</actor>
+      <actor>Eugene Levy</actor>
+      <actor>Shannon Elizabeth</actor>
+      <actor>Alyson Hannigan</actor>
+      <actor>Chris Klein</actor>
+      <actor>Thomas Ian Nicholas</actor>
+      <actor>Mena Suvari</actor>
+      <actor>Seann William Scott</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="https://tv.assets.pressassociation.io/2945120d-1d8b-5674-b409-e3d360c65214.jpg" />
+  </programme>
+  <programme channel="Sky.Cinema.Hits.HD.uk" start="20260909103500 +0000" stop="20260909123000 +0000">
+    <title lang="en">American Pie 2</title>
+    <desc lang="en">The teenagers reunite after their first year at college to spend the summer at a lake house. Jim is concerned by his lack of sexual experience, and goes in search of an old flame, Oz struggles to keep a long-term relationship going, and Finch tries to master the art of tantric sex. Comedy sequel, starring Jason Biggs, Chris Klein, Seann William Scott, Alyson Hannigan and Eugene Levy.</desc>
+    <credits>
+      <actor>Jason Biggs</actor>
+      <actor>Chris Klein</actor>
+      <actor>Seann William Scott</actor>
+      <actor>Alyson Hannigan</actor>
+      <actor>Eugene Levy</actor>
+      <actor>Thomas Ian Nicholas</actor>
+      <actor>Mena Suvari</actor>
+      <actor>Shannon Elizabeth</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="https://tv.assets.pressassociation.io/e5071242-5e9b-5267-8d2e-c66223a4e380.jpg" />
+  </programme>
+  <programme channel="Sky.Cinema.Hits.HD.uk" start="20260909123000 +0000" stop="20260909141500 +0000">
+    <title lang="en">American Pie: The Wedding</title>
+    <desc lang="en">The friends from East Great Falls High reunite to celebrate Jim and Michelle's forthcoming wedding. Though reluctant to invite Stifler to their big day, the happy couple relent - but regret their decision when he plans a bachelor party on the same evening Jim is due to meet the in-laws. The third instalment in the comedy series, with Jason Biggs, Alyson Hannigan, Seann William Scott, Eddie Kaye Thomas and Eugene Levy.</desc>
+    <credits>
+      <actor>Jason Biggs</actor>
+      <actor>Alyson Hannigan</actor>
+      <actor>Seann William Scott</actor>
+      <actor>Eddie Kaye Thomas</actor>
+      <actor>Eugene Levy</actor>
+      <actor>Thomas Ian Nicholas</actor>
+      <actor>January Jones</actor>
+      <actor>Molly Cheek</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="https://tv.assets.pressassociation.io/8316865a-a5ba-57dd-962b-8ad797e21133.jpg" />
+  </programme>
+  <programme channel="Sky.Cinema.Hits.HD.uk" start="20260909141500 +0000" stop="20260909161500 +0000">
+    <title lang="en">American Reunion</title>
+    <desc lang="en">Jim Levenstein and his old friends return to their home town for a high-school reunion. Struck by how much their lives have changed, they set out to relive the sexual misadventures of their adolescence, but only end up making bigger fools of themselves than they did as teenagers. Comedy sequel to the American Pie movies, starring Jason Biggs and Alyson Hannigan.</desc>
+    <credits>
+      <actor>Jason Biggs</actor>
+      <actor>Alyson Hannigan</actor>
+      <actor>Chris Klein</actor>
+      <actor>Thomas Ian Nicholas</actor>
+      <actor>Tara Reid</actor>
+      <actor>Seann William Scott</actor>
+      <actor>Mena Suvari</actor>
+      <actor>Eugene Levy</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="https://tv.assets.pressassociation.io/4e94fbf3-24e8-5be4-9c6d-0f3ed35618ed.jpg" />
+  </programme>
+  <programme channel="Sky.Cinema.Hits.HD.uk" start="20260909161500 +0000" stop="20260909180000 +0000">
+    <title lang="en">American Pie</title>
+    <desc lang="en">Four teenage lads make a solemn pact to lose their virginity before the high-school prom. Though their antics cause them huge embarrassment and public humiliation, the friends also learn about love and affection in their relations with the opposite sex. Comedy, starring Jason Biggs, Shannon Elizabeth, Chris Klein, Alyson Hannigan, Mena Suvari, Seann William Scott and Eugene Levy.</desc>
+    <credits>
+      <actor>Jason Biggs</actor>
+      <actor>Eugene Levy</actor>
+      <actor>Shannon Elizabeth</actor>
+      <actor>Alyson Hannigan</actor>
+      <actor>Chris Klein</actor>
+      <actor>Thomas Ian Nicholas</actor>
+      <actor>Mena Suvari</actor>
+      <actor>Seann William Scott</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="https://tv.assets.pressassociation.io/2945120d-1d8b-5674-b409-e3d360c65214.jpg" />
+  </programme>
+  <programme channel="Sky.Cinema.Hits.HD.uk" start="20260909180000 +0000" stop="20260909195000 +0000">
+    <title lang="en">American Pie 2</title>
+    <desc lang="en">The teenagers reunite after their first year at college to spend the summer at a lake house. Jim is concerned by his lack of sexual experience, and goes in search of an old flame, Oz struggles to keep a long-term relationship going, and Finch tries to master the art of tantric sex. Comedy sequel, starring Jason Biggs, Chris Klein, Seann William Scott, Alyson Hannigan and Eugene Levy.</desc>
+    <credits>
+      <actor>Jason Biggs</actor>
+      <actor>Chris Klein</actor>
+      <actor>Seann William Scott</actor>
+      <actor>Alyson Hannigan</actor>
+      <actor>Eugene Levy</actor>
+      <actor>Thomas Ian Nicholas</actor>
+      <actor>Mena Suvari</actor>
+      <actor>Shannon Elizabeth</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="https://tv.assets.pressassociation.io/e5071242-5e9b-5267-8d2e-c66223a4e380.jpg" />
+  </programme>
+  <programme channel="Sky.Cinema.Hits.HD.uk" start="20260909195000 +0000" stop="20260909213000 +0000">
+    <title lang="en">American Pie: The Wedding</title>
+    <desc lang="en">The friends from East Great Falls High reunite to celebrate Jim and Michelle's forthcoming wedding. Though reluctant to invite Stifler to their big day, the happy couple relent - but regret their decision when he plans a bachelor party on the same evening Jim is due to meet the in-laws. The third instalment in the comedy series, with Jason Biggs, Alyson Hannigan, Seann William Scott, Eddie Kaye Thomas and Eugene Levy.</desc>
+    <credits>
+      <actor>Jason Biggs</actor>
+      <actor>Alyson Hannigan</actor>
+      <actor>Seann William Scott</actor>
+      <actor>Eddie Kaye Thomas</actor>
+      <actor>Eugene Levy</actor>
+      <actor>Thomas Ian Nicholas</actor>
+      <actor>January Jones</actor>
+      <actor>Molly Cheek</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="https://tv.assets.pressassociation.io/8316865a-a5ba-57dd-962b-8ad797e21133.jpg" />
+  </programme>
+  <programme channel="Sky.Cinema.Hits.HD.uk" start="20260909213000 +0000" stop="20260909233000 +0000">
+    <title lang="en">American Reunion</title>
+    <desc lang="en">Jim Levenstein and his old friends return to their home town for a high-school reunion. Struck by how much their lives have changed, they set out to relive the sexual misadventures of their adolescence, but only end up making bigger fools of themselves than they did as teenagers. Comedy sequel to the American Pie movies, starring Jason Biggs and Alyson Hannigan.</desc>
+    <credits>
+      <actor>Jason Biggs</actor>
+      <actor>Alyson Hannigan</actor>
+      <actor>Chris Klein</actor>
+      <actor>Thomas Ian Nicholas</actor>
+      <actor>Tara Reid</actor>
+      <actor>Seann William Scott</actor>
+      <actor>Mena Suvari</actor>
+      <actor>Eugene Levy</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="https://tv.assets.pressassociation.io/4e94fbf3-24e8-5be4-9c6d-0f3ed35618ed.jpg" />
+  </programme>
+  <programme channel="Sky.Cinema.Hits.HD.uk" start="20260909233000 +0000" stop="20260910011000 +0000">
+    <title lang="en">American Pie</title>
+    <desc lang="en">Four teenage lads make a solemn pact to lose their virginity before the high-school prom. Though their antics cause them huge embarrassment and public humiliation, the friends also learn about love and affection in their relations with the opposite sex. Comedy, starring Jason Biggs, Shannon Elizabeth, Chris Klein, Alyson Hannigan, Mena Suvari, Seann William Scott and Eugene Levy.</desc>
+    <credits>
+      <actor>Jason Biggs</actor>
+      <actor>Eugene Levy</actor>
+      <actor>Shannon Elizabeth</actor>
+      <actor>Alyson Hannigan</actor>
+      <actor>Chris Klein</actor>
+      <actor>Thomas Ian Nicholas</actor>
+      <actor>Mena Suvari</actor>
+      <actor>Seann William Scott</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="https://tv.assets.pressassociation.io/2945120d-1d8b-5674-b409-e3d360c65214.jpg" />
   </programme>
   <channel id="MLB.Baseball.Dummy.us">
         <display-name lang="en">MLB Baseball</display-name>

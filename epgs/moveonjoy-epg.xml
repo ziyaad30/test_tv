@@ -1,17 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<tv><channel id="Sky.Premiere.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1409.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1409.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">Sky Premiere</display-name>
-  </channel>
-  <channel id="Sky.Cinema.Hits.HD.uk">
-    <icon src="https://cdn.tv-guide.future.sensi.link/images/channel/1be50627-1688-54a7-a314-dc256342c67a/logo.png" />
-    <icon src="https://cdn.tv-guide.future.sensi.link/images/channel/1be50627-1688-54a7-a314-dc256342c67a/logo.png" />
-    <url>http://www.whattowatch.com_uk</url>
-    <display-name lang="en">Sky Cinema Hits HD</display-name>
-  </channel>
-  <channel id="Sky.Thriller.HD.uk">
+<tv><channel id="Sky.Thriller.HD.uk">
     <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4062.png" />
     <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4062.png" />
     <url>http://www.sky.com</url>
@@ -23,11 +11,23 @@
     <url>http://www.sky.com</url>
     <display-name lang="en">Sky Cinema Select</display-name>
   </channel>
+  <channel id="Sky.Premiere.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1409.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1409.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">Sky Premiere</display-name>
+  </channel>
   <channel id="Sky.Action.uk">
     <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1001.png" />
     <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1001.png" />
     <url>http://www.sky.com</url>
     <display-name lang="en">Sky Action</display-name>
+  </channel>
+  <channel id="Sky.Cinema.Hits.HD.uk">
+    <icon src="https://cdn.tv-guide.future.sensi.link/images/channel/1be50627-1688-54a7-a314-dc256342c67a/logo.png" />
+    <icon src="https://cdn.tv-guide.future.sensi.link/images/channel/1be50627-1688-54a7-a314-dc256342c67a/logo.png" />
+    <url>http://www.whattowatch.com_uk</url>
+    <display-name lang="en">Sky Cinema Hits HD</display-name>
   </channel>
   <channel id="Sky.ScFi/HorHD.uk">
     <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4017.png" />
@@ -35,138 +35,6 @@
     <url>http://www.sky.com</url>
     <display-name lang="en">Sky ScFi/HorHD</display-name>
   </channel>
-  <programme channel="Sky.Action.uk" start="20260909012000 +0000" stop="20260909032000 +0000">
-    <title lang="en">300</title>
-    <desc lang="en">Spartan king Gerard Butler leads his brave elite warriors against the all-conquering Persian invaders. Strong violence.</desc>
-    <date>2006</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Action</category>
-    <icon src="https://images.metadata.sky.com/pd-image/f79cdb15-f599-497b-b870-f0ba89750563/16-9" />
-    <rating system="UK">
-      <value>15</value>
-    </rating>
-  </programme>
-  <programme channel="Sky.Action.uk" start="20260909032000 +0000" stop="20260909052000 +0000">
-    <title lang="en">300: Rise Of An Empire</title>
-    <desc lang="en">Greek general Thermistocles leads the charge against an invading Persian army in this action extravaganza. Strong language/violence/sex/mature themes/flashing images.</desc>
-    <date>2014</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Action</category>
-    <icon src="https://images.metadata.sky.com/pd-image/4cdc10fc-2dc0-4d2c-888f-264ab2468a9a/16-9" />
-    <rating system="UK">
-      <value>15</value>
-    </rating>
-  </programme>
-  <programme channel="Sky.Action.uk" start="20260909052000 +0000" stop="20260909065000 +0000">
-    <title lang="en">Jackie Chan's First Strike</title>
-    <desc lang="en">This fourth instalment of Jackie Chan's Police Story film franchise has our hero trying to locate a missing nuclear warhead.</desc>
-    <date>1996</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Comedy</category>
-    <icon src="https://images.metadata.sky.com/pd-image/6777a362-94f7-47a0-b484-dd3b4327094c/16-9" />
-    <rating system="UK">
-      <value>12</value>
-    </rating>
-  </programme>
-  <programme channel="Sky.Action.uk" start="20260909065000 +0000" stop="20260909082500 +0000">
-    <title lang="en">The Mechanic</title>
-    <desc lang="en">Ace assassin Jason Statham becomes a target when he agrees to teach reckless Ben Foster the art of contract killing. Gritty action thriller.</desc>
-    <date>2011</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Action</category>
-    <icon src="https://images.metadata.sky.com/pd-image/da1fe633-18bf-46cb-a5d4-4a029dd36734/16-9" />
-    <rating system="UK">
-      <value>15</value>
-    </rating>
-  </programme>
-  <programme channel="Sky.Action.uk" start="20260909082500 +0000" stop="20260909101000 +0000">
-    <title lang="en">Homefront</title>
-    <desc lang="en">A former DEA agent moves his family to a quiet town, where he soon tangles with a local meth druglord. Action thriller.</desc>
-    <date>2013</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Action</category>
-    <icon src="https://images.metadata.sky.com/pd-image/a4ffd1b6-dc91-4fa4-89f4-c3141f532308/16-9" />
-    <rating system="UK">
-      <value>15</value>
-    </rating>
-  </programme>
-  <programme channel="Sky.Action.uk" start="20260909101000 +0000" stop="20260909123500 +0000">
-    <title lang="en">Aquaman</title>
-    <desc lang="en">Jason Momoa stars as the half-human, half-Atlantean Aquaman, on the quest of a lifetime. With Nicole Kidman and Willem Dafoe.</desc>
-    <date>2018</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Action</category>
-    <icon src="https://images.metadata.sky.com/pd-image/c5dba143-d8d2-48ef-a440-2195038655c4/16-9" />
-    <rating system="UK">
-      <value>12</value>
-    </rating>
-  </programme>
-  <programme channel="Sky.Action.uk" start="20260909123500 +0000" stop="20260909141500 +0000">
-    <title lang="en">Hancock</title>
-    <desc lang="en">Alcoholic superhero Will Smith hires a PR officer to help improve his image. With Charlize Theron. Strong language/violence/flashing images.</desc>
-    <date>2008</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Action</category>
-    <icon src="https://images.metadata.sky.com/pd-image/7b464033-e2fd-409e-bbbb-879a74525a3e/16-9" />
-    <rating system="UK">
-      <value>12</value>
-    </rating>
-  </programme>
-  <programme channel="Sky.Action.uk" start="20260909141500 +0000" stop="20260909163500 +0000">
-    <title lang="en">The Amazing Spider-Man</title>
-    <desc lang="en">Andrew Garfield stars as the Webbed Wonder, on a collision course with evil adversary The Lizard. With Emma Stone. Violence/flashing images.</desc>
-    <date>2012</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Action</category>
-    <icon src="https://images.metadata.sky.com/pd-image/d576b25b-3e27-4b30-b943-aee4b178ad1d/16-9" />
-    <rating system="UK">
-      <value>12</value>
-    </rating>
-  </programme>
-  <programme channel="Sky.Action.uk" start="20260909163500 +0000" stop="20260909190000 +0000">
-    <title lang="en">The Amazing Spider-Man 2</title>
-    <desc lang="en">Andrew Garfield's Spider-Man returns to battle supercharged villain Electro, before confronting someone from his past. Emma Stone co-stars.</desc>
-    <date>2014</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Action</category>
-    <icon src="https://images.metadata.sky.com/pd-image/299769eb-6c39-4fe3-9b75-01d8daeca1ab/16-9" />
-    <rating system="UK">
-      <value>12</value>
-    </rating>
-  </programme>
-  <programme channel="Sky.Action.uk" start="20260909190000 +0000" stop="20260909213000 +0000">
-    <title lang="en">Spider-Man: No Way Home</title>
-    <desc lang="en">When dangerous foes from other worlds appear, Peter Parker must learn what it truly means to be Spider-Man. Web-slinging sequel with Tom Holland.</desc>
-    <date>2021</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Action</category>
-    <icon src="https://images.metadata.sky.com/pd-image/bdc89113-78ce-483b-abb8-174577d0501d/16-9" />
-    <rating system="UK">
-      <value>12</value>
-    </rating>
-  </programme>
-  <programme channel="Sky.Action.uk" start="20260909213000 +0000" stop="20260909230500 +0000">
-    <title lang="en">Nobody 2</title>
-    <desc lang="en">Suburban dad Hutch, a former lethal assassin, is pulled back into his violent past after a home invasion, setting off a chain of events.</desc>
-    <date>2025</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Action</category>
-    <icon src="https://images.metadata.sky.com/pd-image/8f8e85ff-117e-447d-9fae-1e2a5ed27f1e/16-9" />
-    <rating system="UK">
-      <value>15</value>
-    </rating>
-  </programme>
-  <programme channel="Sky.Action.uk" start="20260909230500 +0000" stop="20260910010500 +0000">
-    <title lang="en">S.W.A.T</title>
-    <desc lang="en">Disgraced cop hotshot Colin Farrell is given a chance at redemption when he joins a crack team led by Samuel L Jackson, but their first assignment erupts into carnage.</desc>
-    <date>2003</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Action</category>
-    <icon src="https://images.metadata.sky.com/pd-image/efe542fd-23ef-38f3-93c7-aa7a23131296/16-9" />
-    <rating system="UK">
-      <value>12</value>
-    </rating>
-  </programme>
   <programme channel="Sky.Action.uk" start="20260910010500 +0000" stop="20260910033000 +0000">
     <title lang="en">The Shadow's Edge</title>
     <desc lang="en">Macau Police brings the tracking expert police officer out of retirement to help catch a dangerous group of professional thieves. Starring Jackie Chan.</desc>
@@ -536,153 +404,141 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme channel="Sky.Premiere.uk" start="20260909001500 +0000" stop="20260909021000 +0000">
-    <title lang="en">Tow</title>
-    <desc lang="en">The story of Amanda Ogle, a homeless Seattle woman, who fought her way out of tow-company hell to reclaim her life and car. Biographical drama with Rose Byrne.</desc>
-    <date>2025</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Drama</category>
-    <icon src="https://images.metadata.sky.com/pd-image/3cc2ccac-3930-4500-9fdf-78d6210d3bb7/16-9" />
-    <rating system="UK">
-      <value>15</value>
-    </rating>
-  </programme>
-  <programme channel="Sky.Premiere.uk" start="20260909021000 +0000" stop="20260909041500 +0000">
-    <title lang="en">Rise of the Conqueror</title>
-    <desc lang="en">As the Mongol Empire crumbles, a battle-scarred Timur Barlas must confront a haunting destiny and renounce his loyalties to protect the fate of the Silk Road.</desc>
-    <date>2026</date>
+  <programme channel="Sky.Action.uk" start="20260912231500 +0000" stop="20260913011500 +0000">
+    <title lang="en">300</title>
+    <desc lang="en">Spartan king Gerard Butler leads his brave elite warriors against the all-conquering Persian invaders. Strong violence.</desc>
+    <date>2006</date>
     <category lang="en">Movie</category>
     <category lang="en">Action</category>
-    <icon src="https://images.metadata.sky.com/pd-image/d50b8a45-124d-49ff-98d0-2db4e288526e/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/f79cdb15-f599-497b-b870-f0ba89750563/16-9" />
     <rating system="UK">
       <value>15</value>
     </rating>
   </programme>
-  <programme channel="Sky.Premiere.uk" start="20260909041500 +0000" stop="20260909044500 +0000">
+  <programme channel="Sky.Action.uk" start="20260913011500 +0000" stop="20260913031500 +0000">
+    <title lang="en">S.W.A.T</title>
+    <desc lang="en">Disgraced cop hotshot Colin Farrell is given a chance at redemption when he joins a crack team led by Samuel L Jackson, but their first assignment erupts into carnage.</desc>
+    <date>2003</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Action</category>
+    <icon src="https://images.metadata.sky.com/pd-image/efe542fd-23ef-38f3-93c7-aa7a23131296/16-9" />
+    <rating system="UK">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme channel="Sky.Action.uk" start="20260913031500 +0000" stop="20260913040500 +0000">
     <title lang="en">Sky Cinema Preview</title>
     <desc lang="en">Previews of the great films now playing on Sky Cinema, plus other highlights showing on Sky.</desc>
     <category lang="en">Movie</category>
     <icon src="https://images.metadata.sky.com/pd-image/6b5a5f05-87f2-437a-8561-53b053335722/16-9" />
   </programme>
-  <programme channel="Sky.Premiere.uk" start="20260909044500 +0000" stop="20260909063000 +0000">
-    <title lang="en">Tom And Jerry: Forbidden Compass</title>
-    <desc lang="en">During a chase inside a museum, Tom and Jerry find a magical object that transports them through time. They must work together to find a way home.</desc>
-    <date>2025</date>
+  <programme channel="Sky.Action.uk" start="20260913040500 +0000" stop="20260913055000 +0000">
+    <title lang="en">Police Story (Subbed)</title>
+    <desc lang="en">A kung-fu policeman must protect a female witness from a Hong Kong drug lord for whom she used to work. Jackie Chan and Brigitte Lin star.</desc>
+    <date>1985</date>
     <category lang="en">Movie</category>
-    <category lang="en">Family</category>
-    <icon src="https://images.metadata.sky.com/pd-image/cc1811e8-73c8-44d1-b6fe-73cbcc374227/16-9" />
+    <category lang="en">Action</category>
+    <icon src="https://images.metadata.sky.com/pd-image/8cd30042-b6dd-4439-9dcb-dfc4695b3948/16-9" />
+    <rating system="UK">
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme channel="Sky.Action.uk" start="20260913055000 +0000" stop="20260913060500 +0000">
+    <title lang="en">The Cinema List: Heroes</title>
+    <desc lang="en">This week, the Cinema List celebrates heroes. From Wonder Woman and Indiana Jones to Trolls, expect daring adventures, epic battles and heroes and heroines saving the day.</desc>
+    <category lang="en">Movie</category>
+    <category lang="en">Factual</category>
+    <icon src="https://images.metadata.sky.com/pd-image/85ead3bd-447b-4123-a9b0-74c12126bcc7/16-9" />
     <rating system="UK">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="Sky.Premiere.uk" start="20260909063000 +0000" stop="20260909081500 +0000">
-    <title lang="en">GOAT</title>
-    <desc lang="en">A goat with big dreams gets a shot to join the pros and play roarball, a high-intensity sport dominated by the fiercest animals.(100mins).</desc>
+  <programme channel="Sky.Action.uk" start="20260913060500 +0000" stop="20260913075500 +0000">
+    <title lang="en">Supergirl</title>
+    <desc lang="en">Supergirl joins forces with an unlikely companion on an interstellar journey of vengeance and justice. Milly Alcock and Jason Momoa star.</desc>
     <date>2026</date>
     <category lang="en">Movie</category>
-    <category lang="en">Drama</category>
-    <icon src="https://images.metadata.sky.com/pd-image/f0dcd76a-6d32-49ea-8898-cfa915af0ba1/16-9" />
-    <rating system="UK">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="Sky.Premiere.uk" start="20260909081500 +0000" stop="20260909100000 +0000">
-    <title lang="en">Panda Plan 2: The Magical Tribe</title>
-    <desc lang="en">Giant Panda Hu Hu and Jackie Chan accidentally stumble into a mysterious primitive tribe, beginning an unprecedented and hilarious adventure.</desc>
-    <date>2026</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Family</category>
-    <icon src="https://images.metadata.sky.com/pd-image/cad8c151-e1dc-461e-8faa-f15c918a6892/16-9" />
+    <category lang="en">Action</category>
+    <icon src="https://images.metadata.sky.com/pd-image/c97edabb-3d6b-441d-b87e-b4595b64d5f5/16-9" />
     <rating system="UK">
       <value>12</value>
     </rating>
   </programme>
-  <programme channel="Sky.Premiere.uk" start="20260909100000 +0000" stop="20260909114500 +0000">
-    <title lang="en">Hungry</title>
-    <desc lang="en">After becoming lost in the Louisiana swamplands, a group of holidaymakers must fight for their lives against a rampaging hippo on the loose.</desc>
-    <date>2026</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Thriller</category>
-    <icon src="https://images.metadata.sky.com/pd-image/f7272e68-425a-47d3-b75a-f842785d9df6/16-9" />
-    <rating system="UK">
-      <value>15</value>
-    </rating>
-  </programme>
-  <programme channel="Sky.Premiere.uk" start="20260909114500 +0000" stop="20260909134000 +0000">
-    <title lang="en">Five Nights At Freddy's 2</title>
-    <desc lang="en">Mike and Vanessa fall back into a supernatural nightmare at Freddy Fazbear's Pizza. Josh Hutcherson stars.</desc>
+  <programme channel="Sky.Action.uk" start="20260913075500 +0000" stop="20260913095000 +0000">
+    <title lang="en">Novocaine</title>
+    <desc lang="en">When his girlfriend is kidnapped, Jack Quaid turns his inability to feel pain into his quest to rescue her. Language/violence.</desc>
     <date>2025</date>
     <category lang="en">Movie</category>
-    <category lang="en">Horror</category>
-    <icon src="https://images.metadata.sky.com/pd-image/89f1fdf3-6540-4526-8d80-b088ad8fd97d/16-9" />
+    <category lang="en">Action</category>
+    <icon src="https://images.metadata.sky.com/pd-image/5dfe260a-8ce3-49f2-b5db-9b96b679dd8d/16-9" />
     <rating system="UK">
       <value>15</value>
     </rating>
   </programme>
-  <programme channel="Sky.Premiere.uk" start="20260909134000 +0000" stop="20260909152500 +0000">
-    <title lang="en">Do Not Enter</title>
-    <desc lang="en">On the hunt for hidden treasure, a group of explorers investigate an old abandoned hotel, encountering a strange supernatural being.</desc>
-    <date>2026</date>
+  <programme channel="Sky.Action.uk" start="20260913095000 +0000" stop="20260913121500 +0000">
+    <title lang="en">Transformers</title>
+    <desc lang="en">Robotic carnage as the heroic Autobots take on the evil Decepticons. Will mankind survive? Adrenaline-charged action from director Michael Bay.</desc>
+    <date>2007</date>
     <category lang="en">Movie</category>
-    <category lang="en">Horror</category>
-    <icon src="https://images.metadata.sky.com/pd-image/6eecabb2-2a6c-4eb4-91a3-b518ed6f51be/16-9" />
-    <rating system="UK">
-      <value>15</value>
-    </rating>
-  </programme>
-  <programme channel="Sky.Premiere.uk" start="20260909152500 +0000" stop="20260909171000 +0000">
-    <title lang="en">Twinless</title>
-    <desc lang="en">A young man left broken by the loss of his twin brother joins a support group for 'twinless twins'. Psychological drama.</desc>
-    <date>2025</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Drama</category>
-    <icon src="https://images.metadata.sky.com/pd-image/0c3c5234-8b68-4be4-a869-7f3252cb7cef/16-9" />
-    <rating system="UK">
-      <value>15</value>
-    </rating>
-  </programme>
-  <programme channel="Sky.Premiere.uk" start="20260909171000 +0000" stop="20260909190000 +0000">
-    <title lang="en">Tow</title>
-    <desc lang="en">The story of Amanda Ogle, a homeless Seattle woman, who fought her way out of tow-company hell to reclaim her life and car. Biographical drama with Rose Byrne.</desc>
-    <date>2025</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Drama</category>
-    <icon src="https://images.metadata.sky.com/pd-image/3cc2ccac-3930-4500-9fdf-78d6210d3bb7/16-9" />
-    <rating system="UK">
-      <value>15</value>
-    </rating>
-  </programme>
-  <programme channel="Sky.Premiere.uk" start="20260909190000 +0000" stop="20260909204500 +0000">
-    <title lang="en">Hungry</title>
-    <desc lang="en">After becoming lost in the Louisiana swamplands, a group of holidaymakers must fight for their lives against a rampaging hippo on the loose.</desc>
-    <date>2026</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Thriller</category>
-    <icon src="https://images.metadata.sky.com/pd-image/f7272e68-425a-47d3-b75a-f842785d9df6/16-9" />
-    <rating system="UK">
-      <value>15</value>
-    </rating>
-  </programme>
-  <programme channel="Sky.Premiere.uk" start="20260909204500 +0000" stop="20260909230000 +0000">
-    <title lang="en">Hamnet</title>
-    <desc lang="en">Agnes and William Shakespeare navigate love, family and grief in this moving period drama starring Jessie Buckley and Paul Mescal.</desc>
-    <date>2025</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Drama</category>
-    <icon src="https://images.metadata.sky.com/pd-image/30e6f6c4-5805-4e03-acad-0292cce6a15b/16-9" />
+    <category lang="en">Action</category>
+    <icon src="https://images.metadata.sky.com/pd-image/2f9fd2b6-cfe1-4326-96d9-f1145205d496/16-9" />
     <rating system="UK">
       <value>12</value>
     </rating>
   </programme>
-  <programme channel="Sky.Premiere.uk" start="20260909230000 +0000" stop="20260910004000 +0000">
-    <title lang="en">Do Not Enter</title>
-    <desc lang="en">On the hunt for hidden treasure, a group of explorers investigate an old abandoned hotel, encountering a strange supernatural being.</desc>
+  <programme channel="Sky.Action.uk" start="20260913121500 +0000" stop="20260913144500 +0000">
+    <title lang="en">Transformers: Revenge Of The Fallen</title>
+    <desc lang="en">Shia LaBeouf and Megan Fox team up with Optimus Prime again to save the Earth. Violence/flashing images.</desc>
+    <date>2009</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Action</category>
+    <icon src="https://images.metadata.sky.com/pd-image/476914b8-f9e0-42f8-aab6-d195c1bfffe8/16-9" />
+    <rating system="UK">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme channel="Sky.Action.uk" start="20260913144500 +0000" stop="20260913170500 +0000">
+    <title lang="en">The Mummy Returns</title>
+    <desc lang="en">Blockbusting sequel with Brendan Fraser and Rachel Weisz battling a resurrected Egyptian priest and his evil hordes. Epic adventure. Contains violence/flashing images.</desc>
+    <date>2001</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Action</category>
+    <icon src="https://images.metadata.sky.com/pd-image/a7837616-9e40-4c9c-b075-1bf4a6de8763/16-9" />
+    <rating system="UK">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme channel="Sky.Action.uk" start="20260913170500 +0000" stop="20260913190000 +0000">
+    <title lang="en">Supergirl</title>
+    <desc lang="en">Supergirl joins forces with an unlikely companion on an interstellar journey of vengeance and justice. Milly Alcock and Jason Momoa star.</desc>
     <date>2026</date>
     <category lang="en">Movie</category>
-    <category lang="en">Horror</category>
-    <icon src="https://images.metadata.sky.com/pd-image/6eecabb2-2a6c-4eb4-91a3-b518ed6f51be/16-9" />
+    <category lang="en">Action</category>
+    <icon src="https://images.metadata.sky.com/pd-image/c97edabb-3d6b-441d-b87e-b4595b64d5f5/16-9" />
+    <rating system="UK">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme channel="Sky.Action.uk" start="20260913190000 +0000" stop="20260913215000 +0000">
+    <title lang="en">Troy</title>
+    <desc lang="en">Brad Pitt stars as legendary warrior Achilles, leading the armies of ancient Greece into battle against Troy. Sword-and-sandal epic with Eric Bana. Violent scenes.</desc>
+    <date>2004</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Action</category>
+    <icon src="https://images.metadata.sky.com/pd-image/829b6c73-d39e-4af3-91bf-f234f1f5cb7f/16-9" />
     <rating system="UK">
       <value>15</value>
+    </rating>
+  </programme>
+  <programme channel="Sky.Action.uk" start="20260913215000 +0000" stop="20260913235000 +0000">
+    <title lang="en">The Mummy: Tomb Of The Dragon Emperor</title>
+    <desc lang="en">Adventurer Brendan Fraser goes head-to-head with undead Emperor Jet Li and an army of terracotta warriors. Contains moderate fantasy violence/flashing images.</desc>
+    <date>2008</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Action</category>
+    <icon src="https://images.metadata.sky.com/pd-image/ab36dd86-e8b5-4296-91ef-5db572cc356a/16-9" />
+    <rating system="UK">
+      <value>12</value>
     </rating>
   </programme>
   <programme channel="Sky.Premiere.uk" start="20260910004000 +0000" stop="20260910023000 +0000">
@@ -1110,134 +966,145 @@
       <value>15</value>
     </rating>
   </programme>
-  <programme channel="Sky.ScFi/HorHD.uk" start="20260909011500 +0000" stop="20260909032000 +0000">
-    <title lang="en">The Exorcist</title>
-    <desc lang="en">William Friedkin's Oscar-winning horror about a priest battling to save the soul of a girl. Language/violence/mature themes/sex/flashing images.</desc>
-    <date>1973</date>
+  <programme channel="Sky.Premiere.uk" start="20260913004500 +0000" stop="20260913023000 +0000">
+    <title lang="en">Twinless</title>
+    <desc lang="en">A young man left broken by the loss of his twin brother joins a support group for 'twinless twins'. Psychological drama.</desc>
+    <date>2025</date>
     <category lang="en">Movie</category>
-    <category lang="en">Horror</category>
-    <icon src="https://images.metadata.sky.com/pd-image/9e02110c-7a75-42a6-a827-2643fb616e90/16-9" />
-    <rating system="UK">
-      <value>18</value>
-    </rating>
-  </programme>
-  <programme channel="Sky.ScFi/HorHD.uk" start="20260909032000 +0000" stop="20260909051500 +0000">
-    <title lang="en">Salem's Lot</title>
-    <desc lang="en">Based on Stephen King's terrifying novel, this horror sees an author stumble upon a town under the threat of a bloodthirsty vampire.</desc>
-    <date>2024</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Horror</category>
-    <icon src="https://images.metadata.sky.com/pd-image/ac493d5c-3580-3e97-9d72-af05c63b5d34/16-9" />
-    <rating system="UK">
-      <value>MP</value>
-    </rating>
-  </programme>
-  <programme channel="Sky.ScFi/HorHD.uk" start="20260909051500 +0000" stop="20260909070000 +0000">
-    <title lang="en">Pet Sematary</title>
-    <desc lang="en">Re-imagining of the classic horror from Stephen King's bestselling novel. A family moves to a rural house, and things soon start to go wrong.</desc>
-    <date>2019</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Horror</category>
-    <icon src="https://images.metadata.sky.com/pd-image/1f47a54e-b618-4ead-9d09-7db048d41da0/16-9" />
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/0c3c5234-8b68-4be4-a869-7f3252cb7cef/16-9" />
     <rating system="UK">
       <value>15</value>
     </rating>
   </programme>
-  <programme channel="Sky.ScFi/HorHD.uk" start="20260909070000 +0000" stop="20260909083500 +0000">
-    <title lang="en">Evil Dead II</title>
-    <desc lang="en">Savage sequel to Sam Raimi's 1981 hit horror. A weekend break at an isolated cabin turns nasty when Bruce Campbell unwittingly unleashes an evil spirit on the guests.</desc>
-    <date>1987</date>
+  <programme channel="Sky.Premiere.uk" start="20260913023000 +0000" stop="20260913041000 +0000">
+    <title lang="en">Do Not Enter</title>
+    <desc lang="en">On the hunt for hidden treasure, a group of explorers investigate an old abandoned hotel, encountering a strange supernatural being.</desc>
+    <date>2026</date>
     <category lang="en">Movie</category>
     <category lang="en">Horror</category>
-    <icon src="https://images.metadata.sky.com/pd-image/d21c55c8-cb97-433b-9e56-19348e8504c2/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/6eecabb2-2a6c-4eb4-91a3-b518ed6f51be/16-9" />
     <rating system="UK">
       <value>15</value>
     </rating>
   </programme>
-  <programme channel="Sky.ScFi/HorHD.uk" start="20260909083500 +0000" stop="20260909103000 +0000">
-    <title lang="en">Wolf Man</title>
-    <desc lang="en">A family is attacked by an unseen animal, but as the night stretches on, the father begins to transform into something unrecognizable.</desc>
+  <programme channel="Sky.Premiere.uk" start="20260913041000 +0000" stop="20260913055000 +0000">
+    <title lang="en">Signal One</title>
+    <desc lang="en">A tech billionaire recruits a computer scientist to work on a groundbreaking project that could change humanity's future forever.</desc>
+    <date>2026</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Mystery</category>
+    <icon src="https://images.metadata.sky.com/pd-image/e3bac90f-b633-4a25-9a7d-be4a23bfcc02/16-9" />
+    <rating system="UK">
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme channel="Sky.Premiere.uk" start="20260913055000 +0000" stop="20260913072000 +0000">
+    <title lang="en">Rabbit Trap</title>
+    <desc lang="en">Having relocated to a Welsh cottage to complete a new album, a pair of married musicians accidentally record a mystical sound never heard before. Mystical thriller.</desc>
     <date>2025</date>
     <category lang="en">Movie</category>
     <category lang="en">Horror</category>
-    <icon src="https://images.metadata.sky.com/pd-image/3259248a-68b5-4fe6-9731-707aad277361/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/36a59bd5-09ea-41f5-90f7-3ecb6482efd4/16-9" />
     <rating system="UK">
       <value>15</value>
     </rating>
   </programme>
-  <programme channel="Sky.ScFi/HorHD.uk" start="20260909103000 +0000" stop="20260909123000 +0000">
-    <title lang="en">Constantine</title>
-    <desc lang="en">Exorcist Keanu Reeves tries to earn his place in heaven by sending demons back to hell. Strong language/violence/mature themes/flashing images.</desc>
-    <date>2005</date>
+  <programme channel="Sky.Premiere.uk" start="20260913072000 +0000" stop="20260913093000 +0000">
+    <title lang="en">The History Of Sound</title>
+    <desc lang="en">Two young men during World War I set out to record the lives, voices and music of their American countrymen. Period drama starring Paul Mescal and Josh O'Connor.</desc>
+    <date>2025</date>
     <category lang="en">Movie</category>
-    <category lang="en">Sci-Fi</category>
-    <icon src="https://images.metadata.sky.com/pd-image/e52e875c-9f46-4624-a886-7b38ac77e854/16-9" />
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/4dfecf17-098f-438a-a785-76075184fb2f/16-9" />
     <rating system="UK">
       <value>15</value>
     </rating>
   </programme>
-  <programme channel="Sky.ScFi/HorHD.uk" start="20260909123000 +0000" stop="20260909145000 +0000">
-    <title lang="en">Oblivion</title>
-    <desc lang="en">One of the last people on an evacuated Earth finds himself battling to save mankind. Strong language/violence/flashing images.</desc>
-    <date>2013</date>
+  <programme channel="Sky.Premiere.uk" start="20260913093000 +0000" stop="20260913111500 +0000">
+    <title lang="en">Hungry</title>
+    <desc lang="en">After becoming lost in the Louisiana swamplands, a group of holidaymakers must fight for their lives against a rampaging hippo on the loose.</desc>
+    <date>2026</date>
     <category lang="en">Movie</category>
-    <category lang="en">Sci-Fi</category>
-    <icon src="https://images.metadata.sky.com/pd-image/cd64880d-fceb-42b1-9d4e-6979d4ada0f5/16-9" />
-    <rating system="UK">
-      <value>12</value>
-    </rating>
-  </programme>
-  <programme channel="Sky.ScFi/HorHD.uk" start="20260909145000 +0000" stop="20260909170000 +0000">
-    <title lang="en">Total Recall</title>
-    <desc lang="en">Philip K Dick adaptation, with Colin Farrell as a future-world factory worker on the run and struggling to know what's real. Strong language/violence/sex/flashing images.</desc>
-    <date>2012</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Sci-Fi</category>
-    <icon src="https://images.metadata.sky.com/pd-image/13416a66-dc20-4717-98d2-a6e1208800ed/16-9" />
-    <rating system="UK">
-      <value>12</value>
-    </rating>
-  </programme>
-  <programme channel="Sky.ScFi/HorHD.uk" start="20260909170000 +0000" stop="20260909190000 +0000">
-    <title lang="en">Assassin's Creed</title>
-    <desc lang="en">Michael Fassbender stars as a prisoner saved from death row by a shadowy organisation. But for what purpose? Stylish action based on the hit video game series.</desc>
-    <date>2016</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Sci-Fi</category>
-    <icon src="https://images.metadata.sky.com/pd-image/e982a6dd-f31a-4922-81bc-35d3518cf070/16-9" />
-    <rating system="UK">
-      <value>12</value>
-    </rating>
-  </programme>
-  <programme channel="Sky.ScFi/HorHD.uk" start="20260909190000 +0000" stop="20260909212000 +0000">
-    <title lang="en">IT</title>
-    <desc lang="en">Hit adaptation of the Stephen King novel about a ragtag bunch of bullied outsiders battling evil, sewer-dwelling clown Pennywise. Jaeden Lieberher stars.</desc>
-    <date>2017</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Horror</category>
-    <icon src="https://images.metadata.sky.com/pd-image/de0f6ce4-20d7-420e-b022-2dcc57771a11/16-9" />
+    <category lang="en">Thriller</category>
+    <icon src="https://images.metadata.sky.com/pd-image/f7272e68-425a-47d3-b75a-f842785d9df6/16-9" />
     <rating system="UK">
       <value>15</value>
     </rating>
   </programme>
-  <programme channel="Sky.ScFi/HorHD.uk" start="20260909212000 +0000" stop="20260909233000 +0000">
-    <title lang="en">Weapons</title>
-    <desc lang="en">When all but one child from the same class vanish on the same night, a community is left questioning their disappearance. Twisted horror.</desc>
+  <programme channel="Sky.Premiere.uk" start="20260913111500 +0000" stop="20260913131500 +0000">
+    <title lang="en">Supergirl</title>
+    <desc lang="en">Supergirl joins forces with an unlikely companion on an interstellar journey of vengeance and justice. Milly Alcock and Jason Momoa star.</desc>
+    <date>2026</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Action</category>
+    <icon src="https://images.metadata.sky.com/pd-image/c97edabb-3d6b-441d-b87e-b4595b64d5f5/16-9" />
+    <rating system="UK">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme channel="Sky.Premiere.uk" start="20260913131500 +0000" stop="20260913150000 +0000">
+    <title lang="en">GOAT</title>
+    <desc lang="en">A goat with big dreams gets a shot to join the pros and play roarball, a high-intensity sport dominated by the fiercest animals.(100mins).</desc>
+    <date>2026</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/f0dcd76a-6d32-49ea-8898-cfa915af0ba1/16-9" />
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="Sky.Premiere.uk" start="20260913150000 +0000" stop="20260913171500 +0000">
+    <title lang="en">The History Of Sound</title>
+    <desc lang="en">Two young men during World War I set out to record the lives, voices and music of their American countrymen. Period drama starring Paul Mescal and Josh O'Connor.</desc>
+    <date>2025</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/4dfecf17-098f-438a-a785-76075184fb2f/16-9" />
+    <rating system="UK">
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme channel="Sky.Premiere.uk" start="20260913171500 +0000" stop="20260913190000 +0000">
+    <title lang="en">Hungry</title>
+    <desc lang="en">After becoming lost in the Louisiana swamplands, a group of holidaymakers must fight for their lives against a rampaging hippo on the loose.</desc>
+    <date>2026</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Thriller</category>
+    <icon src="https://images.metadata.sky.com/pd-image/f7272e68-425a-47d3-b75a-f842785d9df6/16-9" />
+    <rating system="UK">
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme channel="Sky.Premiere.uk" start="20260913190000 +0000" stop="20260913210000 +0000">
+    <title lang="en">Supergirl</title>
+    <desc lang="en">Supergirl joins forces with an unlikely companion on an interstellar journey of vengeance and justice. Milly Alcock and Jason Momoa star.</desc>
+    <date>2026</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Action</category>
+    <icon src="https://images.metadata.sky.com/pd-image/c97edabb-3d6b-441d-b87e-b4595b64d5f5/16-9" />
+    <rating system="UK">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme channel="Sky.Premiere.uk" start="20260913210000 +0000" stop="20260913224000 +0000">
+    <title lang="en">Rabbit Trap</title>
+    <desc lang="en">Having relocated to a Welsh cottage to complete a new album, a pair of married musicians accidentally record a mystical sound never heard before. Mystical thriller.</desc>
     <date>2025</date>
     <category lang="en">Movie</category>
     <category lang="en">Horror</category>
-    <icon src="https://images.metadata.sky.com/pd-image/45a99f3d-1953-4e68-bcb6-cc9a0ad513e7/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/36a59bd5-09ea-41f5-90f7-3ecb6482efd4/16-9" />
     <rating system="UK">
-      <value>18</value>
+      <value>15</value>
     </rating>
   </programme>
-  <programme channel="Sky.ScFi/HorHD.uk" start="20260909233000 +0000" stop="20260910011500 +0000">
-    <title lang="en">The Lost Boys</title>
-    <desc lang="en">In a town troubled by bloodsuckers, Corey Haim's brother starts behaving like a vamp, so he sets out to take down Kiefer Sutherland. Flashing images.</desc>
-    <date>1987</date>
+  <programme channel="Sky.Premiere.uk" start="20260913224000 +0000" stop="20260914003000 +0000">
+    <title lang="en">Five Nights At Freddy's 2</title>
+    <desc lang="en">Mike and Vanessa fall back into a supernatural nightmare at Freddy Fazbear's Pizza. Josh Hutcherson stars.</desc>
+    <date>2025</date>
     <category lang="en">Movie</category>
     <category lang="en">Horror</category>
-    <icon src="https://images.metadata.sky.com/pd-image/6de22184-ed04-4bc6-928d-6c7774feec22/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/89f1fdf3-6540-4526-8d80-b088ad8fd97d/16-9" />
     <rating system="UK">
       <value>15</value>
     </rating>
@@ -1627,125 +1494,136 @@
       <value>15</value>
     </rating>
   </programme>
-  <programme channel="Sky.Cinema.Select.uk" start="20260909013500 +0000" stop="20260909041000 +0000">
-    <title lang="en">Transformers: Dark Of The Moon</title>
-    <desc lang="en">Can Shia LaBeouf save the world once more? Third instalment of the hit franchise. Strong language/violence/flashing images.</desc>
-    <date>2011</date>
+  <programme channel="Sky.ScFi/HorHD.uk" start="20260912231000 +0000" stop="20260913005000 +0000">
+    <title lang="en">Gravity</title>
+    <desc lang="en">When disaster hits, astronauts Sandra Bullock and George Clooney are left fighting for survival in space. Stunning winner of seven Oscars.</desc>
+    <date>2013</date>
     <category lang="en">Movie</category>
-    <category lang="en">Action</category>
-    <icon src="https://images.metadata.sky.com/pd-image/687dc2c4-e5b4-4f7c-a08e-130ec577e489/16-9" />
+    <category lang="en">Sci-Fi</category>
+    <icon src="https://images.metadata.sky.com/pd-image/32cd6c14-d311-4233-a3e5-f93063d36f43/16-9" />
     <rating system="UK">
       <value>12</value>
     </rating>
   </programme>
-  <programme channel="Sky.Cinema.Select.uk" start="20260909041000 +0000" stop="20260909054000 +0000">
-    <title lang="en">Super Charlie</title>
-    <desc lang="en">Willie's dream of fighting crime with his cop dad is shattered when his baby brother Charlie arrives, who turns out to have actual superpowers.</desc>
+  <programme channel="Sky.ScFi/HorHD.uk" start="20260913005000 +0000" stop="20260913025500 +0000">
+    <title lang="en">The Exorcist</title>
+    <desc lang="en">William Friedkin's Oscar-winning horror about a priest battling to save the soul of a girl. Language/violence/mature themes/sex/flashing images.</desc>
+    <date>1973</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Horror</category>
+    <icon src="https://images.metadata.sky.com/pd-image/9e02110c-7a75-42a6-a827-2643fb616e90/16-9" />
+    <rating system="UK">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme channel="Sky.ScFi/HorHD.uk" start="20260913025500 +0000" stop="20260913043500 +0000">
+    <title lang="en">The Damned</title>
+    <desc lang="en">A 19th-century widow must make an impossible choice when, during a cruel winter, a foreign ship sinks off the coast of her fishing village. Horror.</desc>
     <date>2024</date>
     <category lang="en">Movie</category>
-    <category lang="en">Animation</category>
-    <icon src="https://images.metadata.sky.com/pd-image/5b79054c-0fb6-48fd-b5ea-150a3c932365/16-9" />
+    <category lang="en">Horror</category>
+    <icon src="https://images.metadata.sky.com/pd-image/98cc460b-9eb3-4f61-b83b-abf7838f7013/16-9" />
     <rating system="UK">
-      <value>PG</value>
+      <value>MP</value>
     </rating>
   </programme>
-  <programme channel="Sky.Cinema.Select.uk" start="20260909054000 +0000" stop="20260909074000 +0000">
-    <title lang="en">Spider-Man: Into The Spider-Verse</title>
-    <desc lang="en">Academy Award-winning animated film exploring the weaves, webs and alternate realities of the incredible Spider-Man universe.</desc>
-    <date>2018</date>
+  <programme channel="Sky.ScFi/HorHD.uk" start="20260913043500 +0000" stop="20260913062000 +0000">
+    <title lang="en">It Feeds</title>
+    <desc lang="en">A clairvoyant therapist confronts her own personal demons while trying to save a young girl who believes a malevolent entity is feeding on her.</desc>
+    <date>2025</date>
     <category lang="en">Movie</category>
-    <category lang="en">Animation</category>
-    <icon src="https://images.metadata.sky.com/pd-image/e0603e63-d2f8-4e2a-8505-bf9be9a3a15f/16-9" />
+    <category lang="en">Horror</category>
+    <icon src="https://images.metadata.sky.com/pd-image/061c651b-3fb2-48bf-a769-8cb4ca7d562f/16-9" />
     <rating system="UK">
-      <value>PG</value>
+      <value>MP</value>
     </rating>
   </programme>
-  <programme channel="Sky.Cinema.Select.uk" start="20260909074000 +0000" stop="20260909095000 +0000">
-    <title lang="en">Batman</title>
-    <desc lang="en">Michael Keaton's Bruce Wayne takes on Jack Nicholson's villainous Joker. Gothic Gotham fantasy directed by Tim Burton. Violence/flashing images.</desc>
-    <date>1989</date>
+  <programme channel="Sky.ScFi/HorHD.uk" start="20260913062000 +0000" stop="20260913082500 +0000">
+    <title lang="en">Flatliners</title>
+    <desc lang="en">Sci-fi horror remake about a group of young medical students whose experiments with near-death experiences take a sinister turn.</desc>
+    <date>2017</date>
     <category lang="en">Movie</category>
-    <category lang="en">Action</category>
-    <icon src="https://images.metadata.sky.com/pd-image/95d06934-2444-4ff9-8dce-62b22a687096/16-9" />
+    <category lang="en">Sci-Fi</category>
+    <icon src="https://images.metadata.sky.com/pd-image/229d140d-809e-4e59-96f8-c1c43cd2dc74/16-9" />
     <rating system="UK">
       <value>15</value>
     </rating>
   </programme>
-  <programme channel="Sky.Cinema.Select.uk" start="20260909095000 +0000" stop="20260909122500 +0000">
-    <title lang="en">Transformers: Dark Of The Moon</title>
-    <desc lang="en">Can Shia LaBeouf save the world once more? Third instalment of the hit franchise. Strong language/violence/flashing images.</desc>
-    <date>2011</date>
+  <programme channel="Sky.ScFi/HorHD.uk" start="20260913082500 +0000" stop="20260913101500 +0000">
+    <title lang="en">Men In Black</title>
+    <desc lang="en">Will Smith joins Tommy Lee Jones for a sci-fi comedy about two secret agents who set out to stop an alien terrorist threatening the planet.</desc>
+    <date>1997</date>
     <category lang="en">Movie</category>
-    <category lang="en">Action</category>
-    <icon src="https://images.metadata.sky.com/pd-image/687dc2c4-e5b4-4f7c-a08e-130ec577e489/16-9" />
+    <category lang="en">Sci-Fi</category>
+    <icon src="https://images.metadata.sky.com/pd-image/7228369e-ce07-49ab-b85f-5bcddaf513a0/16-9" />
     <rating system="UK">
-      <value>12</value>
+      <value>PG</value>
     </rating>
   </programme>
-  <programme channel="Sky.Cinema.Select.uk" start="20260909122500 +0000" stop="20260909142500 +0000">
-    <title lang="en">Justice League</title>
-    <desc lang="en">When a terrifying new villain emerges Batman and Wonder Woman must assemble a team capable of fighting back. DC action.</desc>
-    <date>2017</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Action</category>
-    <icon src="https://images.metadata.sky.com/pd-image/ac00931b-4d45-4798-81a4-0260326c4745/16-9" />
-    <rating system="UK">
-      <value>12</value>
-    </rating>
-  </programme>
-  <programme channel="Sky.Cinema.Select.uk" start="20260909142500 +0000" stop="20260909163500 +0000">
-    <title lang="en">Spider-Man 2</title>
-    <desc lang="en">Tobey Maguire returns as the Webbed Wonder, battling evil in New York with Kirsten Dunst at his side. Action-packed superhero sequel.</desc>
+  <programme channel="Sky.ScFi/HorHD.uk" start="20260913101500 +0000" stop="20260913121500 +0000">
+    <title lang="en">The Chronicles Of Riddick</title>
+    <desc lang="en">On a distant planet, Vin Diesel battles the merciless Necromongers who plan to wipe out all of humanity. Strong language/violence/flashing images.</desc>
     <date>2004</date>
     <category lang="en">Movie</category>
-    <category lang="en">Action</category>
-    <icon src="https://images.metadata.sky.com/pd-image/a7f835cd-5062-4fee-9c63-a6d06680d62e/16-9" />
-    <rating system="UK">
-      <value>12</value>
-    </rating>
-  </programme>
-  <programme channel="Sky.Cinema.Select.uk" start="20260909163500 +0000" stop="20260909190000 +0000">
-    <title lang="en">Spider-Man 3</title>
-    <desc lang="en">Super-powered action as Spidey (Tobey Maguire) battles his inner demons while Sandman and Venom plot to take him down. Violence/flashing images.</desc>
-    <date>2007</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Action</category>
-    <icon src="https://images.metadata.sky.com/pd-image/2382bce3-193d-4c20-a735-7ce782492694/16-9" />
-    <rating system="UK">
-      <value>12</value>
-    </rating>
-  </programme>
-  <programme channel="Sky.Cinema.Select.uk" start="20260909190000 +0000" stop="20260909211000 +0000">
-    <title lang="en">Batman Returns</title>
-    <desc lang="en">Blockbuster action as Gotham braces itself for a showdown between the caped crusader, Catwoman and the Penguin.</desc>
-    <date>1992</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Action</category>
-    <icon src="https://images.metadata.sky.com/pd-image/832a27bf-60a6-4a36-81c3-7299bc5d76bb/16-9" />
+    <category lang="en">Sci-Fi</category>
+    <icon src="https://images.metadata.sky.com/pd-image/51d12d2a-59af-45dd-8c8b-fc1d979007b9/16-9" />
     <rating system="UK">
       <value>15</value>
     </rating>
   </programme>
-  <programme channel="Sky.Cinema.Select.uk" start="20260909211000 +0000" stop="20260909234500 +0000">
-    <title lang="en">Transformers: Dark Of The Moon</title>
-    <desc lang="en">Can Shia LaBeouf save the world once more? Third instalment of the hit franchise. Strong language/violence/flashing images.</desc>
-    <date>2011</date>
+  <programme channel="Sky.ScFi/HorHD.uk" start="20260913121500 +0000" stop="20260913143000 +0000">
+    <title lang="en">Van Helsing</title>
+    <desc lang="en">Fearless slayer Hugh Jackman and feisty vamp Kate Beckinsale do battle with Dracula, Frankenstein and the Wolfman. Action. Violence/flashing images.</desc>
+    <date>2004</date>
     <category lang="en">Movie</category>
-    <category lang="en">Action</category>
-    <icon src="https://images.metadata.sky.com/pd-image/687dc2c4-e5b4-4f7c-a08e-130ec577e489/16-9" />
+    <category lang="en">Horror</category>
+    <icon src="https://images.metadata.sky.com/pd-image/84d540ea-a551-42db-b717-c4ecb6ca524e/16-9" />
     <rating system="UK">
       <value>12</value>
     </rating>
   </programme>
-  <programme channel="Sky.Cinema.Select.uk" start="20260909234500 +0000" stop="20260910015000 +0000">
-    <title lang="en">Justice League</title>
-    <desc lang="en">When a terrifying new villain emerges Batman and Wonder Woman must assemble a team capable of fighting back. DC action.</desc>
+  <programme channel="Sky.ScFi/HorHD.uk" start="20260913143000 +0000" stop="20260913165000 +0000">
+    <title lang="en">IT</title>
+    <desc lang="en">Hit adaptation of the Stephen King novel about a ragtag bunch of bullied outsiders battling evil, sewer-dwelling clown Pennywise. Jaeden Lieberher stars.</desc>
     <date>2017</date>
     <category lang="en">Movie</category>
-    <category lang="en">Action</category>
-    <icon src="https://images.metadata.sky.com/pd-image/ac00931b-4d45-4798-81a4-0260326c4745/16-9" />
+    <category lang="en">Horror</category>
+    <icon src="https://images.metadata.sky.com/pd-image/de0f6ce4-20d7-420e-b022-2dcc57771a11/16-9" />
+    <rating system="UK">
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme channel="Sky.ScFi/HorHD.uk" start="20260913165000 +0000" stop="20260913190000 +0000">
+    <title lang="en">Oblivion</title>
+    <desc lang="en">One of the last people on an evacuated Earth finds himself battling to save mankind. Strong language/violence/flashing images.</desc>
+    <date>2013</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Sci-Fi</category>
+    <icon src="https://images.metadata.sky.com/pd-image/cd64880d-fceb-42b1-9d4e-6979d4ada0f5/16-9" />
     <rating system="UK">
       <value>12</value>
+    </rating>
+  </programme>
+  <programme channel="Sky.ScFi/HorHD.uk" start="20260913190000 +0000" stop="20260913212500 +0000">
+    <title lang="en">Mickey 17</title>
+    <desc lang="en">From director Bong Joon-ho, this sci-fi comedy sees Robert Pattinson sent to colonise an alien planet, regenerating every time he dies.</desc>
+    <date>2025</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Sci-Fi</category>
+    <icon src="https://images.metadata.sky.com/pd-image/b9ee8bea-9e8c-4cb7-9a0c-5d0b128f15dc/16-9" />
+    <rating system="UK">
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme channel="Sky.ScFi/HorHD.uk" start="20260913212500 +0000" stop="20260913231000 +0000">
+    <title lang="en">The Craft</title>
+    <desc lang="en">Hip horror movie about four female students who band together and become witches. Starring Fairuza Balk, Robin Tunney and Neve Campbell.</desc>
+    <date>1996</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Horror</category>
+    <icon src="https://images.metadata.sky.com/pd-image/ed912daf-69ab-3839-b77f-121bb4bae484/16-9" />
+    <rating system="UK">
+      <value>15</value>
     </rating>
   </programme>
   <programme channel="Sky.Cinema.Select.uk" start="20260910015000 +0000" stop="20260910040000 +0000">
@@ -2131,124 +2009,131 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="Sky.Thriller.HD.uk" start="20260909013000 +0000" stop="20260909033500 +0000">
-    <title lang="en">Juror #2</title>
-    <desc lang="en">While serving as a juror in a high-profile murder case, family man Nicholas Hoult grapples with a serious moral dilemma. From Clint Eastwood.</desc>
-    <date>2024</date>
+  <programme channel="Sky.Cinema.Select.uk" start="20260912232500 +0000" stop="20260913013000 +0000">
+    <title lang="en">Justice League</title>
+    <desc lang="en">When a terrifying new villain emerges Batman and Wonder Woman must assemble a team capable of fighting back. DC action.</desc>
+    <date>2017</date>
     <category lang="en">Movie</category>
-    <category lang="en">Thriller</category>
-    <icon src="https://images.metadata.sky.com/pd-image/02290cef-982e-3fda-bd75-f2dc027fba82/16-9" />
+    <category lang="en">Action</category>
+    <icon src="https://images.metadata.sky.com/pd-image/ac00931b-4d45-4798-81a4-0260326c4745/16-9" />
     <rating system="UK">
       <value>12</value>
     </rating>
   </programme>
-  <programme channel="Sky.Thriller.HD.uk" start="20260909033500 +0000" stop="20260909054500 +0000">
-    <title lang="en">Fatal Attraction</title>
-    <desc lang="en">Married Michael Douglas has a one-night stand with Glenn Close, but the bunny-hating harpy isn't ready to say goodbye. Thriller. Contains violence/sex/mature themes.</desc>
-    <date>1987</date>
+  <programme channel="Sky.Cinema.Select.uk" start="20260913013000 +0000" stop="20260913031500 +0000">
+    <title lang="en">The Toxic Avenger</title>
+    <desc lang="en">A horrible, toxic accident transforms downtrodden janitor Winston Gooze into a new evolution of hero: The Toxic Avenger.</desc>
+    <date>2025</date>
     <category lang="en">Movie</category>
-    <category lang="en">Thriller</category>
-    <icon src="https://images.metadata.sky.com/pd-image/6947aa1d-2c00-4703-8829-8fb822dd4cc6/16-9" />
+    <category lang="en">Action</category>
+    <icon src="https://images.metadata.sky.com/pd-image/0054ee0a-fcc6-42e6-84d4-1e43f634a97b/16-9" />
     <rating system="UK">
-      <value>MP</value>
+      <value>18</value>
     </rating>
   </programme>
-  <programme channel="Sky.Thriller.HD.uk" start="20260909054500 +0000" stop="20260909075000 +0000">
-    <title lang="en">Nightcrawler</title>
-    <desc lang="en">Jake Gyllenhaal's freelance cameraman scours LA for scandal, blurring the lines between observer and participant to become the star of his own story. Neo-noir thriller.</desc>
-    <date>2014</date>
+  <programme channel="Sky.Cinema.Select.uk" start="20260913031500 +0000" stop="20260913041500 +0000">
+    <title lang="en">Sky Cinema Preview</title>
+    <desc lang="en">Previews of the great films now playing on Sky Cinema, plus other highlights showing on Sky.</desc>
     <category lang="en">Movie</category>
-    <category lang="en">Thriller</category>
-    <icon src="https://images.metadata.sky.com/pd-image/c7ce82a8-943a-4b42-ab48-ff0ace38a43b/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/6b5a5f05-87f2-437a-8561-53b053335722/16-9" />
+  </programme>
+  <programme channel="Sky.Cinema.Select.uk" start="20260913041500 +0000" stop="20260913060000 +0000">
+    <title lang="en">The Lego Ninjago Movie</title>
+    <desc lang="en">The Secret Ninja Force must form an uneasy alliance with the villainous Lord Garmadon when an even greater threat emerges.</desc>
+    <date>2017</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Animation</category>
+    <icon src="https://images.metadata.sky.com/pd-image/c7fa1c12-aa03-4f98-ab80-2b5f75cbd10f/16-9" />
     <rating system="UK">
-      <value>15</value>
+      <value>U</value>
     </rating>
   </programme>
-  <programme channel="Sky.Thriller.HD.uk" start="20260909075000 +0000" stop="20260909100000 +0000">
-    <title lang="en">Patriot Games</title>
-    <desc lang="en">CIA agent Harrison Ford becomes the target of an IRA revenge plot after he foils a terrorist attack. Strong language/violence/flashing images.</desc>
-    <date>1991</date>
+  <programme channel="Sky.Cinema.Select.uk" start="20260913060000 +0000" stop="20260913075000 +0000">
+    <title lang="en">Lego Movie 2: The Second Part</title>
+    <desc lang="en">The heroes of Bricksburg return in an action-packed comedy sequel. With Chris Pratt and Elizabeth Banks.</desc>
+    <date>2019</date>
     <category lang="en">Movie</category>
-    <category lang="en">Thriller</category>
-    <icon src="https://images.metadata.sky.com/pd-image/4a8d0ba6-d1a9-4bcf-96a3-e5a6f5fed4c2/16-9" />
+    <category lang="en">Animation</category>
+    <icon src="https://images.metadata.sky.com/pd-image/00e0470e-8759-4b04-9d7e-d8a0d582ca2e/16-9" />
     <rating system="UK">
-      <value>15</value>
+      <value>U</value>
     </rating>
   </programme>
-  <programme channel="Sky.Thriller.HD.uk" start="20260909100000 +0000" stop="20260909120500 +0000">
-    <title lang="en">Mr. &amp; Mrs. Smith</title>
-    <desc lang="en">Brad Pitt and Angelina Jolie are the married assassins facing off in a super-sexy shoot 'em up. Action comedy. Contains strong language/violence/flashing images.</desc>
-    <date>2005</date>
+  <programme channel="Sky.Cinema.Select.uk" start="20260913075000 +0000" stop="20260913095000 +0000">
+    <title lang="en">Spider-Man: Into The Spider-Verse</title>
+    <desc lang="en">Academy Award-winning animated film exploring the weaves, webs and alternate realities of the incredible Spider-Man universe.</desc>
+    <date>2018</date>
     <category lang="en">Movie</category>
-    <category lang="en">Thriller</category>
-    <icon src="https://images.metadata.sky.com/pd-image/6845fae2-86dc-4d46-a701-e47d3619bdc7/16-9" />
-    <rating system="UK">
-      <value>15</value>
-    </rating>
-  </programme>
-  <programme channel="Sky.Thriller.HD.uk" start="20260909120500 +0000" stop="20260909142500 +0000">
-    <title lang="en">The Bourne Legacy</title>
-    <desc lang="en">Enhanced assassin Jeremy Renner faces a battle to survive when his CIA employers decide to eliminate his programme.</desc>
-    <category lang="en">Movie</category>
-    <category lang="en">Thriller</category>
-    <icon src="https://images.metadata.sky.com/pd-image/b3ac00bb-b586-4efe-9b49-cbbfe796da16/16-9" />
-    <rating system="UK">
-      <value>12</value>
-    </rating>
-  </programme>
-  <programme channel="Sky.Thriller.HD.uk" start="20260909142500 +0000" stop="20260909164000 +0000">
-    <title lang="en">Jason Bourne</title>
-    <desc lang="en">Matt Damon's super-soldier emerges from the shadows when a face from his past uncovers hard-hitting secrets. Action thriller with Tommy Lee Jones and Alicia Vikander.</desc>
-    <date>2016</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Thriller</category>
-    <icon src="https://images.metadata.sky.com/pd-image/0298e072-27f7-46aa-ab1c-3643c9cc51fc/16-9" />
-    <rating system="UK">
-      <value>12</value>
-    </rating>
-  </programme>
-  <programme channel="Sky.Thriller.HD.uk" start="20260909164000 +0000" stop="20260909190000 +0000">
-    <title lang="en">The Hunt For Red October</title>
-    <desc lang="en">Soviet nuclear sub commander Sean Connery announces his defection to the West, but is it just a war-mongering ploy? Thriller with Alec Baldwin.</desc>
-    <date>1990</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Thriller</category>
-    <icon src="https://images.metadata.sky.com/pd-image/73c0c7fd-97df-4243-a5ca-98a8e293e297/16-9" />
+    <category lang="en">Animation</category>
+    <icon src="https://images.metadata.sky.com/pd-image/e0603e63-d2f8-4e2a-8505-bf9be9a3a15f/16-9" />
     <rating system="UK">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="Sky.Thriller.HD.uk" start="20260909190000 +0000" stop="20260909205000 +0000">
-    <title lang="en">Snatch</title>
-    <desc lang="en">Guy Ritchie's East End thriller with bare-knuckle boxing, wheeler-dealers and conmen in pursuit of a stolen jewel. Strong language/sex/violence.</desc>
-    <date>2000</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Thriller</category>
-    <icon src="https://images.metadata.sky.com/pd-image/b572d8d8-22f4-4234-afa1-2502612aa245/16-9" />
-    <rating system="UK">
-      <value>15</value>
-    </rating>
-  </programme>
-  <programme channel="Sky.Thriller.HD.uk" start="20260909205000 +0000" stop="20260909223500 +0000">
-    <title lang="en">Hungry</title>
-    <desc lang="en">After becoming lost in the Louisiana swamplands, a group of holidaymakers must fight for their lives against a rampaging hippo on the loose.</desc>
-    <date>2026</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Thriller</category>
-    <icon src="https://images.metadata.sky.com/pd-image/f7272e68-425a-47d3-b75a-f842785d9df6/16-9" />
-    <rating system="UK">
-      <value>15</value>
-    </rating>
-  </programme>
-  <programme channel="Sky.Thriller.HD.uk" start="20260909223500 +0000" stop="20260910004000 +0000">
-    <title lang="en">Safe House</title>
-    <desc lang="en">Sparks fly when CIA man Ryan Reynolds is tasked with keeping watch over murderous rogue agent Denzel Washington. Action thriller. Language/violence/flashing images.</desc>
+  <programme channel="Sky.Cinema.Select.uk" start="20260913095000 +0000" stop="20260913121000 +0000">
+    <title lang="en">The Amazing Spider-Man</title>
+    <desc lang="en">Andrew Garfield stars as the Webbed Wonder, on a collision course with evil adversary The Lizard. With Emma Stone. Violence/flashing images.</desc>
     <date>2012</date>
     <category lang="en">Movie</category>
-    <category lang="en">Thriller</category>
-    <icon src="https://images.metadata.sky.com/pd-image/8e7d23f2-5d46-4f3c-994c-b4a2c1b3dbf5/16-9" />
+    <category lang="en">Action</category>
+    <icon src="https://images.metadata.sky.com/pd-image/d576b25b-3e27-4b30-b943-aee4b178ad1d/16-9" />
     <rating system="UK">
-      <value>15</value>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme channel="Sky.Cinema.Select.uk" start="20260913121000 +0000" stop="20260913143500 +0000">
+    <title lang="en">The Amazing Spider-Man 2</title>
+    <desc lang="en">Andrew Garfield's Spider-Man returns to battle supercharged villain Electro, before confronting someone from his past. Emma Stone co-stars.</desc>
+    <date>2014</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Action</category>
+    <icon src="https://images.metadata.sky.com/pd-image/299769eb-6c39-4fe3-9b75-01d8daeca1ab/16-9" />
+    <rating system="UK">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme channel="Sky.Cinema.Select.uk" start="20260913143500 +0000" stop="20260913163500 +0000">
+    <title lang="en">Green Lantern</title>
+    <desc lang="en">Hot shot pilot Ryan Reynolds is given superpowers after joining intergalactic peace-keeping force, the Green Lantern Corps. Comic book adventure. Violence/flashing images.</desc>
+    <date>2011</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Action</category>
+    <icon src="https://images.metadata.sky.com/pd-image/2114707f-5184-48b3-af17-821cb493d8d6/16-9" />
+    <rating system="UK">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme channel="Sky.Cinema.Select.uk" start="20260913163500 +0000" stop="20260913190000 +0000">
+    <title lang="en">Aquaman</title>
+    <desc lang="en">Jason Momoa stars as the half-human, half-Atlantean Aquaman, on the quest of a lifetime. With Nicole Kidman and Willem Dafoe.</desc>
+    <date>2018</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Action</category>
+    <icon src="https://images.metadata.sky.com/pd-image/c5dba143-d8d2-48ef-a440-2195038655c4/16-9" />
+    <rating system="UK">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme channel="Sky.Cinema.Select.uk" start="20260913190000 +0000" stop="20260913211500 +0000">
+    <title lang="en">Superman</title>
+    <desc lang="en">Balancing alien heritage with a human upbringing, Superman is drawn into a conflict that challenges his belief in truth and justice.</desc>
+    <date>2025</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Action</category>
+    <icon src="https://images.metadata.sky.com/pd-image/13d2e33d-71c4-4616-84d6-e95ae32d1795/16-9" />
+    <rating system="UK">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme channel="Sky.Cinema.Select.uk" start="20260913211500 +0000" stop="20260913231500 +0000">
+    <title lang="en">Supergirl</title>
+    <desc lang="en">Supergirl joins forces with an unlikely companion on an interstellar journey of vengeance and justice. Milly Alcock and Jason Momoa star.</desc>
+    <date>2026</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Action</category>
+    <icon src="https://images.metadata.sky.com/pd-image/c97edabb-3d6b-441d-b87e-b4595b64d5f5/16-9" />
+    <rating system="UK">
+      <value>12</value>
     </rating>
   </programme>
   <programme channel="Sky.Thriller.HD.uk" start="20260910004000 +0000" stop="20260910025500 +0000">
@@ -2631,196 +2516,137 @@
       <value>15</value>
     </rating>
   </programme>
-  <programme channel="Sky.Cinema.Hits.HD.uk" start="20260909195000 +0000" stop="20260909213000 +0000">
-    <title lang="en">American Pie: The Wedding</title>
-    <desc lang="en">The friends from East Great Falls High reunite to celebrate Jim and Michelle's forthcoming wedding. Though reluctant to invite Stifler to their big day, the happy couple relent - but regret their decision when he plans a bachelor party on the same evening Jim is due to meet the in-laws. The third instalment in the comedy series, with Jason Biggs, Alyson Hannigan, Seann William Scott, Eddie Kaye Thomas and Eugene Levy.</desc>
-    <credits>
-      <actor>Jason Biggs</actor>
-      <actor>Alyson Hannigan</actor>
-      <actor>Seann William Scott</actor>
-      <actor>Eddie Kaye Thomas</actor>
-      <actor>Eugene Levy</actor>
-      <actor>Thomas Ian Nicholas</actor>
-      <actor>January Jones</actor>
-      <actor>Molly Cheek</actor>
-    </credits>
-    <category lang="en">Film</category>
-    <icon src="https://tv.assets.pressassociation.io/8316865a-a5ba-57dd-962b-8ad797e21133.jpg" />
+  <programme channel="Sky.Thriller.HD.uk" start="20260912231000 +0000" stop="20260913011500 +0000">
+    <title lang="en">Fatal Attraction</title>
+    <desc lang="en">Married Michael Douglas has a one-night stand with Glenn Close, but the bunny-hating harpy isn't ready to say goodbye. Thriller. Contains violence/sex/mature themes.</desc>
+    <date>1987</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Thriller</category>
+    <icon src="https://images.metadata.sky.com/pd-image/6947aa1d-2c00-4703-8829-8fb822dd4cc6/16-9" />
+    <rating system="UK">
+      <value>15</value>
+    </rating>
   </programme>
-  <programme channel="Sky.Cinema.Hits.HD.uk" start="20260909213000 +0000" stop="20260909233000 +0000">
-    <title lang="en">American Reunion</title>
-    <desc lang="en">Jim Levenstein and his old friends return to their home town for a high-school reunion. Struck by how much their lives have changed, they set out to relive the sexual misadventures of their adolescence, but only end up making bigger fools of themselves than they did as teenagers. Comedy sequel to the American Pie movies, starring Jason Biggs and Alyson Hannigan.</desc>
-    <credits>
-      <actor>Jason Biggs</actor>
-      <actor>Alyson Hannigan</actor>
-      <actor>Chris Klein</actor>
-      <actor>Thomas Ian Nicholas</actor>
-      <actor>Tara Reid</actor>
-      <actor>Seann William Scott</actor>
-      <actor>Mena Suvari</actor>
-      <actor>Eugene Levy</actor>
-    </credits>
-    <category lang="en">Film</category>
-    <icon src="https://tv.assets.pressassociation.io/4e94fbf3-24e8-5be4-9c6d-0f3ed35618ed.jpg" />
+  <programme channel="Sky.Thriller.HD.uk" start="20260913011500 +0000" stop="20260913031500 +0000">
+    <title lang="en">The Untouchables</title>
+    <desc lang="en">The late Sean Connery gives an Oscar-winning performance alongside Kevin Costner's Treasury agent, determined to take down Robert De Niro's Al Capone.</desc>
+    <date>1987</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Thriller</category>
+    <icon src="https://images.metadata.sky.com/pd-image/3c78c942-6104-48a4-a0b8-d1c9c8ff6292/16-9" />
+    <rating system="UK">
+      <value>15</value>
+    </rating>
   </programme>
-  <programme channel="Sky.Cinema.Hits.HD.uk" start="20260909233000 +0000" stop="20260910011000 +0000">
-    <title lang="en">American Pie</title>
-    <desc lang="en">Four teenage lads make a solemn pact to lose their virginity before the high-school prom. Though their antics cause them huge embarrassment and public humiliation, the friends also learn about love and affection in their relations with the opposite sex. Comedy, starring Jason Biggs, Shannon Elizabeth, Chris Klein, Alyson Hannigan, Mena Suvari, Seann William Scott and Eugene Levy.</desc>
-    <credits>
-      <actor>Jason Biggs</actor>
-      <actor>Eugene Levy</actor>
-      <actor>Shannon Elizabeth</actor>
-      <actor>Alyson Hannigan</actor>
-      <actor>Chris Klein</actor>
-      <actor>Thomas Ian Nicholas</actor>
-      <actor>Mena Suvari</actor>
-      <actor>Seann William Scott</actor>
-    </credits>
-    <category lang="en">Film</category>
-    <icon src="https://tv.assets.pressassociation.io/2945120d-1d8b-5674-b409-e3d360c65214.jpg" />
+  <programme channel="Sky.Thriller.HD.uk" start="20260913031500 +0000" stop="20260913050000 +0000">
+    <title lang="en">Naked Singularity</title>
+    <desc lang="en">When a promising young public defender loses faith in the justice system, he is pulled into a high-stakes heist. Sky Original starring John Boyega.</desc>
+    <date>2021</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Thriller</category>
+    <icon src="https://images.metadata.sky.com/pd-image/9b4c758d-0a8a-4d01-8af5-1e8e9607703c/16-9" />
+    <rating system="UK">
+      <value>MP</value>
+    </rating>
   </programme>
-  <programme channel="Sky.Cinema.Hits.HD.uk" start="20260910011000 +0000" stop="20260910030500 +0000">
-    <title lang="en">American Pie 2</title>
-    <desc lang="en">The teenagers reunite after their first year at college to spend the summer at a lake house. Jim is concerned by his lack of sexual experience, and goes in search of an old flame, Oz struggles to keep a long-term relationship going, and Finch tries to master the art of tantric sex. Comedy sequel, starring Jason Biggs, Chris Klein, Seann William Scott, Alyson Hannigan and Eugene Levy.</desc>
-    <credits>
-      <actor>Jason Biggs</actor>
-      <actor>Chris Klein</actor>
-      <actor>Seann William Scott</actor>
-      <actor>Alyson Hannigan</actor>
-      <actor>Eugene Levy</actor>
-      <actor>Thomas Ian Nicholas</actor>
-      <actor>Mena Suvari</actor>
-      <actor>Shannon Elizabeth</actor>
-    </credits>
-    <category lang="en">Film</category>
-    <icon src="https://tv.assets.pressassociation.io/e5071242-5e9b-5267-8d2e-c66223a4e380.jpg" />
+  <programme channel="Sky.Thriller.HD.uk" start="20260913050000 +0000" stop="20260913070500 +0000">
+    <title lang="en">Murder By Numbers</title>
+    <desc lang="en">Sandra Bullock is the seasoned cop on the trail of the privileged high-schoolers who think they've committed the perfect crime. Psychological thriller with Ryan Gosling.</desc>
+    <date>2002</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Thriller</category>
+    <icon src="https://images.metadata.sky.com/pd-image/8fdddf92-eb07-4250-a308-628d63d0c6d1/16-9" />
+    <rating system="UK">
+      <value>15</value>
+    </rating>
   </programme>
-  <programme channel="Sky.Cinema.Hits.HD.uk" start="20260910030500 +0000" stop="20260910045000 +0000">
-    <title lang="en">American Pie: The Wedding</title>
-    <desc lang="en">The friends from East Great Falls High reunite to celebrate Jim and Michelle's forthcoming wedding. Though reluctant to invite Stifler to their big day, the happy couple relent - but regret their decision when he plans a bachelor party on the same evening Jim is due to meet the in-laws. The third instalment in the comedy series, with Jason Biggs, Alyson Hannigan, Seann William Scott, Eddie Kaye Thomas and Eugene Levy.</desc>
-    <credits>
-      <actor>Jason Biggs</actor>
-      <actor>Alyson Hannigan</actor>
-      <actor>Seann William Scott</actor>
-      <actor>Eddie Kaye Thomas</actor>
-      <actor>Eugene Levy</actor>
-      <actor>Thomas Ian Nicholas</actor>
-      <actor>January Jones</actor>
-      <actor>Molly Cheek</actor>
-    </credits>
-    <category lang="en">Film</category>
-    <icon src="https://tv.assets.pressassociation.io/8316865a-a5ba-57dd-962b-8ad797e21133.jpg" />
+  <programme channel="Sky.Thriller.HD.uk" start="20260913070500 +0000" stop="20260913090500 +0000">
+    <title lang="en">Now You See Me</title>
+    <desc lang="en">Two detectives track a group of magicians who are using illusions to carry out bank heists. Crime caper with Woody Harrelson and Jesse Eisenberg.</desc>
+    <date>2013</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Thriller</category>
+    <icon src="https://images.metadata.sky.com/pd-image/bc886cc8-7580-4735-b245-22f6595cd24d/16-9" />
+    <rating system="UK">
+      <value>12</value>
+    </rating>
   </programme>
-  <programme channel="Sky.Cinema.Hits.HD.uk" start="20260910045000 +0000" stop="20260910070000 +0000">
-    <title lang="en">The Karate Kid</title>
-    <desc lang="en">A teenager at a new school befriends a pretty girl, but her ex-boyfriend is jealous and attacks him. During one particularly bad fight, a wise old caretaker intervenes and defeats the youngster's assailants using his martial arts skills. He goes on to mentor the boy and teach him karate so he can face his enemies in a tournament. Drama, with Ralph Macchio, Pat Morita and Elisabeth Shue.</desc>
-    <credits>
-      <actor>Ralph Macchio</actor>
-      <actor>Pat Morita</actor>
-      <actor>Elisabeth Shue</actor>
-      <actor>Martin Kove</actor>
-      <actor>Randee Heller</actor>
-      <actor>William Zabka</actor>
-      <actor>Ron Thomas</actor>
-      <actor>Rob Garrison</actor>
-    </credits>
-    <category lang="en">Film</category>
-    <icon src="https://tv.assets.pressassociation.io/d3dfa8d4-0169-50c0-9e0c-1a8853a5cf8b.jpg" />
+  <programme channel="Sky.Thriller.HD.uk" start="20260913090500 +0000" stop="20260913111500 +0000">
+    <title lang="en">Now You See Me 2</title>
+    <desc lang="en">A scheming billionaire lures a team of super magicians out of the shadows and into a trap. Heist thriller with Mark Ruffalo and Woody Harrelson.</desc>
+    <date>2016</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Thriller</category>
+    <icon src="https://images.metadata.sky.com/pd-image/f436eee2-22f2-4db0-b9f9-477d2e40dd2a/16-9" />
+    <rating system="UK">
+      <value>12</value>
+    </rating>
   </programme>
-  <programme channel="Sky.Cinema.Hits.HD.uk" start="20260910070000 +0000" stop="20260910085500 +0000">
-    <title lang="en">The Karate Kid Part II</title>
-    <desc lang="en">High-kicking teenager Daniel accompanies his venerable mentor Mr Miyagi when he returns to the Japanese province of Okinawa to visit his dying father. However, an old rival of Miyagi's is waiting for them, while Daniel is drawn into a vicious conflict with their enemy's own karate protege. Martial arts sequel, starring Ralph Macchio, Pat Morita and Yuji Okumoto.</desc>
-    <credits>
-      <actor>Ralph Macchio</actor>
-      <actor>Pat Morita</actor>
-      <actor>Yuji Okumoto</actor>
-      <actor>Danny Kamekona</actor>
-      <actor>Tamlyn Tomita</actor>
-      <actor>Nobu McCarthy</actor>
-      <actor>Martin Kove</actor>
-      <actor>William Zabka</actor>
-    </credits>
-    <category lang="en">Film</category>
-    <icon src="https://tv.assets.pressassociation.io/cf025b04-f020-5614-aff9-c2581d843482.jpg" />
+  <programme channel="Sky.Thriller.HD.uk" start="20260913111500 +0000" stop="20260913131500 +0000">
+    <title lang="en">The Bourne Identity</title>
+    <desc lang="en">Matt Damon plays a man with amnesia who finds himself at the centre of a manhunt. First-rate action thriller. Strong language/violence/flashing images.</desc>
+    <date>2002</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Thriller</category>
+    <icon src="https://images.metadata.sky.com/pd-image/5dde8576-9533-4d50-a061-08a3dea9bf49/16-9" />
+    <rating system="UK">
+      <value>12</value>
+    </rating>
   </programme>
-  <programme channel="Sky.Cinema.Hits.HD.uk" start="20260910085500 +0000" stop="20260910105000 +0000">
-    <title lang="en">The Karate Kid Part III</title>
-    <desc lang="en">The teenage martial arts expert becomes obsessed with defending his championship title, but wise mentor Mr Miyagi is not prepared to help him fight for such a shallow goal. Seeking someone else to help guide his career, he falls under the influence of a crooked trainer - who is secretly plotting his downfall with the help of an old adversary. Adventure sequel, starring Ralph Macchio and Pat Morita.</desc>
-    <credits>
-      <actor>Ralph Macchio</actor>
-      <actor>Pat Morita</actor>
-      <actor>Martin Kove</actor>
-      <actor>Robyn Lively</actor>
-      <actor>Thomas Ian Griffith</actor>
-      <actor>Sean Kanan</actor>
-      <actor>Jonathan Avildsen</actor>
-      <actor>Glenn Medeiros</actor>
-    </credits>
-    <category lang="en">Film</category>
-    <icon src="https://tv.assets.pressassociation.io/7504d452-9e1c-5b26-95cc-857d208df15f.jpg" />
+  <programme channel="Sky.Thriller.HD.uk" start="20260913131500 +0000" stop="20260913152000 +0000">
+    <title lang="en">Mr. &amp; Mrs. Smith</title>
+    <desc lang="en">Brad Pitt and Angelina Jolie are the married assassins facing off in a super-sexy shoot 'em up. Action comedy. Contains strong language/violence/flashing images.</desc>
+    <date>2005</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Thriller</category>
+    <icon src="https://images.metadata.sky.com/pd-image/6845fae2-86dc-4d46-a701-e47d3619bdc7/16-9" />
+    <rating system="UK">
+      <value>15</value>
+    </rating>
   </programme>
-  <programme channel="Sky.Cinema.Hits.HD.uk" start="20260910105000 +0000" stop="20260910131000 +0000">
-    <title lang="en">The Karate Kid</title>
-    <desc lang="en">An American youngster goes to live in China with his mother, where he becomes an outsider and falls foul of the local bullies. He receives help from the kindly school caretaker, who turns out to be a kung fu master and offers to train the boy to defend himself. Martial arts drama, with Jaden Smith and Jackie Chan.</desc>
-    <credits>
-      <actor>Jaden Smith</actor>
-      <actor>Jackie Chan</actor>
-      <actor>Taraji P Henson</actor>
-      <actor>Wenwen Han</actor>
-      <actor>Rongguang Yu</actor>
-      <actor>Zhensu Wu</actor>
-      <actor>Zhiheng Wang</actor>
-      <actor>Zhenwei Wang</actor>
-    </credits>
-    <category lang="en">Film</category>
-    <icon src="https://tv.assets.pressassociation.io/77d1dedc-e10e-5452-928f-210d6e64ef9e.jpg" />
+  <programme channel="Sky.Thriller.HD.uk" start="20260913152000 +0000" stop="20260913170000 +0000">
+    <title lang="en">Hungry</title>
+    <desc lang="en">After becoming lost in the Louisiana swamplands, a group of holidaymakers must fight for their lives against a rampaging hippo on the loose.</desc>
+    <date>2026</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Thriller</category>
+    <icon src="https://images.metadata.sky.com/pd-image/f7272e68-425a-47d3-b75a-f842785d9df6/16-9" />
+    <rating system="UK">
+      <value>15</value>
+    </rating>
   </programme>
-  <programme channel="Sky.Cinema.Hits.HD.uk" start="20260910131000 +0000" stop="20260910145000 +0000">
-    <title lang="en">Karate Kid: Legends</title>
-    <desc lang="en">Kung fu prodigy Li Fong moves to New York City with his mother and befriends his classmate, Mia. But Connor Day, a local karate champion, provokes Li and publicly humiliates him. Li seeks guidance from his mentor, the kung fu master Mr Han, who reaches out to Daniel LaRusso, convincing the original Karate Kid to teach Li the principles of Miyagi Karate. Drama sequel, starring Jackie Chan, Ben Wang and Ralph Macchio.</desc>
-    <credits>
-      <actor>Jackie Chan</actor>
-      <actor>Ben Wang</actor>
-      <actor>Joshua Jackson</actor>
-      <actor>Ralph Macchio</actor>
-      <actor>Sadie Stanley</actor>
-      <actor>Ming-Na Wen</actor>
-      <actor>Jonathan Entwistle</actor>
-    </credits>
-    <category lang="en">Film</category>
-    <icon src="https://tv.assets.pressassociation.io/3381b069-0a39-582d-b8ef-642160988796.jpg" />
+  <programme channel="Sky.Thriller.HD.uk" start="20260913170000 +0000" stop="20260913190000 +0000">
+    <title lang="en">RocknRolla</title>
+    <desc lang="en">In debt to a gangster, petty criminal Gerard Butler pulls off a heist that has repercussions in the underworld. Guy Ritchie caper. Strong language/violence/mature themes.</desc>
+    <date>2008</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Thriller</category>
+    <icon src="https://images.metadata.sky.com/pd-image/e4499748-8000-43f2-8ef8-c87b9b0851bb/16-9" />
+    <rating system="UK">
+      <value>15</value>
+    </rating>
   </programme>
-  <programme channel="Sky.Cinema.Hits.HD.uk" start="20260910145000 +0000" stop="20260910170000 +0000">
-    <title lang="en">The Karate Kid</title>
-    <desc lang="en">A teenager at a new school befriends a pretty girl, but her ex-boyfriend is jealous and attacks him. During one particularly bad fight, a wise old caretaker intervenes and defeats the youngster's assailants using his martial arts skills. He goes on to mentor the boy and teach him karate so he can face his enemies in a tournament. Drama, with Ralph Macchio, Pat Morita and Elisabeth Shue.</desc>
-    <credits>
-      <actor>Ralph Macchio</actor>
-      <actor>Pat Morita</actor>
-      <actor>Elisabeth Shue</actor>
-      <actor>Martin Kove</actor>
-      <actor>Randee Heller</actor>
-      <actor>William Zabka</actor>
-      <actor>Ron Thomas</actor>
-      <actor>Rob Garrison</actor>
-    </credits>
-    <category lang="en">Film</category>
-    <icon src="https://tv.assets.pressassociation.io/d3dfa8d4-0169-50c0-9e0c-1a8853a5cf8b.jpg" />
+  <programme channel="Sky.Thriller.HD.uk" start="20260913190000 +0000" stop="20260913212500 +0000">
+    <title lang="en">Clear And Present Danger</title>
+    <desc lang="en">CIA man Harrison Ford is double-crossed and becomes mixed up in an illegal war on a Colombian drug ring. Strong language/violence/flashing images.</desc>
+    <date>1994</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Thriller</category>
+    <icon src="https://images.metadata.sky.com/pd-image/80bfc6e9-8d30-4c1e-bde7-66af006d4565/16-9" />
+    <rating system="UK">
+      <value>12</value>
+    </rating>
   </programme>
-  <programme channel="Sky.Cinema.Hits.HD.uk" start="20260910170000 +0000" stop="20260910190000 +0000">
-    <title lang="en">The Karate Kid Part II</title>
-    <desc lang="en">High-kicking teenager Daniel accompanies his venerable mentor Mr Miyagi when he returns to the Japanese province of Okinawa to visit his dying father. However, an old rival of Miyagi's is waiting for them, while Daniel is drawn into a vicious conflict with their enemy's own karate protege. Martial arts sequel, starring Ralph Macchio, Pat Morita and Yuji Okumoto.</desc>
-    <credits>
-      <actor>Ralph Macchio</actor>
-      <actor>Pat Morita</actor>
-      <actor>Yuji Okumoto</actor>
-      <actor>Danny Kamekona</actor>
-      <actor>Tamlyn Tomita</actor>
-      <actor>Nobu McCarthy</actor>
-      <actor>Martin Kove</actor>
-      <actor>William Zabka</actor>
-    </credits>
-    <category lang="en">Film</category>
-    <icon src="https://tv.assets.pressassociation.io/cf025b04-f020-5614-aff9-c2581d843482.jpg" />
+  <programme channel="Sky.Thriller.HD.uk" start="20260913212500 +0000" stop="20260913234500 +0000">
+    <title lang="en">A Clockwork Orange</title>
+    <desc lang="en">Stanley Kubrick's controversial classic about an off-the-wall gang who embark on a violent crime spree. Malcolm McDowell stars. Violence/mature themes.</desc>
+    <date>1971</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/ce71ae17-1189-4686-8da6-e21c0d48ee57/16-9" />
+    <rating system="UK">
+      <value>18</value>
+    </rating>
   </programme>
   <programme channel="Sky.Cinema.Hits.HD.uk" start="20260910190000 +0000" stop="20260910210000 +0000">
     <title lang="en">The Karate Kid Part III</title>
@@ -3223,6 +3049,196 @@
     <category lang="en">Film</category>
     <icon src="https://tv.assets.pressassociation.io/cf025b04-f020-5614-aff9-c2581d843482.jpg" />
   </programme>
+  <programme channel="Sky.Cinema.Hits.HD.uk" start="20260913001000 +0000" stop="20260913021000 +0000">
+    <title lang="en">The Karate Kid Part III</title>
+    <desc lang="en">The teenage martial arts expert becomes obsessed with defending his championship title, but wise mentor Mr Miyagi is not prepared to help him fight for such a shallow goal. Seeking someone else to help guide his career, he falls under the influence of a crooked trainer - who is secretly plotting his downfall with the help of an old adversary. Adventure sequel, starring Ralph Macchio and Pat Morita.</desc>
+    <credits>
+      <actor>Ralph Macchio</actor>
+      <actor>Pat Morita</actor>
+      <actor>Martin Kove</actor>
+      <actor>Robyn Lively</actor>
+      <actor>Thomas Ian Griffith</actor>
+      <actor>Sean Kanan</actor>
+      <actor>Jonathan Avildsen</actor>
+      <actor>Glenn Medeiros</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="https://tv.assets.pressassociation.io/7504d452-9e1c-5b26-95cc-857d208df15f.jpg" />
+  </programme>
+  <programme channel="Sky.Cinema.Hits.HD.uk" start="20260913021000 +0000" stop="20260913044000 +0000">
+    <title lang="en">The Karate Kid</title>
+    <desc lang="en">An American youngster goes to live in China with his mother, where he becomes an outsider and falls foul of the local bullies. He receives help from the kindly school caretaker, who turns out to be a kung fu master and offers to train the boy to defend himself. Martial arts drama, with Jaden Smith and Jackie Chan.</desc>
+    <credits>
+      <actor>Jaden Smith</actor>
+      <actor>Jackie Chan</actor>
+      <actor>Taraji P Henson</actor>
+      <actor>Wenwen Han</actor>
+      <actor>Rongguang Yu</actor>
+      <actor>Zhensu Wu</actor>
+      <actor>Zhiheng Wang</actor>
+      <actor>Zhenwei Wang</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="https://tv.assets.pressassociation.io/77d1dedc-e10e-5452-928f-210d6e64ef9e.jpg" />
+  </programme>
+  <programme channel="Sky.Cinema.Hits.HD.uk" start="20260913044000 +0000" stop="20260913062500 +0000">
+    <title lang="en">Karate Kid: Legends</title>
+    <desc lang="en">Kung fu prodigy Li Fong moves to New York City with his mother and befriends his classmate, Mia. But Connor Day, a local karate champion, provokes Li and publicly humiliates him. Li seeks guidance from his mentor, the kung fu master Mr Han, who reaches out to Daniel LaRusso, convincing the original Karate Kid to teach Li the principles of Miyagi Karate. Drama sequel, starring Jackie Chan, Ben Wang and Ralph Macchio.</desc>
+    <credits>
+      <actor>Jackie Chan</actor>
+      <actor>Ben Wang</actor>
+      <actor>Joshua Jackson</actor>
+      <actor>Ralph Macchio</actor>
+      <actor>Sadie Stanley</actor>
+      <actor>Ming-Na Wen</actor>
+      <actor>Jonathan Entwistle</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="https://tv.assets.pressassociation.io/3381b069-0a39-582d-b8ef-642160988796.jpg" />
+  </programme>
+  <programme channel="Sky.Cinema.Hits.HD.uk" start="20260913062500 +0000" stop="20260913084500 +0000">
+    <title lang="en">The Karate Kid</title>
+    <desc lang="en">A teenager at a new school befriends a pretty girl, but her ex-boyfriend is jealous and attacks him. During one particularly bad fight, a wise old caretaker intervenes and defeats the youngster's assailants using his martial arts skills. He goes on to mentor the boy and teach him karate so he can face his enemies in a tournament. Drama, with Ralph Macchio, Pat Morita and Elisabeth Shue.</desc>
+    <credits>
+      <actor>Ralph Macchio</actor>
+      <actor>Pat Morita</actor>
+      <actor>Elisabeth Shue</actor>
+      <actor>Martin Kove</actor>
+      <actor>Randee Heller</actor>
+      <actor>William Zabka</actor>
+      <actor>Ron Thomas</actor>
+      <actor>Rob Garrison</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="https://tv.assets.pressassociation.io/d3dfa8d4-0169-50c0-9e0c-1a8853a5cf8b.jpg" />
+  </programme>
+  <programme channel="Sky.Cinema.Hits.HD.uk" start="20260913084500 +0000" stop="20260913104500 +0000">
+    <title lang="en">The Karate Kid Part II</title>
+    <desc lang="en">High-kicking teenager Daniel accompanies his venerable mentor Mr Miyagi when he returns to the Japanese province of Okinawa to visit his dying father. However, an old rival of Miyagi's is waiting for them, while Daniel is drawn into a vicious conflict with their enemy's own karate protege. Martial arts sequel, starring Ralph Macchio, Pat Morita and Yuji Okumoto.</desc>
+    <credits>
+      <actor>Ralph Macchio</actor>
+      <actor>Pat Morita</actor>
+      <actor>Yuji Okumoto</actor>
+      <actor>Danny Kamekona</actor>
+      <actor>Tamlyn Tomita</actor>
+      <actor>Nobu McCarthy</actor>
+      <actor>Martin Kove</actor>
+      <actor>William Zabka</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="https://tv.assets.pressassociation.io/cf025b04-f020-5614-aff9-c2581d843482.jpg" />
+  </programme>
+  <programme channel="Sky.Cinema.Hits.HD.uk" start="20260913104500 +0000" stop="20260913124500 +0000">
+    <title lang="en">The Karate Kid Part III</title>
+    <desc lang="en">The teenage martial arts expert becomes obsessed with defending his championship title, but wise mentor Mr Miyagi is not prepared to help him fight for such a shallow goal. Seeking someone else to help guide his career, he falls under the influence of a crooked trainer - who is secretly plotting his downfall with the help of an old adversary. Adventure sequel, starring Ralph Macchio and Pat Morita.</desc>
+    <credits>
+      <actor>Ralph Macchio</actor>
+      <actor>Pat Morita</actor>
+      <actor>Martin Kove</actor>
+      <actor>Robyn Lively</actor>
+      <actor>Thomas Ian Griffith</actor>
+      <actor>Sean Kanan</actor>
+      <actor>Jonathan Avildsen</actor>
+      <actor>Glenn Medeiros</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="https://tv.assets.pressassociation.io/7504d452-9e1c-5b26-95cc-857d208df15f.jpg" />
+  </programme>
+  <programme channel="Sky.Cinema.Hits.HD.uk" start="20260913124500 +0000" stop="20260913151000 +0000">
+    <title lang="en">The Karate Kid</title>
+    <desc lang="en">An American youngster goes to live in China with his mother, where he becomes an outsider and falls foul of the local bullies. He receives help from the kindly school caretaker, who turns out to be a kung fu master and offers to train the boy to defend himself. Martial arts drama, with Jaden Smith and Jackie Chan.</desc>
+    <credits>
+      <actor>Jaden Smith</actor>
+      <actor>Jackie Chan</actor>
+      <actor>Taraji P Henson</actor>
+      <actor>Wenwen Han</actor>
+      <actor>Rongguang Yu</actor>
+      <actor>Zhensu Wu</actor>
+      <actor>Zhiheng Wang</actor>
+      <actor>Zhenwei Wang</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="https://tv.assets.pressassociation.io/77d1dedc-e10e-5452-928f-210d6e64ef9e.jpg" />
+  </programme>
+  <programme channel="Sky.Cinema.Hits.HD.uk" start="20260913151000 +0000" stop="20260913165000 +0000">
+    <title lang="en">Karate Kid: Legends</title>
+    <desc lang="en">Kung fu prodigy Li Fong moves to New York City with his mother and befriends his classmate, Mia. But Connor Day, a local karate champion, provokes Li and publicly humiliates him. Li seeks guidance from his mentor, the kung fu master Mr Han, who reaches out to Daniel LaRusso, convincing the original Karate Kid to teach Li the principles of Miyagi Karate. Drama sequel, starring Jackie Chan, Ben Wang and Ralph Macchio.</desc>
+    <credits>
+      <actor>Jackie Chan</actor>
+      <actor>Ben Wang</actor>
+      <actor>Joshua Jackson</actor>
+      <actor>Ralph Macchio</actor>
+      <actor>Sadie Stanley</actor>
+      <actor>Ming-Na Wen</actor>
+      <actor>Jonathan Entwistle</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="https://tv.assets.pressassociation.io/3381b069-0a39-582d-b8ef-642160988796.jpg" />
+  </programme>
+  <programme channel="Sky.Cinema.Hits.HD.uk" start="20260913165000 +0000" stop="20260913190000 +0000">
+    <title lang="en">The Karate Kid</title>
+    <desc lang="en">A teenager at a new school befriends a pretty girl, but her ex-boyfriend is jealous and attacks him. During one particularly bad fight, a wise old caretaker intervenes and defeats the youngster's assailants using his martial arts skills. He goes on to mentor the boy and teach him karate so he can face his enemies in a tournament. Drama, with Ralph Macchio, Pat Morita and Elisabeth Shue.</desc>
+    <credits>
+      <actor>Ralph Macchio</actor>
+      <actor>Pat Morita</actor>
+      <actor>Elisabeth Shue</actor>
+      <actor>Martin Kove</actor>
+      <actor>Randee Heller</actor>
+      <actor>William Zabka</actor>
+      <actor>Ron Thomas</actor>
+      <actor>Rob Garrison</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="https://tv.assets.pressassociation.io/d3dfa8d4-0169-50c0-9e0c-1a8853a5cf8b.jpg" />
+  </programme>
+  <programme channel="Sky.Cinema.Hits.HD.uk" start="20260913190000 +0000" stop="20260913210000 +0000">
+    <title lang="en">The Karate Kid Part II</title>
+    <desc lang="en">High-kicking teenager Daniel accompanies his venerable mentor Mr Miyagi when he returns to the Japanese province of Okinawa to visit his dying father. However, an old rival of Miyagi's is waiting for them, while Daniel is drawn into a vicious conflict with their enemy's own karate protege. Martial arts sequel, starring Ralph Macchio, Pat Morita and Yuji Okumoto.</desc>
+    <credits>
+      <actor>Ralph Macchio</actor>
+      <actor>Pat Morita</actor>
+      <actor>Yuji Okumoto</actor>
+      <actor>Danny Kamekona</actor>
+      <actor>Tamlyn Tomita</actor>
+      <actor>Nobu McCarthy</actor>
+      <actor>Martin Kove</actor>
+      <actor>William Zabka</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="https://tv.assets.pressassociation.io/cf025b04-f020-5614-aff9-c2581d843482.jpg" />
+  </programme>
+  <programme channel="Sky.Cinema.Hits.HD.uk" start="20260913210000 +0000" stop="20260913230000 +0000">
+    <title lang="en">The Karate Kid Part III</title>
+    <desc lang="en">The teenage martial arts expert becomes obsessed with defending his championship title, but wise mentor Mr Miyagi is not prepared to help him fight for such a shallow goal. Seeking someone else to help guide his career, he falls under the influence of a crooked trainer - who is secretly plotting his downfall with the help of an old adversary. Adventure sequel, starring Ralph Macchio and Pat Morita.</desc>
+    <credits>
+      <actor>Ralph Macchio</actor>
+      <actor>Pat Morita</actor>
+      <actor>Martin Kove</actor>
+      <actor>Robyn Lively</actor>
+      <actor>Thomas Ian Griffith</actor>
+      <actor>Sean Kanan</actor>
+      <actor>Jonathan Avildsen</actor>
+      <actor>Glenn Medeiros</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="https://tv.assets.pressassociation.io/7504d452-9e1c-5b26-95cc-857d208df15f.jpg" />
+  </programme>
+  <programme channel="Sky.Cinema.Hits.HD.uk" start="20260913230000 +0000" stop="20260914012500 +0000">
+    <title lang="en">The Karate Kid</title>
+    <desc lang="en">An American youngster goes to live in China with his mother, where he becomes an outsider and falls foul of the local bullies. He receives help from the kindly school caretaker, who turns out to be a kung fu master and offers to train the boy to defend himself. Martial arts drama, with Jaden Smith and Jackie Chan.</desc>
+    <credits>
+      <actor>Jaden Smith</actor>
+      <actor>Jackie Chan</actor>
+      <actor>Taraji P Henson</actor>
+      <actor>Wenwen Han</actor>
+      <actor>Rongguang Yu</actor>
+      <actor>Zhensu Wu</actor>
+      <actor>Zhiheng Wang</actor>
+      <actor>Zhenwei Wang</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="https://tv.assets.pressassociation.io/77d1dedc-e10e-5452-928f-210d6e64ef9e.jpg" />
+  </programme>
   <channel id="MLB.Baseball.Dummy.us">
         <display-name lang="en">MLB Baseball</display-name>
         <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Major_League_Baseball_logo.svg/250px-Major_League_Baseball_logo.svg.png" />
@@ -3243,102 +3259,6 @@
         <display-name lang="en">NFL</display-name>
         <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" />
     </channel>
-    <programme start="20260909000000 +0000" stop="20260909010000 +0000" channel="MLB.Baseball.Dummy.us">
-        <title lang="en">MLB Baseball</title>
-        <desc lang="en">MLB Baseball</desc>
-    </programme>
-    <programme start="20260909010000 +0000" stop="20260909020000 +0000" channel="MLB.Baseball.Dummy.us">
-        <title lang="en">MLB Baseball</title>
-        <desc lang="en">MLB Baseball</desc>
-    </programme>
-    <programme start="20260909020000 +0000" stop="20260909030000 +0000" channel="MLB.Baseball.Dummy.us">
-        <title lang="en">MLB Baseball</title>
-        <desc lang="en">MLB Baseball</desc>
-    </programme>
-    <programme start="20260909030000 +0000" stop="20260909040000 +0000" channel="MLB.Baseball.Dummy.us">
-        <title lang="en">MLB Baseball</title>
-        <desc lang="en">MLB Baseball</desc>
-    </programme>
-    <programme start="20260909040000 +0000" stop="20260909050000 +0000" channel="MLB.Baseball.Dummy.us">
-        <title lang="en">MLB Baseball</title>
-        <desc lang="en">MLB Baseball</desc>
-    </programme>
-    <programme start="20260909050000 +0000" stop="20260909060000 +0000" channel="MLB.Baseball.Dummy.us">
-        <title lang="en">MLB Baseball</title>
-        <desc lang="en">MLB Baseball</desc>
-    </programme>
-    <programme start="20260909060000 +0000" stop="20260909070000 +0000" channel="MLB.Baseball.Dummy.us">
-        <title lang="en">MLB Baseball</title>
-        <desc lang="en">MLB Baseball</desc>
-    </programme>
-    <programme start="20260909070000 +0000" stop="20260909080000 +0000" channel="MLB.Baseball.Dummy.us">
-        <title lang="en">MLB Baseball</title>
-        <desc lang="en">MLB Baseball</desc>
-    </programme>
-    <programme start="20260909080000 +0000" stop="20260909090000 +0000" channel="MLB.Baseball.Dummy.us">
-        <title lang="en">MLB Baseball</title>
-        <desc lang="en">MLB Baseball</desc>
-    </programme>
-    <programme start="20260909090000 +0000" stop="20260909100000 +0000" channel="MLB.Baseball.Dummy.us">
-        <title lang="en">MLB Baseball</title>
-        <desc lang="en">MLB Baseball</desc>
-    </programme>
-    <programme start="20260909100000 +0000" stop="20260909110000 +0000" channel="MLB.Baseball.Dummy.us">
-        <title lang="en">MLB Baseball</title>
-        <desc lang="en">MLB Baseball</desc>
-    </programme>
-    <programme start="20260909110000 +0000" stop="20260909120000 +0000" channel="MLB.Baseball.Dummy.us">
-        <title lang="en">MLB Baseball</title>
-        <desc lang="en">MLB Baseball</desc>
-    </programme>
-    <programme start="20260909120000 +0000" stop="20260909130000 +0000" channel="MLB.Baseball.Dummy.us">
-        <title lang="en">MLB Baseball</title>
-        <desc lang="en">MLB Baseball</desc>
-    </programme>
-    <programme start="20260909130000 +0000" stop="20260909140000 +0000" channel="MLB.Baseball.Dummy.us">
-        <title lang="en">MLB Baseball</title>
-        <desc lang="en">MLB Baseball</desc>
-    </programme>
-    <programme start="20260909140000 +0000" stop="20260909150000 +0000" channel="MLB.Baseball.Dummy.us">
-        <title lang="en">MLB Baseball</title>
-        <desc lang="en">MLB Baseball</desc>
-    </programme>
-    <programme start="20260909150000 +0000" stop="20260909160000 +0000" channel="MLB.Baseball.Dummy.us">
-        <title lang="en">MLB Baseball</title>
-        <desc lang="en">MLB Baseball</desc>
-    </programme>
-    <programme start="20260909160000 +0000" stop="20260909170000 +0000" channel="MLB.Baseball.Dummy.us">
-        <title lang="en">MLB Baseball</title>
-        <desc lang="en">MLB Baseball</desc>
-    </programme>
-    <programme start="20260909170000 +0000" stop="20260909180000 +0000" channel="MLB.Baseball.Dummy.us">
-        <title lang="en">MLB Baseball</title>
-        <desc lang="en">MLB Baseball</desc>
-    </programme>
-    <programme start="20260909180000 +0000" stop="20260909190000 +0000" channel="MLB.Baseball.Dummy.us">
-        <title lang="en">MLB Baseball</title>
-        <desc lang="en">MLB Baseball</desc>
-    </programme>
-    <programme start="20260909190000 +0000" stop="20260909200000 +0000" channel="MLB.Baseball.Dummy.us">
-        <title lang="en">MLB Baseball</title>
-        <desc lang="en">MLB Baseball</desc>
-    </programme>
-    <programme start="20260909200000 +0000" stop="20260909210000 +0000" channel="MLB.Baseball.Dummy.us">
-        <title lang="en">MLB Baseball</title>
-        <desc lang="en">MLB Baseball</desc>
-    </programme>
-    <programme start="20260909210000 +0000" stop="20260909220000 +0000" channel="MLB.Baseball.Dummy.us">
-        <title lang="en">MLB Baseball</title>
-        <desc lang="en">MLB Baseball</desc>
-    </programme>
-    <programme start="20260909220000 +0000" stop="20260909230000 +0000" channel="MLB.Baseball.Dummy.us">
-        <title lang="en">MLB Baseball</title>
-        <desc lang="en">MLB Baseball</desc>
-    </programme>
-    <programme start="20260909230000 +0000" stop="20260909235900 +0000" channel="MLB.Baseball.Dummy.us">
-        <title lang="en">MLB Baseball</title>
-        <desc lang="en">MLB Baseball</desc>
-    </programme>
     <programme start="20260910000000 +0000" stop="20260910010000 +0000" channel="MLB.Baseball.Dummy.us">
         <title lang="en">MLB Baseball</title>
         <desc lang="en">MLB Baseball</desc>
@@ -3627,101 +3547,101 @@
         <title lang="en">MLB Baseball</title>
         <desc lang="en">MLB Baseball</desc>
     </programme>
-    <programme start="20260909000000 +0000" stop="20260909010000 +0000" channel="NBA.Basketball.Dummy.us">
-        <title lang="en">NBA Basketball</title>
-        <desc lang="en">NBA Basketball</desc>
+    <programme start="20260913000000 +0000" stop="20260913010000 +0000" channel="MLB.Baseball.Dummy.us">
+        <title lang="en">MLB Baseball</title>
+        <desc lang="en">MLB Baseball</desc>
     </programme>
-    <programme start="20260909010000 +0000" stop="20260909020000 +0000" channel="NBA.Basketball.Dummy.us">
-        <title lang="en">NBA Basketball</title>
-        <desc lang="en">NBA Basketball</desc>
+    <programme start="20260913010000 +0000" stop="20260913020000 +0000" channel="MLB.Baseball.Dummy.us">
+        <title lang="en">MLB Baseball</title>
+        <desc lang="en">MLB Baseball</desc>
     </programme>
-    <programme start="20260909020000 +0000" stop="20260909030000 +0000" channel="NBA.Basketball.Dummy.us">
-        <title lang="en">NBA Basketball</title>
-        <desc lang="en">NBA Basketball</desc>
+    <programme start="20260913020000 +0000" stop="20260913030000 +0000" channel="MLB.Baseball.Dummy.us">
+        <title lang="en">MLB Baseball</title>
+        <desc lang="en">MLB Baseball</desc>
     </programme>
-    <programme start="20260909030000 +0000" stop="20260909040000 +0000" channel="NBA.Basketball.Dummy.us">
-        <title lang="en">NBA Basketball</title>
-        <desc lang="en">NBA Basketball</desc>
+    <programme start="20260913030000 +0000" stop="20260913040000 +0000" channel="MLB.Baseball.Dummy.us">
+        <title lang="en">MLB Baseball</title>
+        <desc lang="en">MLB Baseball</desc>
     </programme>
-    <programme start="20260909040000 +0000" stop="20260909050000 +0000" channel="NBA.Basketball.Dummy.us">
-        <title lang="en">NBA Basketball</title>
-        <desc lang="en">NBA Basketball</desc>
+    <programme start="20260913040000 +0000" stop="20260913050000 +0000" channel="MLB.Baseball.Dummy.us">
+        <title lang="en">MLB Baseball</title>
+        <desc lang="en">MLB Baseball</desc>
     </programme>
-    <programme start="20260909050000 +0000" stop="20260909060000 +0000" channel="NBA.Basketball.Dummy.us">
-        <title lang="en">NBA Basketball</title>
-        <desc lang="en">NBA Basketball</desc>
+    <programme start="20260913050000 +0000" stop="20260913060000 +0000" channel="MLB.Baseball.Dummy.us">
+        <title lang="en">MLB Baseball</title>
+        <desc lang="en">MLB Baseball</desc>
     </programme>
-    <programme start="20260909060000 +0000" stop="20260909070000 +0000" channel="NBA.Basketball.Dummy.us">
-        <title lang="en">NBA Basketball</title>
-        <desc lang="en">NBA Basketball</desc>
+    <programme start="20260913060000 +0000" stop="20260913070000 +0000" channel="MLB.Baseball.Dummy.us">
+        <title lang="en">MLB Baseball</title>
+        <desc lang="en">MLB Baseball</desc>
     </programme>
-    <programme start="20260909070000 +0000" stop="20260909080000 +0000" channel="NBA.Basketball.Dummy.us">
-        <title lang="en">NBA Basketball</title>
-        <desc lang="en">NBA Basketball</desc>
+    <programme start="20260913070000 +0000" stop="20260913080000 +0000" channel="MLB.Baseball.Dummy.us">
+        <title lang="en">MLB Baseball</title>
+        <desc lang="en">MLB Baseball</desc>
     </programme>
-    <programme start="20260909080000 +0000" stop="20260909090000 +0000" channel="NBA.Basketball.Dummy.us">
-        <title lang="en">NBA Basketball</title>
-        <desc lang="en">NBA Basketball</desc>
+    <programme start="20260913080000 +0000" stop="20260913090000 +0000" channel="MLB.Baseball.Dummy.us">
+        <title lang="en">MLB Baseball</title>
+        <desc lang="en">MLB Baseball</desc>
     </programme>
-    <programme start="20260909090000 +0000" stop="20260909100000 +0000" channel="NBA.Basketball.Dummy.us">
-        <title lang="en">NBA Basketball</title>
-        <desc lang="en">NBA Basketball</desc>
+    <programme start="20260913090000 +0000" stop="20260913100000 +0000" channel="MLB.Baseball.Dummy.us">
+        <title lang="en">MLB Baseball</title>
+        <desc lang="en">MLB Baseball</desc>
     </programme>
-    <programme start="20260909100000 +0000" stop="20260909110000 +0000" channel="NBA.Basketball.Dummy.us">
-        <title lang="en">NBA Basketball</title>
-        <desc lang="en">NBA Basketball</desc>
+    <programme start="20260913100000 +0000" stop="20260913110000 +0000" channel="MLB.Baseball.Dummy.us">
+        <title lang="en">MLB Baseball</title>
+        <desc lang="en">MLB Baseball</desc>
     </programme>
-    <programme start="20260909110000 +0000" stop="20260909120000 +0000" channel="NBA.Basketball.Dummy.us">
-        <title lang="en">NBA Basketball</title>
-        <desc lang="en">NBA Basketball</desc>
+    <programme start="20260913110000 +0000" stop="20260913120000 +0000" channel="MLB.Baseball.Dummy.us">
+        <title lang="en">MLB Baseball</title>
+        <desc lang="en">MLB Baseball</desc>
     </programme>
-    <programme start="20260909120000 +0000" stop="20260909130000 +0000" channel="NBA.Basketball.Dummy.us">
-        <title lang="en">NBA Basketball</title>
-        <desc lang="en">NBA Basketball</desc>
+    <programme start="20260913120000 +0000" stop="20260913130000 +0000" channel="MLB.Baseball.Dummy.us">
+        <title lang="en">MLB Baseball</title>
+        <desc lang="en">MLB Baseball</desc>
     </programme>
-    <programme start="20260909130000 +0000" stop="20260909140000 +0000" channel="NBA.Basketball.Dummy.us">
-        <title lang="en">NBA Basketball</title>
-        <desc lang="en">NBA Basketball</desc>
+    <programme start="20260913130000 +0000" stop="20260913140000 +0000" channel="MLB.Baseball.Dummy.us">
+        <title lang="en">MLB Baseball</title>
+        <desc lang="en">MLB Baseball</desc>
     </programme>
-    <programme start="20260909140000 +0000" stop="20260909150000 +0000" channel="NBA.Basketball.Dummy.us">
-        <title lang="en">NBA Basketball</title>
-        <desc lang="en">NBA Basketball</desc>
+    <programme start="20260913140000 +0000" stop="20260913150000 +0000" channel="MLB.Baseball.Dummy.us">
+        <title lang="en">MLB Baseball</title>
+        <desc lang="en">MLB Baseball</desc>
     </programme>
-    <programme start="20260909150000 +0000" stop="20260909160000 +0000" channel="NBA.Basketball.Dummy.us">
-        <title lang="en">NBA Basketball</title>
-        <desc lang="en">NBA Basketball</desc>
+    <programme start="20260913150000 +0000" stop="20260913160000 +0000" channel="MLB.Baseball.Dummy.us">
+        <title lang="en">MLB Baseball</title>
+        <desc lang="en">MLB Baseball</desc>
     </programme>
-    <programme start="20260909160000 +0000" stop="20260909170000 +0000" channel="NBA.Basketball.Dummy.us">
-        <title lang="en">NBA Basketball</title>
-        <desc lang="en">NBA Basketball</desc>
+    <programme start="20260913160000 +0000" stop="20260913170000 +0000" channel="MLB.Baseball.Dummy.us">
+        <title lang="en">MLB Baseball</title>
+        <desc lang="en">MLB Baseball</desc>
     </programme>
-    <programme start="20260909170000 +0000" stop="20260909180000 +0000" channel="NBA.Basketball.Dummy.us">
-        <title lang="en">NBA Basketball</title>
-        <desc lang="en">NBA Basketball</desc>
+    <programme start="20260913170000 +0000" stop="20260913180000 +0000" channel="MLB.Baseball.Dummy.us">
+        <title lang="en">MLB Baseball</title>
+        <desc lang="en">MLB Baseball</desc>
     </programme>
-    <programme start="20260909180000 +0000" stop="20260909190000 +0000" channel="NBA.Basketball.Dummy.us">
-        <title lang="en">NBA Basketball</title>
-        <desc lang="en">NBA Basketball</desc>
+    <programme start="20260913180000 +0000" stop="20260913190000 +0000" channel="MLB.Baseball.Dummy.us">
+        <title lang="en">MLB Baseball</title>
+        <desc lang="en">MLB Baseball</desc>
     </programme>
-    <programme start="20260909190000 +0000" stop="20260909200000 +0000" channel="NBA.Basketball.Dummy.us">
-        <title lang="en">NBA Basketball</title>
-        <desc lang="en">NBA Basketball</desc>
+    <programme start="20260913190000 +0000" stop="20260913200000 +0000" channel="MLB.Baseball.Dummy.us">
+        <title lang="en">MLB Baseball</title>
+        <desc lang="en">MLB Baseball</desc>
     </programme>
-    <programme start="20260909200000 +0000" stop="20260909210000 +0000" channel="NBA.Basketball.Dummy.us">
-        <title lang="en">NBA Basketball</title>
-        <desc lang="en">NBA Basketball</desc>
+    <programme start="20260913200000 +0000" stop="20260913210000 +0000" channel="MLB.Baseball.Dummy.us">
+        <title lang="en">MLB Baseball</title>
+        <desc lang="en">MLB Baseball</desc>
     </programme>
-    <programme start="20260909210000 +0000" stop="20260909220000 +0000" channel="NBA.Basketball.Dummy.us">
-        <title lang="en">NBA Basketball</title>
-        <desc lang="en">NBA Basketball</desc>
+    <programme start="20260913210000 +0000" stop="20260913220000 +0000" channel="MLB.Baseball.Dummy.us">
+        <title lang="en">MLB Baseball</title>
+        <desc lang="en">MLB Baseball</desc>
     </programme>
-    <programme start="20260909220000 +0000" stop="20260909230000 +0000" channel="NBA.Basketball.Dummy.us">
-        <title lang="en">NBA Basketball</title>
-        <desc lang="en">NBA Basketball</desc>
+    <programme start="20260913220000 +0000" stop="20260913230000 +0000" channel="MLB.Baseball.Dummy.us">
+        <title lang="en">MLB Baseball</title>
+        <desc lang="en">MLB Baseball</desc>
     </programme>
-    <programme start="20260909230000 +0000" stop="20260909235900 +0000" channel="NBA.Basketball.Dummy.us">
-        <title lang="en">NBA Basketball</title>
-        <desc lang="en">NBA Basketball</desc>
+    <programme start="20260913230000 +0000" stop="20260913235900 +0000" channel="MLB.Baseball.Dummy.us">
+        <title lang="en">MLB Baseball</title>
+        <desc lang="en">MLB Baseball</desc>
     </programme>
     <programme start="20260910000000 +0000" stop="20260910010000 +0000" channel="NBA.Basketball.Dummy.us">
         <title lang="en">NBA Basketball</title>
@@ -4011,101 +3931,101 @@
         <title lang="en">NBA Basketball</title>
         <desc lang="en">NBA Basketball</desc>
     </programme>
-    <programme start="20260909000000 +0000" stop="20260909010000 +0000" channel="NHL.Hockey.Dummy.us">
-        <title lang="en">NHL Hockey No subtitle</title>
-        <desc lang="en">NHL Hockey</desc>
+    <programme start="20260913000000 +0000" stop="20260913010000 +0000" channel="NBA.Basketball.Dummy.us">
+        <title lang="en">NBA Basketball</title>
+        <desc lang="en">NBA Basketball</desc>
     </programme>
-    <programme start="20260909010000 +0000" stop="20260909020000 +0000" channel="NHL.Hockey.Dummy.us">
-        <title lang="en">NHL Hockey No subtitle</title>
-        <desc lang="en">NHL Hockey</desc>
+    <programme start="20260913010000 +0000" stop="20260913020000 +0000" channel="NBA.Basketball.Dummy.us">
+        <title lang="en">NBA Basketball</title>
+        <desc lang="en">NBA Basketball</desc>
     </programme>
-    <programme start="20260909020000 +0000" stop="20260909030000 +0000" channel="NHL.Hockey.Dummy.us">
-        <title lang="en">NHL Hockey No subtitle</title>
-        <desc lang="en">NHL Hockey</desc>
+    <programme start="20260913020000 +0000" stop="20260913030000 +0000" channel="NBA.Basketball.Dummy.us">
+        <title lang="en">NBA Basketball</title>
+        <desc lang="en">NBA Basketball</desc>
     </programme>
-    <programme start="20260909030000 +0000" stop="20260909040000 +0000" channel="NHL.Hockey.Dummy.us">
-        <title lang="en">NHL Hockey No subtitle</title>
-        <desc lang="en">NHL Hockey</desc>
+    <programme start="20260913030000 +0000" stop="20260913040000 +0000" channel="NBA.Basketball.Dummy.us">
+        <title lang="en">NBA Basketball</title>
+        <desc lang="en">NBA Basketball</desc>
     </programme>
-    <programme start="20260909040000 +0000" stop="20260909050000 +0000" channel="NHL.Hockey.Dummy.us">
-        <title lang="en">NHL Hockey No subtitle</title>
-        <desc lang="en">NHL Hockey</desc>
+    <programme start="20260913040000 +0000" stop="20260913050000 +0000" channel="NBA.Basketball.Dummy.us">
+        <title lang="en">NBA Basketball</title>
+        <desc lang="en">NBA Basketball</desc>
     </programme>
-    <programme start="20260909050000 +0000" stop="20260909060000 +0000" channel="NHL.Hockey.Dummy.us">
-        <title lang="en">NHL Hockey No subtitle</title>
-        <desc lang="en">NHL Hockey</desc>
+    <programme start="20260913050000 +0000" stop="20260913060000 +0000" channel="NBA.Basketball.Dummy.us">
+        <title lang="en">NBA Basketball</title>
+        <desc lang="en">NBA Basketball</desc>
     </programme>
-    <programme start="20260909060000 +0000" stop="20260909070000 +0000" channel="NHL.Hockey.Dummy.us">
-        <title lang="en">NHL Hockey No subtitle</title>
-        <desc lang="en">NHL Hockey</desc>
+    <programme start="20260913060000 +0000" stop="20260913070000 +0000" channel="NBA.Basketball.Dummy.us">
+        <title lang="en">NBA Basketball</title>
+        <desc lang="en">NBA Basketball</desc>
     </programme>
-    <programme start="20260909070000 +0000" stop="20260909080000 +0000" channel="NHL.Hockey.Dummy.us">
-        <title lang="en">NHL Hockey No subtitle</title>
-        <desc lang="en">NHL Hockey</desc>
+    <programme start="20260913070000 +0000" stop="20260913080000 +0000" channel="NBA.Basketball.Dummy.us">
+        <title lang="en">NBA Basketball</title>
+        <desc lang="en">NBA Basketball</desc>
     </programme>
-    <programme start="20260909080000 +0000" stop="20260909090000 +0000" channel="NHL.Hockey.Dummy.us">
-        <title lang="en">NHL Hockey No subtitle</title>
-        <desc lang="en">NHL Hockey</desc>
+    <programme start="20260913080000 +0000" stop="20260913090000 +0000" channel="NBA.Basketball.Dummy.us">
+        <title lang="en">NBA Basketball</title>
+        <desc lang="en">NBA Basketball</desc>
     </programme>
-    <programme start="20260909090000 +0000" stop="20260909100000 +0000" channel="NHL.Hockey.Dummy.us">
-        <title lang="en">NHL Hockey No subtitle</title>
-        <desc lang="en">NHL Hockey</desc>
+    <programme start="20260913090000 +0000" stop="20260913100000 +0000" channel="NBA.Basketball.Dummy.us">
+        <title lang="en">NBA Basketball</title>
+        <desc lang="en">NBA Basketball</desc>
     </programme>
-    <programme start="20260909100000 +0000" stop="20260909110000 +0000" channel="NHL.Hockey.Dummy.us">
-        <title lang="en">NHL Hockey No subtitle</title>
-        <desc lang="en">NHL Hockey</desc>
+    <programme start="20260913100000 +0000" stop="20260913110000 +0000" channel="NBA.Basketball.Dummy.us">
+        <title lang="en">NBA Basketball</title>
+        <desc lang="en">NBA Basketball</desc>
     </programme>
-    <programme start="20260909110000 +0000" stop="20260909120000 +0000" channel="NHL.Hockey.Dummy.us">
-        <title lang="en">NHL Hockey No subtitle</title>
-        <desc lang="en">NHL Hockey</desc>
+    <programme start="20260913110000 +0000" stop="20260913120000 +0000" channel="NBA.Basketball.Dummy.us">
+        <title lang="en">NBA Basketball</title>
+        <desc lang="en">NBA Basketball</desc>
     </programme>
-    <programme start="20260909120000 +0000" stop="20260909130000 +0000" channel="NHL.Hockey.Dummy.us">
-        <title lang="en">NHL Hockey No subtitle</title>
-        <desc lang="en">NHL Hockey</desc>
+    <programme start="20260913120000 +0000" stop="20260913130000 +0000" channel="NBA.Basketball.Dummy.us">
+        <title lang="en">NBA Basketball</title>
+        <desc lang="en">NBA Basketball</desc>
     </programme>
-    <programme start="20260909130000 +0000" stop="20260909140000 +0000" channel="NHL.Hockey.Dummy.us">
-        <title lang="en">NHL Hockey No subtitle</title>
-        <desc lang="en">NHL Hockey</desc>
+    <programme start="20260913130000 +0000" stop="20260913140000 +0000" channel="NBA.Basketball.Dummy.us">
+        <title lang="en">NBA Basketball</title>
+        <desc lang="en">NBA Basketball</desc>
     </programme>
-    <programme start="20260909140000 +0000" stop="20260909150000 +0000" channel="NHL.Hockey.Dummy.us">
-        <title lang="en">NHL Hockey No subtitle</title>
-        <desc lang="en">NHL Hockey</desc>
+    <programme start="20260913140000 +0000" stop="20260913150000 +0000" channel="NBA.Basketball.Dummy.us">
+        <title lang="en">NBA Basketball</title>
+        <desc lang="en">NBA Basketball</desc>
     </programme>
-    <programme start="20260909150000 +0000" stop="20260909160000 +0000" channel="NHL.Hockey.Dummy.us">
-        <title lang="en">NHL Hockey No subtitle</title>
-        <desc lang="en">NHL Hockey</desc>
+    <programme start="20260913150000 +0000" stop="20260913160000 +0000" channel="NBA.Basketball.Dummy.us">
+        <title lang="en">NBA Basketball</title>
+        <desc lang="en">NBA Basketball</desc>
     </programme>
-    <programme start="20260909160000 +0000" stop="20260909170000 +0000" channel="NHL.Hockey.Dummy.us">
-        <title lang="en">NHL Hockey No subtitle</title>
-        <desc lang="en">NHL Hockey</desc>
+    <programme start="20260913160000 +0000" stop="20260913170000 +0000" channel="NBA.Basketball.Dummy.us">
+        <title lang="en">NBA Basketball</title>
+        <desc lang="en">NBA Basketball</desc>
     </programme>
-    <programme start="20260909170000 +0000" stop="20260909180000 +0000" channel="NHL.Hockey.Dummy.us">
-        <title lang="en">NHL Hockey No subtitle</title>
-        <desc lang="en">NHL Hockey</desc>
+    <programme start="20260913170000 +0000" stop="20260913180000 +0000" channel="NBA.Basketball.Dummy.us">
+        <title lang="en">NBA Basketball</title>
+        <desc lang="en">NBA Basketball</desc>
     </programme>
-    <programme start="20260909180000 +0000" stop="20260909190000 +0000" channel="NHL.Hockey.Dummy.us">
-        <title lang="en">NHL Hockey No subtitle</title>
-        <desc lang="en">NHL Hockey</desc>
+    <programme start="20260913180000 +0000" stop="20260913190000 +0000" channel="NBA.Basketball.Dummy.us">
+        <title lang="en">NBA Basketball</title>
+        <desc lang="en">NBA Basketball</desc>
     </programme>
-    <programme start="20260909190000 +0000" stop="20260909200000 +0000" channel="NHL.Hockey.Dummy.us">
-        <title lang="en">NHL Hockey No subtitle</title>
-        <desc lang="en">NHL Hockey</desc>
+    <programme start="20260913190000 +0000" stop="20260913200000 +0000" channel="NBA.Basketball.Dummy.us">
+        <title lang="en">NBA Basketball</title>
+        <desc lang="en">NBA Basketball</desc>
     </programme>
-    <programme start="20260909200000 +0000" stop="20260909210000 +0000" channel="NHL.Hockey.Dummy.us">
-        <title lang="en">NHL Hockey No subtitle</title>
-        <desc lang="en">NHL Hockey</desc>
+    <programme start="20260913200000 +0000" stop="20260913210000 +0000" channel="NBA.Basketball.Dummy.us">
+        <title lang="en">NBA Basketball</title>
+        <desc lang="en">NBA Basketball</desc>
     </programme>
-    <programme start="20260909210000 +0000" stop="20260909220000 +0000" channel="NHL.Hockey.Dummy.us">
-        <title lang="en">NHL Hockey No subtitle</title>
-        <desc lang="en">NHL Hockey</desc>
+    <programme start="20260913210000 +0000" stop="20260913220000 +0000" channel="NBA.Basketball.Dummy.us">
+        <title lang="en">NBA Basketball</title>
+        <desc lang="en">NBA Basketball</desc>
     </programme>
-    <programme start="20260909220000 +0000" stop="20260909230000 +0000" channel="NHL.Hockey.Dummy.us">
-        <title lang="en">NHL Hockey No subtitle</title>
-        <desc lang="en">NHL Hockey</desc>
+    <programme start="20260913220000 +0000" stop="20260913230000 +0000" channel="NBA.Basketball.Dummy.us">
+        <title lang="en">NBA Basketball</title>
+        <desc lang="en">NBA Basketball</desc>
     </programme>
-    <programme start="20260909230000 +0000" stop="20260909235900 +0000" channel="NHL.Hockey.Dummy.us">
-        <title lang="en">NHL Hockey No subtitle</title>
-        <desc lang="en">NHL Hockey</desc>
+    <programme start="20260913230000 +0000" stop="20260913235900 +0000" channel="NBA.Basketball.Dummy.us">
+        <title lang="en">NBA Basketball</title>
+        <desc lang="en">NBA Basketball</desc>
     </programme>
     <programme start="20260910000000 +0000" stop="20260910010000 +0000" channel="NHL.Hockey.Dummy.us">
         <title lang="en">NHL Hockey No subtitle</title>
@@ -4395,101 +4315,101 @@
         <title lang="en">NHL Hockey No subtitle</title>
         <desc lang="en">NHL Hockey</desc>
     </programme>
-    <programme start="20260909000000 +0000" stop="20260909010000 +0000" channel="PPV.EVENTS.Dummy.us">
-        <title lang="en">PPV EVENT</title>
-        <desc lang="en">PPV EVENT</desc>
+    <programme start="20260913000000 +0000" stop="20260913010000 +0000" channel="NHL.Hockey.Dummy.us">
+        <title lang="en">NHL Hockey No subtitle</title>
+        <desc lang="en">NHL Hockey</desc>
     </programme>
-    <programme start="20260909010000 +0000" stop="20260909020000 +0000" channel="PPV.EVENTS.Dummy.us">
-        <title lang="en">PPV EVENT</title>
-        <desc lang="en">PPV EVENT</desc>
+    <programme start="20260913010000 +0000" stop="20260913020000 +0000" channel="NHL.Hockey.Dummy.us">
+        <title lang="en">NHL Hockey No subtitle</title>
+        <desc lang="en">NHL Hockey</desc>
     </programme>
-    <programme start="20260909020000 +0000" stop="20260909030000 +0000" channel="PPV.EVENTS.Dummy.us">
-        <title lang="en">PPV EVENT</title>
-        <desc lang="en">PPV EVENT</desc>
+    <programme start="20260913020000 +0000" stop="20260913030000 +0000" channel="NHL.Hockey.Dummy.us">
+        <title lang="en">NHL Hockey No subtitle</title>
+        <desc lang="en">NHL Hockey</desc>
     </programme>
-    <programme start="20260909030000 +0000" stop="20260909040000 +0000" channel="PPV.EVENTS.Dummy.us">
-        <title lang="en">PPV EVENT</title>
-        <desc lang="en">PPV EVENT</desc>
+    <programme start="20260913030000 +0000" stop="20260913040000 +0000" channel="NHL.Hockey.Dummy.us">
+        <title lang="en">NHL Hockey No subtitle</title>
+        <desc lang="en">NHL Hockey</desc>
     </programme>
-    <programme start="20260909040000 +0000" stop="20260909050000 +0000" channel="PPV.EVENTS.Dummy.us">
-        <title lang="en">PPV EVENT</title>
-        <desc lang="en">PPV EVENT</desc>
+    <programme start="20260913040000 +0000" stop="20260913050000 +0000" channel="NHL.Hockey.Dummy.us">
+        <title lang="en">NHL Hockey No subtitle</title>
+        <desc lang="en">NHL Hockey</desc>
     </programme>
-    <programme start="20260909050000 +0000" stop="20260909060000 +0000" channel="PPV.EVENTS.Dummy.us">
-        <title lang="en">PPV EVENT</title>
-        <desc lang="en">PPV EVENT</desc>
+    <programme start="20260913050000 +0000" stop="20260913060000 +0000" channel="NHL.Hockey.Dummy.us">
+        <title lang="en">NHL Hockey No subtitle</title>
+        <desc lang="en">NHL Hockey</desc>
     </programme>
-    <programme start="20260909060000 +0000" stop="20260909070000 +0000" channel="PPV.EVENTS.Dummy.us">
-        <title lang="en">PPV EVENT</title>
-        <desc lang="en">PPV EVENT</desc>
+    <programme start="20260913060000 +0000" stop="20260913070000 +0000" channel="NHL.Hockey.Dummy.us">
+        <title lang="en">NHL Hockey No subtitle</title>
+        <desc lang="en">NHL Hockey</desc>
     </programme>
-    <programme start="20260909070000 +0000" stop="20260909080000 +0000" channel="PPV.EVENTS.Dummy.us">
-        <title lang="en">PPV EVENT</title>
-        <desc lang="en">PPV EVENT</desc>
+    <programme start="20260913070000 +0000" stop="20260913080000 +0000" channel="NHL.Hockey.Dummy.us">
+        <title lang="en">NHL Hockey No subtitle</title>
+        <desc lang="en">NHL Hockey</desc>
     </programme>
-    <programme start="20260909080000 +0000" stop="20260909090000 +0000" channel="PPV.EVENTS.Dummy.us">
-        <title lang="en">PPV EVENT</title>
-        <desc lang="en">PPV EVENT</desc>
+    <programme start="20260913080000 +0000" stop="20260913090000 +0000" channel="NHL.Hockey.Dummy.us">
+        <title lang="en">NHL Hockey No subtitle</title>
+        <desc lang="en">NHL Hockey</desc>
     </programme>
-    <programme start="20260909090000 +0000" stop="20260909100000 +0000" channel="PPV.EVENTS.Dummy.us">
-        <title lang="en">PPV EVENT</title>
-        <desc lang="en">PPV EVENT</desc>
+    <programme start="20260913090000 +0000" stop="20260913100000 +0000" channel="NHL.Hockey.Dummy.us">
+        <title lang="en">NHL Hockey No subtitle</title>
+        <desc lang="en">NHL Hockey</desc>
     </programme>
-    <programme start="20260909100000 +0000" stop="20260909110000 +0000" channel="PPV.EVENTS.Dummy.us">
-        <title lang="en">PPV EVENT</title>
-        <desc lang="en">PPV EVENT</desc>
+    <programme start="20260913100000 +0000" stop="20260913110000 +0000" channel="NHL.Hockey.Dummy.us">
+        <title lang="en">NHL Hockey No subtitle</title>
+        <desc lang="en">NHL Hockey</desc>
     </programme>
-    <programme start="20260909110000 +0000" stop="20260909120000 +0000" channel="PPV.EVENTS.Dummy.us">
-        <title lang="en">PPV EVENT</title>
-        <desc lang="en">PPV EVENT</desc>
+    <programme start="20260913110000 +0000" stop="20260913120000 +0000" channel="NHL.Hockey.Dummy.us">
+        <title lang="en">NHL Hockey No subtitle</title>
+        <desc lang="en">NHL Hockey</desc>
     </programme>
-    <programme start="20260909120000 +0000" stop="20260909130000 +0000" channel="PPV.EVENTS.Dummy.us">
-        <title lang="en">PPV EVENT</title>
-        <desc lang="en">PPV EVENT</desc>
+    <programme start="20260913120000 +0000" stop="20260913130000 +0000" channel="NHL.Hockey.Dummy.us">
+        <title lang="en">NHL Hockey No subtitle</title>
+        <desc lang="en">NHL Hockey</desc>
     </programme>
-    <programme start="20260909130000 +0000" stop="20260909140000 +0000" channel="PPV.EVENTS.Dummy.us">
-        <title lang="en">PPV EVENT</title>
-        <desc lang="en">PPV EVENT</desc>
+    <programme start="20260913130000 +0000" stop="20260913140000 +0000" channel="NHL.Hockey.Dummy.us">
+        <title lang="en">NHL Hockey No subtitle</title>
+        <desc lang="en">NHL Hockey</desc>
     </programme>
-    <programme start="20260909140000 +0000" stop="20260909150000 +0000" channel="PPV.EVENTS.Dummy.us">
-        <title lang="en">PPV EVENT</title>
-        <desc lang="en">PPV EVENT</desc>
+    <programme start="20260913140000 +0000" stop="20260913150000 +0000" channel="NHL.Hockey.Dummy.us">
+        <title lang="en">NHL Hockey No subtitle</title>
+        <desc lang="en">NHL Hockey</desc>
     </programme>
-    <programme start="20260909150000 +0000" stop="20260909160000 +0000" channel="PPV.EVENTS.Dummy.us">
-        <title lang="en">PPV EVENT</title>
-        <desc lang="en">PPV EVENT</desc>
+    <programme start="20260913150000 +0000" stop="20260913160000 +0000" channel="NHL.Hockey.Dummy.us">
+        <title lang="en">NHL Hockey No subtitle</title>
+        <desc lang="en">NHL Hockey</desc>
     </programme>
-    <programme start="20260909160000 +0000" stop="20260909170000 +0000" channel="PPV.EVENTS.Dummy.us">
-        <title lang="en">PPV EVENT</title>
-        <desc lang="en">PPV EVENT</desc>
+    <programme start="20260913160000 +0000" stop="20260913170000 +0000" channel="NHL.Hockey.Dummy.us">
+        <title lang="en">NHL Hockey No subtitle</title>
+        <desc lang="en">NHL Hockey</desc>
     </programme>
-    <programme start="20260909170000 +0000" stop="20260909180000 +0000" channel="PPV.EVENTS.Dummy.us">
-        <title lang="en">PPV EVENT</title>
-        <desc lang="en">PPV EVENT</desc>
+    <programme start="20260913170000 +0000" stop="20260913180000 +0000" channel="NHL.Hockey.Dummy.us">
+        <title lang="en">NHL Hockey No subtitle</title>
+        <desc lang="en">NHL Hockey</desc>
     </programme>
-    <programme start="20260909180000 +0000" stop="20260909190000 +0000" channel="PPV.EVENTS.Dummy.us">
-        <title lang="en">PPV EVENT</title>
-        <desc lang="en">PPV EVENT</desc>
+    <programme start="20260913180000 +0000" stop="20260913190000 +0000" channel="NHL.Hockey.Dummy.us">
+        <title lang="en">NHL Hockey No subtitle</title>
+        <desc lang="en">NHL Hockey</desc>
     </programme>
-    <programme start="20260909190000 +0000" stop="20260909200000 +0000" channel="PPV.EVENTS.Dummy.us">
-        <title lang="en">PPV EVENT</title>
-        <desc lang="en">PPV EVENT</desc>
+    <programme start="20260913190000 +0000" stop="20260913200000 +0000" channel="NHL.Hockey.Dummy.us">
+        <title lang="en">NHL Hockey No subtitle</title>
+        <desc lang="en">NHL Hockey</desc>
     </programme>
-    <programme start="20260909200000 +0000" stop="20260909210000 +0000" channel="PPV.EVENTS.Dummy.us">
-        <title lang="en">PPV EVENT</title>
-        <desc lang="en">PPV EVENT</desc>
+    <programme start="20260913200000 +0000" stop="20260913210000 +0000" channel="NHL.Hockey.Dummy.us">
+        <title lang="en">NHL Hockey No subtitle</title>
+        <desc lang="en">NHL Hockey</desc>
     </programme>
-    <programme start="20260909210000 +0000" stop="20260909220000 +0000" channel="PPV.EVENTS.Dummy.us">
-        <title lang="en">PPV EVENT</title>
-        <desc lang="en">PPV EVENT</desc>
+    <programme start="20260913210000 +0000" stop="20260913220000 +0000" channel="NHL.Hockey.Dummy.us">
+        <title lang="en">NHL Hockey No subtitle</title>
+        <desc lang="en">NHL Hockey</desc>
     </programme>
-    <programme start="20260909220000 +0000" stop="20260909230000 +0000" channel="PPV.EVENTS.Dummy.us">
-        <title lang="en">PPV EVENT</title>
-        <desc lang="en">PPV EVENT</desc>
+    <programme start="20260913220000 +0000" stop="20260913230000 +0000" channel="NHL.Hockey.Dummy.us">
+        <title lang="en">NHL Hockey No subtitle</title>
+        <desc lang="en">NHL Hockey</desc>
     </programme>
-    <programme start="20260909230000 +0000" stop="20260909235900 +0000" channel="PPV.EVENTS.Dummy.us">
-        <title lang="en">PPV EVENT</title>
-        <desc lang="en">PPV EVENT</desc>
+    <programme start="20260913230000 +0000" stop="20260913235900 +0000" channel="NHL.Hockey.Dummy.us">
+        <title lang="en">NHL Hockey No subtitle</title>
+        <desc lang="en">NHL Hockey</desc>
     </programme>
     <programme start="20260910000000 +0000" stop="20260910010000 +0000" channel="PPV.EVENTS.Dummy.us">
         <title lang="en">PPV EVENT</title>
@@ -4779,101 +4699,101 @@
         <title lang="en">PPV EVENT</title>
         <desc lang="en">PPV EVENT</desc>
     </programme>
-    <programme start="20260909000000 +0000" stop="20260909010000 +0000" channel="NFL.Dummy.us">
-        <title lang="en">NFL</title>
-        <desc lang="en">NFL</desc>
+    <programme start="20260913000000 +0000" stop="20260913010000 +0000" channel="PPV.EVENTS.Dummy.us">
+        <title lang="en">PPV EVENT</title>
+        <desc lang="en">PPV EVENT</desc>
     </programme>
-    <programme start="20260909010000 +0000" stop="20260909020000 +0000" channel="NFL.Dummy.us">
-        <title lang="en">NFL</title>
-        <desc lang="en">NFL</desc>
+    <programme start="20260913010000 +0000" stop="20260913020000 +0000" channel="PPV.EVENTS.Dummy.us">
+        <title lang="en">PPV EVENT</title>
+        <desc lang="en">PPV EVENT</desc>
     </programme>
-    <programme start="20260909020000 +0000" stop="20260909030000 +0000" channel="NFL.Dummy.us">
-        <title lang="en">NFL</title>
-        <desc lang="en">NFL</desc>
+    <programme start="20260913020000 +0000" stop="20260913030000 +0000" channel="PPV.EVENTS.Dummy.us">
+        <title lang="en">PPV EVENT</title>
+        <desc lang="en">PPV EVENT</desc>
     </programme>
-    <programme start="20260909030000 +0000" stop="20260909040000 +0000" channel="NFL.Dummy.us">
-        <title lang="en">NFL</title>
-        <desc lang="en">NFL</desc>
+    <programme start="20260913030000 +0000" stop="20260913040000 +0000" channel="PPV.EVENTS.Dummy.us">
+        <title lang="en">PPV EVENT</title>
+        <desc lang="en">PPV EVENT</desc>
     </programme>
-    <programme start="20260909040000 +0000" stop="20260909050000 +0000" channel="NFL.Dummy.us">
-        <title lang="en">NFL</title>
-        <desc lang="en">NFL</desc>
+    <programme start="20260913040000 +0000" stop="20260913050000 +0000" channel="PPV.EVENTS.Dummy.us">
+        <title lang="en">PPV EVENT</title>
+        <desc lang="en">PPV EVENT</desc>
     </programme>
-    <programme start="20260909050000 +0000" stop="20260909060000 +0000" channel="NFL.Dummy.us">
-        <title lang="en">NFL</title>
-        <desc lang="en">NFL</desc>
+    <programme start="20260913050000 +0000" stop="20260913060000 +0000" channel="PPV.EVENTS.Dummy.us">
+        <title lang="en">PPV EVENT</title>
+        <desc lang="en">PPV EVENT</desc>
     </programme>
-    <programme start="20260909060000 +0000" stop="20260909070000 +0000" channel="NFL.Dummy.us">
-        <title lang="en">NFL</title>
-        <desc lang="en">NFL</desc>
+    <programme start="20260913060000 +0000" stop="20260913070000 +0000" channel="PPV.EVENTS.Dummy.us">
+        <title lang="en">PPV EVENT</title>
+        <desc lang="en">PPV EVENT</desc>
     </programme>
-    <programme start="20260909070000 +0000" stop="20260909080000 +0000" channel="NFL.Dummy.us">
-        <title lang="en">NFL</title>
-        <desc lang="en">NFL</desc>
+    <programme start="20260913070000 +0000" stop="20260913080000 +0000" channel="PPV.EVENTS.Dummy.us">
+        <title lang="en">PPV EVENT</title>
+        <desc lang="en">PPV EVENT</desc>
     </programme>
-    <programme start="20260909080000 +0000" stop="20260909090000 +0000" channel="NFL.Dummy.us">
-        <title lang="en">NFL</title>
-        <desc lang="en">NFL</desc>
+    <programme start="20260913080000 +0000" stop="20260913090000 +0000" channel="PPV.EVENTS.Dummy.us">
+        <title lang="en">PPV EVENT</title>
+        <desc lang="en">PPV EVENT</desc>
     </programme>
-    <programme start="20260909090000 +0000" stop="20260909100000 +0000" channel="NFL.Dummy.us">
-        <title lang="en">NFL</title>
-        <desc lang="en">NFL</desc>
+    <programme start="20260913090000 +0000" stop="20260913100000 +0000" channel="PPV.EVENTS.Dummy.us">
+        <title lang="en">PPV EVENT</title>
+        <desc lang="en">PPV EVENT</desc>
     </programme>
-    <programme start="20260909100000 +0000" stop="20260909110000 +0000" channel="NFL.Dummy.us">
-        <title lang="en">NFL</title>
-        <desc lang="en">NFL</desc>
+    <programme start="20260913100000 +0000" stop="20260913110000 +0000" channel="PPV.EVENTS.Dummy.us">
+        <title lang="en">PPV EVENT</title>
+        <desc lang="en">PPV EVENT</desc>
     </programme>
-    <programme start="20260909110000 +0000" stop="20260909120000 +0000" channel="NFL.Dummy.us">
-        <title lang="en">NFL</title>
-        <desc lang="en">NFL</desc>
+    <programme start="20260913110000 +0000" stop="20260913120000 +0000" channel="PPV.EVENTS.Dummy.us">
+        <title lang="en">PPV EVENT</title>
+        <desc lang="en">PPV EVENT</desc>
     </programme>
-    <programme start="20260909120000 +0000" stop="20260909130000 +0000" channel="NFL.Dummy.us">
-        <title lang="en">NFL</title>
-        <desc lang="en">NFL</desc>
+    <programme start="20260913120000 +0000" stop="20260913130000 +0000" channel="PPV.EVENTS.Dummy.us">
+        <title lang="en">PPV EVENT</title>
+        <desc lang="en">PPV EVENT</desc>
     </programme>
-    <programme start="20260909130000 +0000" stop="20260909140000 +0000" channel="NFL.Dummy.us">
-        <title lang="en">NFL</title>
-        <desc lang="en">NFL</desc>
+    <programme start="20260913130000 +0000" stop="20260913140000 +0000" channel="PPV.EVENTS.Dummy.us">
+        <title lang="en">PPV EVENT</title>
+        <desc lang="en">PPV EVENT</desc>
     </programme>
-    <programme start="20260909140000 +0000" stop="20260909150000 +0000" channel="NFL.Dummy.us">
-        <title lang="en">NFL</title>
-        <desc lang="en">NFL</desc>
+    <programme start="20260913140000 +0000" stop="20260913150000 +0000" channel="PPV.EVENTS.Dummy.us">
+        <title lang="en">PPV EVENT</title>
+        <desc lang="en">PPV EVENT</desc>
     </programme>
-    <programme start="20260909150000 +0000" stop="20260909160000 +0000" channel="NFL.Dummy.us">
-        <title lang="en">NFL</title>
-        <desc lang="en">NFL</desc>
+    <programme start="20260913150000 +0000" stop="20260913160000 +0000" channel="PPV.EVENTS.Dummy.us">
+        <title lang="en">PPV EVENT</title>
+        <desc lang="en">PPV EVENT</desc>
     </programme>
-    <programme start="20260909160000 +0000" stop="20260909170000 +0000" channel="NFL.Dummy.us">
-        <title lang="en">NFL</title>
-        <desc lang="en">NFL</desc>
+    <programme start="20260913160000 +0000" stop="20260913170000 +0000" channel="PPV.EVENTS.Dummy.us">
+        <title lang="en">PPV EVENT</title>
+        <desc lang="en">PPV EVENT</desc>
     </programme>
-    <programme start="20260909170000 +0000" stop="20260909180000 +0000" channel="NFL.Dummy.us">
-        <title lang="en">NFL</title>
-        <desc lang="en">NFL</desc>
+    <programme start="20260913170000 +0000" stop="20260913180000 +0000" channel="PPV.EVENTS.Dummy.us">
+        <title lang="en">PPV EVENT</title>
+        <desc lang="en">PPV EVENT</desc>
     </programme>
-    <programme start="20260909180000 +0000" stop="20260909190000 +0000" channel="NFL.Dummy.us">
-        <title lang="en">NFL</title>
-        <desc lang="en">NFL</desc>
+    <programme start="20260913180000 +0000" stop="20260913190000 +0000" channel="PPV.EVENTS.Dummy.us">
+        <title lang="en">PPV EVENT</title>
+        <desc lang="en">PPV EVENT</desc>
     </programme>
-    <programme start="20260909190000 +0000" stop="20260909200000 +0000" channel="NFL.Dummy.us">
-        <title lang="en">NFL</title>
-        <desc lang="en">NFL</desc>
+    <programme start="20260913190000 +0000" stop="20260913200000 +0000" channel="PPV.EVENTS.Dummy.us">
+        <title lang="en">PPV EVENT</title>
+        <desc lang="en">PPV EVENT</desc>
     </programme>
-    <programme start="20260909200000 +0000" stop="20260909210000 +0000" channel="NFL.Dummy.us">
-        <title lang="en">NFL</title>
-        <desc lang="en">NFL</desc>
+    <programme start="20260913200000 +0000" stop="20260913210000 +0000" channel="PPV.EVENTS.Dummy.us">
+        <title lang="en">PPV EVENT</title>
+        <desc lang="en">PPV EVENT</desc>
     </programme>
-    <programme start="20260909210000 +0000" stop="20260909220000 +0000" channel="NFL.Dummy.us">
-        <title lang="en">NFL</title>
-        <desc lang="en">NFL</desc>
+    <programme start="20260913210000 +0000" stop="20260913220000 +0000" channel="PPV.EVENTS.Dummy.us">
+        <title lang="en">PPV EVENT</title>
+        <desc lang="en">PPV EVENT</desc>
     </programme>
-    <programme start="20260909220000 +0000" stop="20260909230000 +0000" channel="NFL.Dummy.us">
-        <title lang="en">NFL</title>
-        <desc lang="en">NFL</desc>
+    <programme start="20260913220000 +0000" stop="20260913230000 +0000" channel="PPV.EVENTS.Dummy.us">
+        <title lang="en">PPV EVENT</title>
+        <desc lang="en">PPV EVENT</desc>
     </programme>
-    <programme start="20260909230000 +0000" stop="20260909235900 +0000" channel="NFL.Dummy.us">
-        <title lang="en">NFL</title>
-        <desc lang="en">NFL</desc>
+    <programme start="20260913230000 +0000" stop="20260913235900 +0000" channel="PPV.EVENTS.Dummy.us">
+        <title lang="en">PPV EVENT</title>
+        <desc lang="en">PPV EVENT</desc>
     </programme>
     <programme start="20260910000000 +0000" stop="20260910010000 +0000" channel="NFL.Dummy.us">
         <title lang="en">NFL</title>
@@ -5160,6 +5080,102 @@
         <desc lang="en">NFL</desc>
     </programme>
     <programme start="20260912230000 +0000" stop="20260912235900 +0000" channel="NFL.Dummy.us">
+        <title lang="en">NFL</title>
+        <desc lang="en">NFL</desc>
+    </programme>
+    <programme start="20260913000000 +0000" stop="20260913010000 +0000" channel="NFL.Dummy.us">
+        <title lang="en">NFL</title>
+        <desc lang="en">NFL</desc>
+    </programme>
+    <programme start="20260913010000 +0000" stop="20260913020000 +0000" channel="NFL.Dummy.us">
+        <title lang="en">NFL</title>
+        <desc lang="en">NFL</desc>
+    </programme>
+    <programme start="20260913020000 +0000" stop="20260913030000 +0000" channel="NFL.Dummy.us">
+        <title lang="en">NFL</title>
+        <desc lang="en">NFL</desc>
+    </programme>
+    <programme start="20260913030000 +0000" stop="20260913040000 +0000" channel="NFL.Dummy.us">
+        <title lang="en">NFL</title>
+        <desc lang="en">NFL</desc>
+    </programme>
+    <programme start="20260913040000 +0000" stop="20260913050000 +0000" channel="NFL.Dummy.us">
+        <title lang="en">NFL</title>
+        <desc lang="en">NFL</desc>
+    </programme>
+    <programme start="20260913050000 +0000" stop="20260913060000 +0000" channel="NFL.Dummy.us">
+        <title lang="en">NFL</title>
+        <desc lang="en">NFL</desc>
+    </programme>
+    <programme start="20260913060000 +0000" stop="20260913070000 +0000" channel="NFL.Dummy.us">
+        <title lang="en">NFL</title>
+        <desc lang="en">NFL</desc>
+    </programme>
+    <programme start="20260913070000 +0000" stop="20260913080000 +0000" channel="NFL.Dummy.us">
+        <title lang="en">NFL</title>
+        <desc lang="en">NFL</desc>
+    </programme>
+    <programme start="20260913080000 +0000" stop="20260913090000 +0000" channel="NFL.Dummy.us">
+        <title lang="en">NFL</title>
+        <desc lang="en">NFL</desc>
+    </programme>
+    <programme start="20260913090000 +0000" stop="20260913100000 +0000" channel="NFL.Dummy.us">
+        <title lang="en">NFL</title>
+        <desc lang="en">NFL</desc>
+    </programme>
+    <programme start="20260913100000 +0000" stop="20260913110000 +0000" channel="NFL.Dummy.us">
+        <title lang="en">NFL</title>
+        <desc lang="en">NFL</desc>
+    </programme>
+    <programme start="20260913110000 +0000" stop="20260913120000 +0000" channel="NFL.Dummy.us">
+        <title lang="en">NFL</title>
+        <desc lang="en">NFL</desc>
+    </programme>
+    <programme start="20260913120000 +0000" stop="20260913130000 +0000" channel="NFL.Dummy.us">
+        <title lang="en">NFL</title>
+        <desc lang="en">NFL</desc>
+    </programme>
+    <programme start="20260913130000 +0000" stop="20260913140000 +0000" channel="NFL.Dummy.us">
+        <title lang="en">NFL</title>
+        <desc lang="en">NFL</desc>
+    </programme>
+    <programme start="20260913140000 +0000" stop="20260913150000 +0000" channel="NFL.Dummy.us">
+        <title lang="en">NFL</title>
+        <desc lang="en">NFL</desc>
+    </programme>
+    <programme start="20260913150000 +0000" stop="20260913160000 +0000" channel="NFL.Dummy.us">
+        <title lang="en">NFL</title>
+        <desc lang="en">NFL</desc>
+    </programme>
+    <programme start="20260913160000 +0000" stop="20260913170000 +0000" channel="NFL.Dummy.us">
+        <title lang="en">NFL</title>
+        <desc lang="en">NFL</desc>
+    </programme>
+    <programme start="20260913170000 +0000" stop="20260913180000 +0000" channel="NFL.Dummy.us">
+        <title lang="en">NFL</title>
+        <desc lang="en">NFL</desc>
+    </programme>
+    <programme start="20260913180000 +0000" stop="20260913190000 +0000" channel="NFL.Dummy.us">
+        <title lang="en">NFL</title>
+        <desc lang="en">NFL</desc>
+    </programme>
+    <programme start="20260913190000 +0000" stop="20260913200000 +0000" channel="NFL.Dummy.us">
+        <title lang="en">NFL</title>
+        <desc lang="en">NFL</desc>
+    </programme>
+    <programme start="20260913200000 +0000" stop="20260913210000 +0000" channel="NFL.Dummy.us">
+        <title lang="en">NFL</title>
+        <desc lang="en">NFL</desc>
+    </programme>
+    <programme start="20260913210000 +0000" stop="20260913220000 +0000" channel="NFL.Dummy.us">
+        <title lang="en">NFL</title>
+        <desc lang="en">NFL</desc>
+    </programme>
+    <programme start="20260913220000 +0000" stop="20260913230000 +0000" channel="NFL.Dummy.us">
+        <title lang="en">NFL</title>
+        <desc lang="en">NFL</desc>
+    </programme>
+    <programme start="20260913230000 +0000" stop="20260913235900 +0000" channel="NFL.Dummy.us">
         <title lang="en">NFL</title>
         <desc lang="en">NFL</desc>
     </programme>
